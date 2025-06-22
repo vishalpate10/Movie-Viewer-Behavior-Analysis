@@ -11,12 +11,12 @@ with open("catboost_model.pkl", "rb") as file:
 # Streamlit page config
 st.set_page_config(page_title="🎬 Movie Like Predictor", layout="centered")
 
-# CSS for background and style
+# Custom CSS with your selected background image
 st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://images.unsplash.com/photo-1566429580693-195fc7383476?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80");
+        background-image: url("https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -47,7 +47,7 @@ st.markdown(
 st.markdown('<img src="https://cdn-icons-png.flaticon.com/512/744/744922.png" class="logo">', unsafe_allow_html=True)
 st.markdown("<h1 style='text-align: center;'>🎬 Movie Like Predictor</h1>", unsafe_allow_html=True)
 
-# Label mappings (used during training)
+# Label mappings used during training
 label_maps = {
     'watch_time_slot': {'Morning': 0, 'Afternoon': 1, 'Evening': 2, 'Night': 3},
     'gender': {'Male': 0, 'Female': 1},
@@ -61,7 +61,7 @@ label_maps = {
     'supports_hd': {'No': 0, 'Yes': 1}
 }
 
-# Form input block
+# Form for input
 with st.container():
     st.markdown('<div class="block-container">', unsafe_allow_html=True)
 
@@ -92,7 +92,7 @@ with st.container():
 
     st.markdown("</div>", unsafe_allow_html=True)
 
-# Prediction logic
+# Prediction
 if submit:
     input_data = pd.DataFrame([[
         watch_date,
