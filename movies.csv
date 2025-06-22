@@ -1,0 +1,2001 @@
+movie_id,title,genre,release_year,duration_mins,language,age_rating,avg_rating
+1,Government,Drama,1981,154,Spanish,PG,1.89
+2,Glass show,Drama,2023,154,German,G,3.36
+3,Themselves,Action,1981,71,Hindi,PG,3.02
+4,Treat,Action,2015,85,Japanese,NC-17,2.68
+5,Including all,Documentary,2017,95,Korean,G,4.04
+6,Effort agency,Comedy,2024,114,Spanish,PG-13,1.62
+7,Will majority,Romance,1986,71,French,G,2.44
+8,Both push believe,Romance,2018,93,Korean,G,3.92
+9,Pass open place,Drama,2004,70,German,PG-13,4.32
+10,Detail rock sport,Romance,2016,84,Japanese,G,1.18
+11,No hospital,Horror,1998,70,Korean,PG,4.47
+12,Safe go,Thriller,1997,118,Japanese,PG-13,1.65
+13,Provide away success should,Romance,1993,145,Spanish,G,3.44
+14,Control,Comedy,2014,153,Hindi,PG,2.85
+15,Exist economic claim south,Sci-Fi,2020,148,German,PG,3.74
+16,Institution speech quite,Action,1994,165,English,PG-13,2.6
+17,Guy similar way,Drama,1993,176,German,PG-13,1.85
+18,City deep positive,Documentary,2005,173,Japanese,R,1.57
+19,Team drop,Comedy,1995,155,German,NC-17,2.05
+20,Drop,Thriller,2017,111,Spanish,PG,4.99
+21,Country customer,Comedy,2012,123,English,G,4.44
+22,Age mother site,Comedy,2020,80,Korean,R,3.39
+23,Media it red,Thriller,2004,136,French,NC-17,2.01
+24,Ball like yourself,Action,2023,152,English,NC-17,4.0
+25,Medical rise,Romance,1987,97,French,PG,2.81
+26,Forget nothing,Sci-Fi,2012,157,Hindi,NC-17,4.65
+27,Interesting specific there,Sci-Fi,2020,124,German,PG,1.61
+28,Floor,Comedy,2014,159,German,G,3.4
+29,Support anything consumer,Documentary,1981,74,Spanish,PG-13,1.96
+30,Attention action,Horror,2016,70,English,R,4.26
+31,Learn forward affect,Comedy,1988,144,French,NC-17,1.66
+32,Security his result,Thriller,1993,178,German,PG,3.85
+33,Act yet,Thriller,2022,143,Spanish,R,4.6
+34,Something bring particularly,Documentary,1987,91,Hindi,G,2.35
+35,Real level manage,Horror,2017,88,English,G,3.83
+36,Recently health general,Action,1994,68,English,PG-13,1.28
+37,Spend data,Horror,1997,145,French,PG,3.16
+38,Idea fact teacher,Documentary,1995,160,French,R,1.76
+39,Game along against,Drama,2022,115,Spanish,R,2.64
+40,Sell morning so,Action,2023,143,Japanese,G,1.24
+41,Culture degree,Romance,1986,91,Hindi,PG,3.15
+42,Four young ask,Comedy,2007,83,Spanish,R,2.0
+43,Power might,Drama,2008,163,Korean,NC-17,1.39
+44,Actually research,Action,1985,178,Korean,PG,1.67
+45,Middle,Documentary,2010,87,Korean,R,4.61
+46,Order,Comedy,2004,60,French,PG-13,4.71
+47,Likely president,Documentary,1998,114,Japanese,NC-17,3.65
+48,Lead end,Documentary,1989,84,Spanish,PG,4.87
+49,Economic training candidate,Action,2000,67,English,NC-17,2.91
+50,Fact,Comedy,1983,125,English,PG,1.27
+51,However hundred high,Drama,2023,170,Hindi,R,1.48
+52,Society draw,Horror,2017,136,English,NC-17,1.33
+53,Every benefit,Romance,1996,86,Japanese,PG-13,1.95
+54,Eye former reach,Thriller,1988,145,Japanese,PG-13,2.83
+55,Watch fly,Drama,1980,118,German,NC-17,4.98
+56,Next mission,Drama,2014,87,German,PG-13,1.53
+57,Strategy first today,Romance,1984,172,Hindi,PG-13,2.14
+58,According four suffer,Documentary,2014,150,Spanish,NC-17,4.94
+59,Gas,Action,2022,164,German,PG-13,4.73
+60,Travel fund no,Drama,1988,93,English,G,3.97
+61,Probably break exist,Comedy,1997,96,German,PG,3.87
+62,Art indeed resource,Horror,2023,141,Korean,PG-13,3.02
+63,Space project by,Sci-Fi,1983,71,Japanese,R,4.32
+64,Later head,Action,1980,102,Korean,PG,3.55
+65,Step range director,Sci-Fi,1990,154,French,NC-17,3.82
+66,Suffer son chair,Action,1987,69,Japanese,PG,3.18
+67,Cold door,Romance,2017,130,Hindi,R,1.51
+68,Become reflect security,Sci-Fi,2003,175,Korean,G,4.6
+69,Many PM,Horror,2023,91,Japanese,G,2.41
+70,Organization amount another,Thriller,2019,155,Hindi,PG,4.46
+71,Maintain public pressure,Comedy,2006,63,Hindi,PG-13,4.13
+72,Drive than,Thriller,2022,170,Japanese,PG,2.07
+73,Believe,Drama,2004,171,English,R,1.89
+74,Skin difficult,Documentary,2002,99,Korean,PG,1.89
+75,Sign benefit,Horror,2005,102,Spanish,G,4.87
+76,Down night relationship,Sci-Fi,2002,142,German,R,3.72
+77,Laugh the,Romance,1981,74,Spanish,PG,3.32
+78,Person middle responsibility,Sci-Fi,1982,73,German,R,2.38
+79,Something same soon,Romance,2007,137,German,G,2.54
+80,Trip fear street prevent,Horror,1996,65,Japanese,R,1.01
+81,Minute eat floor,Horror,2003,115,English,PG-13,3.49
+82,Minute deep half,Drama,1999,124,Spanish,R,2.3
+83,Page,Sci-Fi,2015,76,Hindi,R,3.66
+84,Follow project customer difference,Thriller,2023,155,Hindi,NC-17,3.28
+85,Over outside,Thriller,2015,166,English,PG-13,2.15
+86,Option,Thriller,2017,137,Japanese,PG-13,2.86
+87,Budget allow,Documentary,2023,87,German,R,4.17
+88,Over will husband,Comedy,2022,70,Spanish,NC-17,3.66
+89,Particular project,Romance,1985,164,Korean,PG,3.69
+90,Certainly technology share,Horror,1992,78,English,G,1.98
+91,State practice report,Documentary,2019,168,Korean,G,2.82
+92,Natural animal,Horror,2024,109,French,R,1.98
+93,Strategy Mrs those her,Action,1986,159,French,PG,1.7
+94,Should born town,Documentary,1983,131,Hindi,G,2.83
+95,Speech,Documentary,2022,127,German,NC-17,2.27
+96,Air college security,Documentary,2019,164,Japanese,NC-17,2.71
+97,Crime large,Documentary,1990,155,Korean,R,2.8
+98,Chance campaign,Horror,2020,95,Korean,NC-17,2.94
+99,Activity rather,Horror,1997,116,English,PG-13,1.94
+100,Treatment baby wonder,Romance,2000,174,German,G,1.55
+101,Like picture,Horror,2004,148,Hindi,PG,1.26
+102,Compare help each,Thriller,2001,129,French,R,1.25
+103,Right apply under girl,Thriller,2004,175,Korean,NC-17,4.78
+104,Deep back,Action,2016,108,French,G,4.77
+105,Any add cup,Sci-Fi,2004,169,Korean,R,3.15
+106,Course who white,Horror,2011,88,Spanish,R,2.94
+107,Much available,Thriller,2001,145,Japanese,R,3.9
+108,Across reach,Documentary,1988,139,German,G,4.63
+109,Position where level,Action,1985,142,French,PG,4.47
+110,Hold mouth enter,Comedy,1983,93,French,PG-13,1.85
+111,Certainly operation,Romance,2001,157,French,PG-13,4.01
+112,Better score cover,Thriller,1996,166,English,R,1.08
+113,Cost plant ask,Action,2002,88,Japanese,G,4.12
+114,Property research avoid,Action,1981,91,Hindi,G,3.49
+115,Store street,Horror,1988,120,Japanese,G,3.26
+116,Seek success,Horror,2009,149,Spanish,PG-13,1.67
+117,Finally paper,Drama,1990,99,English,NC-17,1.1
+118,Now left,Sci-Fi,2016,146,French,R,4.77
+119,Himself make bring,Horror,1984,135,Japanese,PG,1.41
+120,Successful blue,Sci-Fi,2023,136,Korean,G,4.18
+121,Down soldier stuff,Action,2002,128,French,PG-13,1.28
+122,Onto watch hope,Romance,1980,168,French,R,1.42
+123,Arm worry,Romance,2020,174,Korean,R,3.83
+124,Idea there,Thriller,1991,153,German,PG-13,3.46
+125,Brother forget possible,Documentary,2009,115,Korean,NC-17,2.07
+126,Professor couple scientist space,Horror,1985,95,French,PG,4.0
+127,Series large seek,Thriller,2001,63,French,PG-13,1.73
+128,Plant,Horror,2002,162,Spanish,PG-13,2.12
+129,Rather student Mr,Sci-Fi,2015,61,German,PG,1.34
+130,Style identify feeling,Thriller,2011,131,Korean,PG,3.76
+131,Production forget study light,Documentary,2008,161,English,G,2.18
+132,Level someone,Thriller,2024,91,Spanish,NC-17,2.48
+133,Would,Romance,2007,155,German,PG-13,2.41
+134,Him middle dog,Documentary,1997,99,Spanish,PG,1.48
+135,Which bring,Horror,2000,75,Japanese,NC-17,4.8
+136,Open white,Comedy,1992,87,Japanese,R,2.11
+137,Line stay,Sci-Fi,1986,166,Hindi,PG-13,1.91
+138,Read leave,Comedy,1999,61,Japanese,NC-17,1.51
+139,Marriage they,Action,1983,130,Spanish,PG,3.55
+140,Get effect,Documentary,1986,171,English,NC-17,2.14
+141,Happen dog successful,Documentary,2008,103,Hindi,G,2.01
+142,Effort for,Documentary,1987,165,English,R,2.97
+143,Anyone knowledge human,Action,1989,79,Korean,NC-17,4.8
+144,White public wind,Drama,1995,75,German,R,3.43
+145,Occur,Horror,2013,108,French,R,2.19
+146,Affect interest,Thriller,1999,132,German,G,3.44
+147,Food know marriage,Drama,1993,140,Hindi,PG-13,3.64
+148,Least enter another,Comedy,1995,82,German,G,1.63
+149,Good why,Thriller,2008,148,German,R,2.17
+150,Result word ten,Horror,1998,150,Spanish,R,1.28
+151,Condition down,Horror,1996,160,Korean,NC-17,3.64
+152,Finally century,Horror,2007,74,German,PG,3.59
+153,Short property former,Sci-Fi,1989,69,English,PG,4.17
+154,East style,Sci-Fi,2008,75,French,PG-13,3.8
+155,Offer media,Sci-Fi,2012,129,French,R,1.32
+156,Admit town television,Action,2007,154,Spanish,NC-17,2.0
+157,Pressure partner,Drama,1994,146,Korean,NC-17,3.35
+158,Share last program exist,Action,2023,165,Spanish,NC-17,1.16
+159,Health,Comedy,2010,126,Japanese,R,4.66
+160,Music book your,Comedy,2017,115,Japanese,R,4.88
+161,Could people difficult,Documentary,2002,112,Spanish,PG-13,3.68
+162,Wide commercial,Comedy,2001,112,Japanese,R,2.15
+163,Should law,Thriller,2015,64,French,G,2.26
+164,Then drop,Romance,1987,158,French,NC-17,4.3
+165,Former,Action,2022,171,German,R,2.65
+166,Charge owner kind,Horror,2013,106,German,R,3.5
+167,Artist finally,Action,1993,94,German,PG,4.71
+168,Miss,Documentary,2024,122,English,G,4.89
+169,Should television,Horror,1990,99,German,G,3.21
+170,Call,Drama,1994,167,English,R,4.79
+171,Appear cell,Comedy,2011,179,Japanese,PG-13,3.04
+172,Step official,Sci-Fi,2006,166,French,R,1.97
+173,Exactly point green,Comedy,2004,84,German,NC-17,3.99
+174,Thus out,Comedy,1984,95,Korean,R,2.36
+175,Along section,Sci-Fi,1980,96,Japanese,PG-13,4.35
+176,North instead number,Documentary,1989,117,German,R,2.38
+177,Anything course,Thriller,2009,179,Spanish,PG,4.92
+178,Too sound option,Horror,2016,109,Hindi,R,1.17
+179,Item assume black,Documentary,2004,109,Japanese,PG,2.98
+180,Different not,Action,1988,124,German,PG-13,4.48
+181,Political blood,Documentary,1986,127,French,G,3.89
+182,Significant so,Thriller,2021,79,English,R,4.13
+183,Enjoy smile serve education,Sci-Fi,2001,139,Japanese,R,3.6
+184,Bring the stage moment,Romance,2023,169,German,R,4.82
+185,Risk available house,Documentary,2014,64,German,G,1.94
+186,Open drive,Sci-Fi,1994,155,English,R,4.91
+187,Air stand off,Drama,2008,81,Japanese,PG-13,4.61
+188,Eight task peace ground,Action,2000,161,English,PG-13,2.43
+189,Method,Thriller,1989,91,German,R,3.26
+190,Eat the culture,Comedy,1990,82,English,NC-17,4.48
+191,Wall impact reason,Horror,2011,176,German,PG,1.93
+192,Poor relationship check,Sci-Fi,2009,92,Japanese,G,4.6
+193,Summer,Documentary,1998,146,German,PG,1.3
+194,Explain,Romance,2017,98,Japanese,R,3.76
+195,Form process,Documentary,1999,85,French,R,1.43
+196,Picture appear,Thriller,2016,105,German,PG-13,4.97
+197,Effect trade rate ground,Sci-Fi,1981,166,Japanese,R,2.1
+198,Sing of,Action,2018,155,French,PG-13,4.1
+199,Establish court beautiful,Horror,2018,162,Spanish,PG,3.55
+200,Body entire,Sci-Fi,2023,156,Japanese,PG,3.51
+201,Offer stay head travel,Action,1999,160,French,G,3.32
+202,Peace least,Comedy,1985,176,Spanish,PG-13,3.99
+203,Suffer blood number,Comedy,1992,76,Korean,NC-17,4.51
+204,Shake interest,Romance,2013,124,Spanish,PG,2.03
+205,Make give stand,Documentary,1998,155,Korean,PG-13,4.22
+206,Modern step,Documentary,1984,78,Korean,PG,4.44
+207,Dog Democrat prepare,Thriller,2015,106,English,R,1.06
+208,Economic across,Drama,2009,107,Japanese,PG-13,3.34
+209,Hand account member,Romance,1986,146,Hindi,R,1.1
+210,Play group,Romance,2019,88,Japanese,G,3.54
+211,Require language second,Documentary,2024,98,Japanese,R,1.47
+212,Pressure would great administration,Action,1982,98,French,G,1.39
+213,Majority prepare her bag,Comedy,2004,118,Spanish,NC-17,2.68
+214,Color prevent,Comedy,2006,143,English,R,3.46
+215,Candidate,Sci-Fi,1982,148,Spanish,PG,2.77
+216,Sister where their,Horror,2003,72,Japanese,PG-13,3.18
+217,Baby close record,Romance,1983,110,Spanish,PG,4.87
+218,Piece expect around paper,Documentary,1985,144,Hindi,NC-17,4.88
+219,Itself song generation,Action,2001,91,Hindi,NC-17,1.82
+220,Very people,Horror,2017,87,Korean,PG,2.31
+221,Plan church,Comedy,2018,60,Spanish,PG,4.95
+222,Know evidence,Sci-Fi,1991,74,Japanese,G,1.53
+223,Join drive close national,Romance,1995,135,Spanish,G,1.7
+224,Degree,Action,1988,154,French,NC-17,1.45
+225,Wait little,Drama,2010,117,Korean,PG-13,3.05
+226,This day,Drama,2008,124,Hindi,NC-17,1.17
+227,Nearly best brother,Sci-Fi,2009,142,English,G,4.99
+228,Institution rich exist,Thriller,2007,147,English,R,3.85
+229,Exist magazine grow,Documentary,1984,175,English,PG-13,3.43
+230,Weight garden,Drama,1988,95,German,NC-17,3.19
+231,Ok gas,Romance,2004,136,German,PG-13,2.81
+232,Arm discuss few,Thriller,1986,161,Japanese,G,4.41
+233,Suddenly set white,Horror,2007,117,Hindi,R,2.36
+234,However as,Documentary,2005,113,Japanese,G,2.25
+235,Leader everybody method,Romance,2022,92,Spanish,PG,3.75
+236,Really spend,Documentary,1984,71,Korean,G,1.37
+237,Some,Drama,2003,163,Hindi,NC-17,1.24
+238,Full,Romance,2022,75,French,PG-13,4.49
+239,Firm apply happen,Thriller,1983,96,German,PG-13,2.41
+240,Later term,Horror,1989,144,French,PG,4.39
+241,Now bank,Romance,2015,107,English,PG-13,3.3
+242,Soldier,Thriller,2015,158,Korean,NC-17,3.45
+243,Feel approach,Action,2018,178,Japanese,PG-13,1.12
+244,Hand certainly enjoy,Sci-Fi,2024,157,Spanish,PG-13,2.4
+245,Skill color democratic,Comedy,1989,132,Japanese,R,1.28
+246,Method method effect bed,Action,1985,155,German,PG,2.5
+247,Particularly ok,Documentary,2001,80,Spanish,PG-13,3.89
+248,Think company example,Drama,1983,79,Hindi,NC-17,1.2
+249,Represent goal,Drama,1997,116,Japanese,R,2.94
+250,Produce baby stage,Documentary,2006,94,Hindi,NC-17,1.46
+251,Race political no it,Thriller,1987,96,Japanese,NC-17,2.95
+252,Democrat all,Sci-Fi,1982,88,French,NC-17,1.22
+253,Democratic establish police,Horror,1999,87,Korean,PG,4.06
+254,Perhaps serious window,Sci-Fi,2000,75,English,R,3.99
+255,Quite,Comedy,1988,108,German,PG,3.0
+256,Entire road,Romance,1984,110,Korean,G,2.74
+257,Natural beyond,Documentary,1984,170,Spanish,NC-17,2.72
+258,Ok kitchen question,Thriller,2020,113,Spanish,G,2.62
+259,Manager ahead half,Romance,1990,162,German,R,4.33
+260,Body prevent,Romance,1985,115,Korean,G,1.97
+261,Evidence floor standard,Thriller,2013,70,French,PG-13,3.98
+262,Attack,Horror,2001,159,Hindi,G,3.04
+263,Able mission end,Drama,2013,125,Hindi,PG-13,2.4
+264,Try everyone place,Comedy,1995,73,Hindi,PG-13,1.79
+265,Five address first,Comedy,2021,69,Hindi,R,2.86
+266,Care,Documentary,2023,178,German,NC-17,2.29
+267,Arm,Romance,1989,116,English,R,2.77
+268,Role resource available trade,Sci-Fi,1997,135,English,PG-13,3.03
+269,Ahead break,Sci-Fi,2009,117,English,G,2.47
+270,Strategy as hard,Sci-Fi,1984,142,Korean,G,3.46
+271,National shake face,Thriller,2009,134,German,G,2.8
+272,Officer agent plan,Horror,2000,137,French,NC-17,1.6
+273,Get on record,Action,2008,73,Korean,PG-13,4.93
+274,Safe black,Drama,2012,142,Hindi,G,1.99
+275,Front life lawyer,Documentary,2008,127,German,NC-17,1.63
+276,End animal score,Romance,1998,109,French,PG-13,3.72
+277,Probably value phone necessary,Action,2020,142,Spanish,G,2.32
+278,Artist enough,Thriller,1998,92,Japanese,NC-17,4.49
+279,Stuff free,Romance,1985,134,Japanese,PG,4.67
+280,As near,Sci-Fi,2021,149,Japanese,R,1.52
+281,Turn behavior,Drama,1999,131,French,PG-13,4.25
+282,Send low,Drama,2021,145,French,NC-17,2.45
+283,Decision,Romance,1999,83,Hindi,PG-13,4.79
+284,Artist ground still,Documentary,1992,88,Hindi,PG,1.31
+285,Camera claim player economy,Drama,2012,158,German,NC-17,1.15
+286,Card bar look,Romance,2019,76,German,R,1.62
+287,Economic network TV,Comedy,2024,158,German,PG,3.88
+288,Kid audience also,Action,2006,106,Japanese,PG,4.88
+289,Me soon,Sci-Fi,2008,89,German,PG,2.24
+290,Explain she,Documentary,1992,107,Japanese,NC-17,4.94
+291,Key floor,Documentary,1998,159,French,NC-17,3.11
+292,What join customer,Comedy,1992,162,German,PG,4.49
+293,Little western,Action,2021,121,Korean,PG-13,3.22
+294,At different soon,Drama,2013,168,English,PG-13,1.34
+295,Level manage,Comedy,1997,117,German,PG,4.32
+296,Carry top,Drama,1994,164,French,PG-13,4.72
+297,Ball window,Thriller,1983,110,German,PG-13,1.94
+298,Fly billion research six,Drama,2003,88,English,PG-13,4.72
+299,Group American present,Romance,1989,77,English,PG-13,4.67
+300,Including together,Documentary,2024,166,Hindi,R,2.79
+301,Stand,Action,1985,62,Spanish,PG,4.34
+302,Try good,Thriller,1987,159,Spanish,PG,2.2
+303,Reveal land age,Action,1995,113,Japanese,NC-17,2.83
+304,Trip most gas,Drama,2011,136,German,G,3.53
+305,Spend strong development,Horror,1989,97,French,G,3.46
+306,Drug,Horror,2016,113,Hindi,G,3.09
+307,Site student,Romance,1984,127,German,NC-17,4.15
+308,Place quality,Action,2004,171,French,G,3.54
+309,Threat view home,Romance,1996,155,English,PG-13,4.15
+310,Person speak type,Romance,1995,153,Japanese,G,4.09
+311,Receive truth,Romance,1988,65,Spanish,NC-17,2.35
+312,Ten scene again,Comedy,2023,119,Japanese,R,3.53
+313,Rock kind traditional,Comedy,1984,151,Korean,R,1.15
+314,For everyone worry,Horror,1982,161,Hindi,G,2.26
+315,Six spring,Sci-Fi,2012,110,Korean,NC-17,2.89
+316,Attack cost end,Action,2021,84,Spanish,PG-13,4.45
+317,Thing paper,Action,2021,102,Spanish,G,4.2
+318,Factor strong myself,Thriller,2005,155,French,R,2.36
+319,Matter life personal,Comedy,2011,148,French,PG-13,4.7
+320,Wrong then four myself,Sci-Fi,1985,153,French,G,2.72
+321,Push maybe within,Comedy,2014,97,Spanish,G,1.32
+322,Evening particularly source,Sci-Fi,1999,117,German,R,1.67
+323,Always who,Documentary,2002,117,English,PG-13,3.46
+324,Debate perform respond then,Thriller,1997,141,Korean,G,1.3
+325,How huge,Thriller,2003,125,Korean,PG,4.81
+326,Near face TV,Comedy,2018,146,Korean,R,1.14
+327,Group safe pass,Drama,1995,159,Japanese,PG-13,2.45
+328,Change big,Action,2018,79,Japanese,R,4.8
+329,Democratic inside lawyer,Romance,2008,157,English,NC-17,1.55
+330,Move look yes,Romance,2005,100,Japanese,PG-13,2.0
+331,Town culture truth operation,Drama,1981,154,Hindi,R,3.07
+332,Information,Drama,1996,159,Spanish,R,1.86
+333,Everyone treatment experience,Sci-Fi,2024,177,French,PG,1.49
+334,Follow figure,Drama,2008,82,Japanese,R,4.99
+335,Where spend,Romance,2022,104,Japanese,G,3.2
+336,Study cell,Sci-Fi,1999,168,Hindi,PG,4.17
+337,Present,Horror,1987,85,Korean,PG,1.95
+338,Soon drop history,Documentary,1981,106,German,NC-17,2.48
+339,Own identify,Comedy,2019,173,English,G,2.24
+340,And place,Documentary,2013,112,Korean,R,4.29
+341,Medical common,Drama,1988,100,Japanese,G,2.8
+342,Majority part shoulder,Romance,1988,172,Korean,NC-17,3.56
+343,Cost then,Comedy,1988,115,German,G,4.33
+344,As,Comedy,1999,81,Hindi,PG-13,4.74
+345,Behavior be region,Horror,2002,180,German,PG-13,4.38
+346,Manager TV true,Sci-Fi,1992,141,German,PG-13,1.5
+347,Likely item able friend,Sci-Fi,2019,128,English,NC-17,3.56
+348,Once without affect,Comedy,1990,144,German,NC-17,2.35
+349,School where,Action,1981,70,English,NC-17,2.06
+350,Growth voice,Horror,2016,113,German,G,2.99
+351,Evidence too character,Sci-Fi,2021,98,French,PG,4.22
+352,Agent ok eat,Thriller,1999,118,English,G,1.63
+353,Rest follow physical,Thriller,2010,119,Hindi,PG-13,3.43
+354,Rate ability,Romance,2000,153,Korean,PG-13,4.9
+355,Attack around machine,Comedy,2003,125,German,G,2.28
+356,Former amount,Documentary,1987,94,French,PG,1.56
+357,Trouble color,Action,1998,109,Korean,NC-17,2.67
+358,Miss cup,Comedy,2000,179,German,PG-13,1.76
+359,Character government,Comedy,2011,125,French,R,4.52
+360,Food model gas,Documentary,1981,71,French,NC-17,2.83
+361,Kind local food,Horror,1993,134,Spanish,G,1.2
+362,Present church simple cell,Documentary,2018,172,Korean,R,2.14
+363,Read become society,Action,1986,115,Hindi,PG-13,3.91
+364,Someone its street,Thriller,2003,65,French,G,3.28
+365,General Mrs,Horror,2003,130,Spanish,G,2.55
+366,How sure everyone quality,Documentary,2015,95,Korean,NC-17,3.72
+367,Figure laugh management,Drama,1988,72,French,PG-13,4.18
+368,Worker,Romance,2015,180,Spanish,PG,1.8
+369,Rise bad realize,Thriller,2012,65,English,G,1.55
+370,Method security chair,Romance,2010,126,French,PG,3.43
+371,Argue,Comedy,2000,179,German,PG-13,1.65
+372,Marriage determine set,Sci-Fi,2017,103,German,NC-17,3.13
+373,Recently thought family can,Sci-Fi,2010,164,English,PG-13,2.32
+374,See admit,Drama,2006,134,Spanish,G,3.39
+375,Seem action look,Sci-Fi,2021,160,Korean,NC-17,3.31
+376,Explain full,Action,2017,121,Hindi,NC-17,3.52
+377,Beautiful stage herself,Thriller,1989,165,Japanese,PG,1.13
+378,Positive open,Drama,1992,62,French,PG-13,2.68
+379,Play,Thriller,2024,86,French,NC-17,4.1
+380,Site run,Documentary,1983,150,Hindi,NC-17,1.83
+381,Individual official,Romance,2022,121,German,R,2.26
+382,Protect and,Comedy,2009,176,German,PG-13,3.19
+383,Over side idea central,Sci-Fi,2019,121,Hindi,PG,2.12
+384,Themselves management mission,Sci-Fi,1994,180,Spanish,PG-13,3.82
+385,Sell,Documentary,2000,121,Spanish,NC-17,4.73
+386,Still,Sci-Fi,1998,75,German,NC-17,2.52
+387,Child charge,Thriller,2002,158,Korean,PG,2.16
+388,Too writer,Sci-Fi,1985,104,French,PG-13,3.99
+389,Easy story sing,Horror,1992,165,German,PG-13,4.73
+390,Political foreign,Sci-Fi,1988,73,German,NC-17,1.96
+391,Street sure human,Action,2022,175,German,PG,3.55
+392,Pay agree ground,Action,1986,112,Spanish,R,1.4
+393,Expect allow if,Comedy,1980,130,Hindi,R,3.61
+394,Last card meeting,Documentary,2010,143,Hindi,PG-13,2.28
+395,Bill impact call,Action,1985,143,German,PG,3.14
+396,Officer do performance,Action,1991,113,Korean,PG,4.74
+397,Note not,Action,2005,160,French,PG,4.75
+398,Whatever new because,Sci-Fi,1982,61,Spanish,NC-17,3.41
+399,Owner section,Romance,1998,118,Japanese,NC-17,3.1
+400,Remember perform body,Comedy,2012,119,Spanish,PG,4.24
+401,Relationship let,Romance,1990,153,French,PG-13,3.87
+402,Walk show in,Action,2001,161,Spanish,NC-17,3.7
+403,Growth field,Horror,1991,138,Korean,R,4.31
+404,Trouble late spend,Romance,1985,111,Japanese,G,1.74
+405,Carry something,Comedy,2010,101,Hindi,G,2.04
+406,Speech cell,Horror,2008,156,Spanish,PG-13,2.21
+407,Remain attack,Action,1996,143,Spanish,PG,1.25
+408,Operation on,Drama,2009,99,Hindi,R,3.74
+409,Floor church,Sci-Fi,2024,75,Japanese,PG-13,2.47
+410,Visit computer,Horror,1994,77,French,PG,2.82
+411,Money marriage,Romance,2006,149,German,R,4.03
+412,Example write,Horror,1995,147,Korean,NC-17,4.49
+413,Song improve,Drama,2013,117,German,PG-13,1.31
+414,Magazine use piece,Drama,1983,166,German,NC-17,1.81
+415,Alone,Comedy,1990,101,Korean,NC-17,2.77
+416,Commercial,Horror,2017,122,English,NC-17,2.78
+417,Many society wife,Action,2009,76,German,R,2.83
+418,Offer,Action,2015,119,Japanese,PG-13,3.89
+419,Exactly,Thriller,1996,164,English,PG,3.31
+420,New young small,Action,2007,104,Japanese,G,3.16
+421,Information guy,Action,1984,179,French,G,2.15
+422,Difference leg,Comedy,1988,158,Japanese,R,2.5
+423,Resource particularly bed society,Thriller,2008,171,French,R,1.32
+424,Data without worry,Comedy,2021,170,Spanish,G,1.71
+425,Group enter pass,Thriller,2013,76,Japanese,PG,4.34
+426,Finish around country,Action,1999,119,Japanese,NC-17,2.7
+427,Land six,Thriller,1994,91,French,PG-13,1.62
+428,Process health important,Horror,1987,64,Korean,R,3.46
+429,Enjoy,Action,1995,86,English,G,3.38
+430,May seek what,Documentary,2018,146,Japanese,G,1.98
+431,Participant nothing,Action,2005,116,Hindi,NC-17,1.87
+432,Yet town,Action,1988,124,Spanish,PG,4.26
+433,Safe war century,Romance,2016,136,Korean,PG-13,1.95
+434,Stop first,Comedy,2022,126,Hindi,R,2.2
+435,Series organization,Action,2015,135,Japanese,PG,3.5
+436,Total,Thriller,2015,123,English,PG-13,4.77
+437,Table all,Thriller,2013,100,Japanese,R,2.63
+438,Opportunity follow,Sci-Fi,2004,83,Korean,NC-17,2.89
+439,Scene throughout yard,Horror,1999,169,Japanese,PG,4.22
+440,Bit recognize apply,Action,2015,112,French,NC-17,3.12
+441,Program question,Thriller,1995,92,Hindi,PG-13,3.59
+442,Program,Documentary,2003,71,German,PG,1.21
+443,Four trip increase,Thriller,2023,137,German,G,4.49
+444,Foreign song,Horror,2017,152,Japanese,NC-17,1.87
+445,Sort address event,Horror,2001,98,English,PG,4.75
+446,Claim heavy behavior,Drama,2010,177,Hindi,NC-17,3.82
+447,Of production network,Thriller,1995,130,Spanish,PG-13,2.52
+448,Heart tell,Romance,1999,93,Spanish,NC-17,4.53
+449,Production,Documentary,1986,162,Japanese,R,4.05
+450,Whole between music,Romance,1993,107,Spanish,R,1.18
+451,Great kitchen debate,Horror,1989,62,Spanish,NC-17,4.74
+452,Method choose,Thriller,1998,79,Hindi,PG-13,1.92
+453,Red under lose,Horror,2011,130,Japanese,PG-13,2.03
+454,Blood should,Documentary,2021,154,French,R,1.67
+455,Cost score prepare,Romance,1990,77,Japanese,NC-17,2.95
+456,Role together,Action,2013,64,Korean,G,4.78
+457,Century yes foreign,Action,1980,112,Hindi,PG,1.27
+458,Down seven than,Comedy,1980,87,German,R,2.49
+459,Same full draw,Documentary,2022,122,English,G,3.13
+460,People yourself,Thriller,1980,62,German,PG-13,3.14
+461,Already,Sci-Fi,1981,124,Korean,R,4.22
+462,Nearly situation,Comedy,1986,177,English,NC-17,1.6
+463,Medical who,Horror,2019,127,Spanish,PG-13,2.07
+464,Note response fast,Thriller,1985,107,French,R,3.26
+465,Piece successful decide modern,Horror,1999,147,Korean,G,3.61
+466,Key,Action,1985,111,French,R,3.21
+467,Realize most,Action,2020,61,Japanese,PG,1.33
+468,Second great include,Thriller,2021,160,Spanish,NC-17,4.91
+469,Military,Drama,2013,177,English,PG,1.85
+470,Investment network,Documentary,1997,65,English,PG-13,4.6
+471,Door food finally,Action,1991,178,Korean,PG-13,1.06
+472,Ability seat,Horror,2017,78,Korean,R,4.72
+473,Job,Sci-Fi,1990,132,Hindi,NC-17,4.34
+474,Public cut exactly,Thriller,2023,174,German,PG-13,2.54
+475,Get inside never,Comedy,2024,152,English,NC-17,3.98
+476,Involve relate budget,Romance,1983,72,French,PG,4.35
+477,Third he,Romance,2018,158,German,NC-17,2.59
+478,List star,Romance,1981,141,Spanish,R,2.96
+479,Black nor put,Romance,2015,180,French,R,1.74
+480,Voice into edge,Thriller,1985,158,German,PG-13,4.19
+481,It forget site,Drama,1985,94,Hindi,R,3.85
+482,Real film,Comedy,2004,100,Spanish,G,1.37
+483,May shoulder,Sci-Fi,2008,106,Korean,PG-13,1.41
+484,Ago interest,Drama,1991,115,French,NC-17,3.22
+485,Purpose social,Thriller,1986,63,English,PG-13,3.22
+486,Show leave,Romance,2004,61,Spanish,R,2.55
+487,Successful agency,Drama,2015,175,Hindi,NC-17,3.08
+488,Its maintain reach,Thriller,1990,77,Spanish,PG-13,2.07
+489,Event buy,Comedy,1984,81,French,PG-13,2.68
+490,Instead cup,Documentary,1984,106,Spanish,PG,3.88
+491,Paper large,Documentary,2018,138,Hindi,R,1.43
+492,Five fly,Sci-Fi,1980,110,Spanish,NC-17,2.52
+493,Ability billion true,Romance,2008,102,French,NC-17,1.54
+494,Tough dark police,Romance,2018,148,Hindi,R,2.26
+495,Until crime middle,Thriller,2000,97,Japanese,R,4.87
+496,Moment cup,Horror,2000,108,Spanish,R,2.46
+497,Close no,Horror,2017,129,Hindi,NC-17,1.11
+498,Value important,Documentary,1993,116,Korean,PG-13,4.33
+499,She response speak,Drama,2006,146,French,PG,3.53
+500,Project ago,Horror,1996,144,Hindi,R,4.16
+501,Memory figure,Drama,2008,136,French,NC-17,2.6
+502,Authority occur kid,Thriller,2014,64,Korean,PG-13,3.81
+503,Job reveal,Drama,1986,158,Hindi,PG-13,1.67
+504,Describe newspaper career player,Action,2016,142,Japanese,R,4.87
+505,Personal get single,Romance,2007,73,English,G,2.03
+506,Drop project whole,Horror,2008,107,French,R,4.09
+507,Industry live course,Comedy,2002,63,French,G,2.18
+508,Her director thank,Drama,1987,166,Japanese,PG,2.39
+509,Group should,Romance,2009,160,Hindi,NC-17,2.93
+510,Participant task choose,Documentary,1986,116,Japanese,R,2.28
+511,Soldier experience face,Sci-Fi,1982,163,Japanese,G,1.09
+512,Score fact bank,Romance,2021,73,Japanese,PG,4.72
+513,Society admit,Horror,2013,82,German,PG,2.32
+514,Life four,Thriller,2009,89,Korean,R,3.52
+515,Language him strategy,Comedy,2020,144,French,R,1.12
+516,Find national,Horror,2008,135,French,R,1.02
+517,Many stock citizen pull,Horror,1993,95,Korean,G,3.31
+518,Attack certainly,Comedy,2003,101,Hindi,R,1.46
+519,She personal walk,Documentary,2013,141,Spanish,NC-17,2.55
+520,Benefit stock on,Thriller,2017,74,Spanish,PG-13,4.38
+521,Meeting possible near,Comedy,2023,150,Korean,PG-13,4.67
+522,Family too,Drama,2023,77,Spanish,G,1.95
+523,Decision sport class,Drama,1991,107,Japanese,PG,3.04
+524,Add successful involve,Thriller,2018,77,German,R,2.69
+525,Discussion cover kind,Documentary,2020,128,Japanese,PG,3.22
+526,Environment now,Documentary,1998,77,Hindi,PG-13,4.37
+527,Dream deal low issue,Action,2002,61,French,PG,1.78
+528,He difference drug,Thriller,2015,124,Japanese,R,2.64
+529,Material look poor,Documentary,2006,150,Korean,R,2.95
+530,Customer area,Drama,2016,63,Korean,PG,2.17
+531,Sell every indeed,Sci-Fi,1994,128,Spanish,PG,4.12
+532,Employee that,Documentary,2015,125,English,NC-17,1.46
+533,Protect condition tree,Romance,2014,165,Korean,G,4.04
+534,Third without government,Documentary,2014,87,French,G,3.94
+535,Despite final,Horror,1999,171,English,R,2.05
+536,Film win watch,Drama,2008,170,English,PG,1.84
+537,Among traditional reach,Romance,2019,140,French,PG,3.46
+538,Want,Horror,1993,163,English,NC-17,2.4
+539,Force sport,Sci-Fi,2018,128,Hindi,PG-13,4.92
+540,Science light,Sci-Fi,1998,133,Spanish,NC-17,4.94
+541,Policy career,Drama,1988,156,Korean,R,4.68
+542,Bed various alone,Sci-Fi,2021,76,Japanese,PG,2.0
+543,Project good memory,Romance,1995,157,Korean,R,2.96
+544,Response meet factor,Sci-Fi,2020,113,French,R,1.3
+545,Meeting whole,Drama,2005,125,Japanese,PG-13,3.78
+546,Choose concern,Romance,2009,122,Spanish,NC-17,1.01
+547,Always service,Drama,2009,141,Japanese,PG-13,4.4
+548,These how,Thriller,1993,114,Korean,PG,2.98
+549,Cup nor,Romance,1998,103,German,NC-17,1.52
+550,Career her,Documentary,2001,174,Japanese,G,1.18
+551,Us such four,Documentary,1981,75,Korean,PG,2.77
+552,Leg leg degree,Action,2007,85,Japanese,PG,4.53
+553,Turn too,Sci-Fi,1990,171,Spanish,G,3.62
+554,Society serve,Sci-Fi,1985,107,Japanese,PG,1.21
+555,Author view may,Sci-Fi,2024,156,Hindi,R,3.62
+556,Reduce age place father,Drama,1980,87,French,G,1.53
+557,Improve structure,Horror,2013,147,French,G,1.03
+558,Help line,Romance,1987,170,French,PG,2.91
+559,Enough recognize enjoy,Horror,2004,71,Japanese,G,1.41
+560,Much,Romance,1999,77,French,PG,3.57
+561,Picture executive college,Comedy,1984,127,German,G,3.44
+562,Claim itself,Comedy,2008,104,Japanese,PG,3.51
+563,Happy smile pay,Comedy,2006,138,Japanese,R,4.44
+564,Sit someone letter,Drama,1986,77,Korean,G,3.36
+565,Grow financial,Thriller,2002,114,Spanish,PG,1.99
+566,Executive course southern,Drama,1995,130,German,NC-17,3.88
+567,That southern,Sci-Fi,2024,63,Korean,PG-13,1.82
+568,Foreign spend opportunity than,Horror,2005,97,Japanese,G,4.14
+569,Already stay material training,Horror,2011,109,English,PG,3.0
+570,Chair interesting,Drama,2013,173,English,PG-13,4.74
+571,Home strong,Comedy,2004,170,Korean,NC-17,2.68
+572,Arrive player citizen,Comedy,2010,158,English,G,3.35
+573,Reason appear each,Action,1996,87,English,G,4.79
+574,Debate own,Thriller,2012,96,Japanese,NC-17,4.07
+575,President mother,Thriller,2024,111,English,NC-17,3.15
+576,Hit,Comedy,1997,70,Spanish,G,3.05
+577,Few official personal,Horror,1989,128,Spanish,R,3.35
+578,Move rather same,Drama,1999,149,French,PG,1.23
+579,Let dark,Drama,2007,74,French,NC-17,3.44
+580,Put family,Sci-Fi,2022,154,Japanese,PG,1.48
+581,Show though better,Comedy,2024,61,Hindi,R,4.81
+582,Raise strategy western,Sci-Fi,1990,107,Hindi,PG-13,3.93
+583,Just organization,Drama,1981,102,Korean,R,2.09
+584,Look front,Drama,1996,151,German,G,2.98
+585,Recently really possible,Romance,1983,123,Korean,NC-17,1.67
+586,Exist several within,Comedy,1996,158,English,NC-17,3.7
+587,Professor several another,Drama,1994,154,German,G,1.18
+588,Memory religious citizen,Action,1995,65,French,PG-13,2.53
+589,Represent find wrong,Comedy,1991,179,Korean,G,3.21
+590,And loss cultural,Thriller,1994,101,Hindi,R,4.66
+591,Charge kitchen,Romance,1997,165,English,NC-17,2.49
+592,Word name,Action,1991,88,Korean,NC-17,4.93
+593,Sell charge,Thriller,1984,172,French,PG-13,4.09
+594,Over area,Sci-Fi,2000,71,German,R,1.03
+595,Detail,Horror,1998,132,Korean,PG-13,3.96
+596,Travel performance either consider,Horror,2009,107,German,R,4.99
+597,Everyone according,Horror,2014,157,Korean,PG,1.6
+598,Street,Thriller,1981,89,German,PG-13,3.54
+599,Choice how administration,Action,2001,60,Korean,R,4.4
+600,Leave rest those,Sci-Fi,1986,86,German,PG,2.68
+601,Staff,Action,1989,151,Spanish,G,1.18
+602,Same get,Horror,2013,112,Japanese,PG-13,2.83
+603,Opportunity station,Drama,2017,72,German,PG,3.55
+604,Ball operation,Thriller,1984,135,German,G,2.74
+605,Approach cell,Comedy,1995,97,Spanish,PG-13,4.7
+606,Wide never,Thriller,2024,166,Japanese,PG-13,2.27
+607,What husband professor,Sci-Fi,1994,69,Hindi,PG,4.12
+608,Task peace shake,Drama,1989,73,Hindi,R,2.86
+609,Less me,Thriller,1987,128,Spanish,PG,2.81
+610,Republican national such,Documentary,1996,169,English,G,1.63
+611,Strong list,Sci-Fi,2024,137,English,PG,4.34
+612,Section pick,Romance,1989,71,Japanese,PG,4.87
+613,Building inside,Thriller,2012,66,Japanese,PG-13,2.04
+614,Offer position,Comedy,1981,111,Korean,R,3.22
+615,Bit,Horror,1986,119,English,PG,1.49
+616,Democratic how deal,Action,1994,76,Hindi,R,2.49
+617,Organization him,Drama,2017,135,Spanish,G,1.09
+618,Head recently ever,Drama,1992,175,Japanese,R,4.24
+619,Majority what,Drama,2001,75,English,R,1.2
+620,Management same safe catch,Thriller,2005,123,English,R,3.73
+621,Be someone,Comedy,2002,87,Hindi,PG-13,2.12
+622,Fight another different,Comedy,1982,138,German,NC-17,1.98
+623,Couple might,Sci-Fi,2011,112,German,R,1.24
+624,Know fill likely,Sci-Fi,2004,77,French,PG,3.57
+625,White might speech,Horror,2020,162,German,G,4.96
+626,Expert difference usually,Romance,2010,129,Korean,R,2.38
+627,Third rest what,Romance,2004,94,Hindi,G,2.28
+628,Charge challenge,Horror,1981,174,Korean,PG-13,1.23
+629,Trip since enough season,Documentary,2013,105,Korean,NC-17,5.0
+630,Security,Comedy,1986,91,Japanese,PG,2.07
+631,East energy,Action,1994,133,Korean,R,2.42
+632,Administration energy,Comedy,1991,90,German,PG-13,4.22
+633,Describe father time,Romance,2017,63,Japanese,PG-13,4.79
+634,Cold southern,Comedy,2016,84,Korean,R,3.17
+635,Term decade,Comedy,2011,64,English,G,1.93
+636,Already allow line,Horror,1981,127,French,G,2.33
+637,Almost majority left,Horror,1988,103,Japanese,PG,4.68
+638,Ever great,Romance,1983,62,Hindi,NC-17,3.82
+639,Who around,Comedy,1987,168,German,PG-13,4.84
+640,Recent,Romance,2022,110,German,G,2.35
+641,Policy inside bit,Romance,1988,80,Japanese,R,4.17
+642,Too break,Documentary,2021,100,Hindi,NC-17,3.77
+643,Foreign training subject argue,Romance,1994,145,German,PG,2.51
+644,Probably,Sci-Fi,1988,82,Japanese,G,4.8
+645,Local,Thriller,2016,64,Hindi,NC-17,2.27
+646,Life price,Horror,2020,132,English,R,1.56
+647,President town military,Drama,1995,104,Spanish,PG,3.54
+648,Information,Drama,2022,141,Japanese,PG-13,2.79
+649,Option mind,Sci-Fi,1993,91,Japanese,G,2.4
+650,Down,Drama,1980,66,French,R,3.93
+651,About cover,Comedy,2006,123,French,PG-13,3.18
+652,Drop,Drama,2010,160,Korean,NC-17,3.6
+653,Bag blue,Horror,1990,117,English,G,2.18
+654,Rest service,Romance,1996,73,English,PG-13,1.68
+655,Cup,Thriller,1990,153,English,NC-17,4.77
+656,Avoid type structure,Drama,2001,136,German,R,3.82
+657,Answer less,Thriller,2021,81,German,R,1.63
+658,Later wide sure,Drama,2001,86,Hindi,R,3.79
+659,Once deal,Sci-Fi,2022,96,Spanish,PG,1.38
+660,Hospital candidate,Thriller,2016,130,Korean,R,1.61
+661,Structure,Romance,1980,114,English,PG-13,4.3
+662,Raise big its,Documentary,1992,72,English,PG,1.68
+663,Something play,Sci-Fi,1985,120,Korean,G,2.23
+664,Realize during contain,Thriller,2010,122,Japanese,PG-13,1.36
+665,Win stock,Thriller,1991,107,French,PG-13,1.75
+666,Show establish,Action,1996,116,French,PG-13,1.9
+667,Song couple,Sci-Fi,2016,67,Hindi,G,1.34
+668,Then federal,Romance,2014,112,Korean,NC-17,1.91
+669,Service foot floor,Action,2004,164,German,R,4.86
+670,Western audience many,Documentary,2016,172,Hindi,R,2.2
+671,Know election,Thriller,1982,124,German,NC-17,4.2
+672,We drop film,Comedy,1987,156,French,PG,4.8
+673,Physical ask mission,Comedy,1993,163,Hindi,PG,1.17
+674,Student number last,Drama,2023,115,Hindi,PG,4.34
+675,Recent space,Sci-Fi,2000,176,Japanese,G,1.35
+676,Change American administration,Thriller,2015,101,Korean,PG-13,3.08
+677,Decision,Action,2024,139,German,NC-17,4.13
+678,Upon everything,Drama,2006,79,Hindi,NC-17,3.35
+679,Those test,Drama,1986,132,Korean,G,4.14
+680,Minute learn easy,Romance,2006,93,French,R,3.29
+681,Middle audience,Documentary,1982,82,Spanish,R,1.58
+682,Expert trip such,Thriller,1982,110,Spanish,PG,1.2
+683,How your,Documentary,1997,174,Spanish,G,2.35
+684,Affect movie visit,Sci-Fi,1999,95,Korean,R,4.43
+685,Dog blue,Drama,1994,77,Spanish,R,4.1
+686,Send who crime,Romance,1997,153,French,NC-17,3.58
+687,Admit star garden,Horror,2008,87,Korean,R,3.96
+688,Theory top decide,Romance,1983,125,Korean,PG,1.26
+689,Fine so wonder,Thriller,1988,159,Korean,NC-17,4.52
+690,Fund dinner prepare maybe,Action,1991,84,Korean,PG,4.35
+691,Type job worry,Horror,1982,118,English,PG-13,3.82
+692,Performance three according,Sci-Fi,2003,165,French,NC-17,2.59
+693,High than force,Drama,2023,63,Hindi,PG-13,2.96
+694,Run country,Documentary,1991,171,French,NC-17,3.21
+695,Mrs recent,Romance,1990,167,Spanish,G,2.14
+696,Teach,Thriller,1983,80,Korean,NC-17,4.12
+697,Everything my reflect,Horror,1994,142,Hindi,PG,2.08
+698,Health amount suggest rest,Thriller,2012,62,Korean,G,2.9
+699,Live man radio,Comedy,2021,82,German,G,1.9
+700,Debate guess sure fight,Sci-Fi,2021,95,French,R,4.41
+701,Good smile project,Documentary,1996,87,French,PG-13,3.71
+702,Have green fly,Thriller,2017,73,English,NC-17,5.0
+703,Sense spend,Romance,2015,142,German,NC-17,2.13
+704,Father human work,Drama,2010,68,Spanish,PG-13,3.56
+705,Compare state white,Sci-Fi,1996,143,Japanese,PG-13,1.75
+706,Win floor,Horror,1983,163,Korean,NC-17,2.62
+707,Let,Romance,2023,77,Japanese,G,3.62
+708,Red job fine physical,Sci-Fi,1996,176,French,R,2.55
+709,Often ten nice,Action,2017,150,German,PG,2.37
+710,Wish huge former,Horror,2023,128,Japanese,R,4.63
+711,Sell lawyer matter,Romance,2012,98,Korean,PG,4.36
+712,Management,Comedy,1998,72,French,PG,3.96
+713,Grow quality,Comedy,2023,175,Spanish,G,1.89
+714,Final,Horror,1999,113,Korean,PG-13,2.49
+715,Trial,Sci-Fi,2009,168,English,R,1.21
+716,Market condition,Drama,2010,173,Hindi,NC-17,1.48
+717,Area behind,Thriller,2013,98,French,G,4.48
+718,Middle there effect,Comedy,1988,85,Spanish,R,4.95
+719,Water property couple option,Documentary,1989,100,Korean,PG,4.12
+720,Join raise visit front,Documentary,2001,140,Hindi,PG-13,3.54
+721,Son bank agency,Action,2008,95,Hindi,PG,3.31
+722,Dream open likely,Comedy,2011,160,Korean,G,1.52
+723,Health glass,Thriller,2020,114,French,R,4.86
+724,Pick daughter social,Thriller,1980,64,German,PG,3.92
+725,Vote put,Action,2000,156,Korean,NC-17,1.76
+726,Everybody point,Action,2020,153,Hindi,PG,3.77
+727,Dog run difficult,Romance,1999,76,English,R,3.01
+728,If pattern idea,Sci-Fi,1990,68,Korean,G,2.19
+729,Skill realize,Sci-Fi,2009,153,German,NC-17,3.1
+730,Tonight instead this,Thriller,2023,77,Spanish,R,2.44
+731,Success run,Horror,1990,176,Korean,R,1.08
+732,History despite itself walk,Horror,1988,87,Japanese,G,3.36
+733,Let attorney laugh,Comedy,1987,106,Japanese,G,2.5
+734,Son interest democratic impact,Sci-Fi,2014,139,English,NC-17,4.98
+735,Yourself interesting movement,Drama,2021,167,English,G,3.76
+736,Heart guess white,Thriller,2008,108,English,NC-17,2.01
+737,Character friend,Comedy,1993,148,Japanese,G,2.2
+738,Fire fight never spend,Drama,2022,126,Spanish,NC-17,3.42
+739,Require provide,Comedy,2006,166,English,NC-17,3.88
+740,Or program,Drama,1998,74,Korean,G,2.99
+741,Recently face,Horror,1996,166,German,PG,2.43
+742,Window state nothing see,Thriller,1998,80,English,NC-17,2.99
+743,Each ago fly vote,Horror,2024,179,French,PG-13,1.94
+744,Player eye,Action,2022,71,English,NC-17,3.68
+745,Value crime boy,Comedy,1985,159,German,G,3.89
+746,Cut practice,Drama,1996,142,Hindi,R,4.95
+747,Chance manager feel,Sci-Fi,1996,119,English,G,4.25
+748,Drive about southern improve,Action,1998,106,Korean,PG-13,2.7
+749,Lay,Drama,1986,168,Korean,G,1.04
+750,Strong girl,Comedy,2022,142,Hindi,PG-13,2.43
+751,Manage especially,Documentary,2019,94,Japanese,G,2.49
+752,Later toward,Romance,1991,74,French,R,4.85
+753,War seek,Sci-Fi,2004,148,Korean,R,4.2
+754,Democrat another,Comedy,1987,76,Japanese,G,4.93
+755,Enjoy beautiful power,Comedy,1986,113,German,R,4.21
+756,Mrs husband,Documentary,1991,138,French,PG-13,3.45
+757,Per police newspaper,Comedy,2010,177,French,G,4.55
+758,State special wide,Documentary,1982,68,Spanish,PG-13,1.05
+759,Wide require,Horror,2022,171,Spanish,NC-17,3.09
+760,Ability step thus,Drama,2007,144,Japanese,PG,2.93
+761,Win charge performance,Thriller,1989,167,Korean,NC-17,4.57
+762,Feeling him,Action,1980,142,Hindi,NC-17,4.4
+763,Artist record treat,Documentary,1990,69,Korean,R,2.28
+764,Service start ever,Romance,1997,66,German,PG,3.2
+765,Age western,Thriller,2005,164,Hindi,G,2.84
+766,Subject continue,Documentary,1985,169,French,R,2.26
+767,Deal necessary success,Documentary,2021,62,English,R,2.65
+768,Lay,Action,1985,161,German,NC-17,3.55
+769,Into anything many,Horror,2021,145,French,PG-13,2.45
+770,Need,Action,1994,168,French,PG-13,3.24
+771,Message movie mother,Documentary,2022,106,Japanese,R,1.46
+772,Young religious,Horror,1980,103,Spanish,PG-13,3.19
+773,Now her,Romance,2024,73,English,PG,2.97
+774,Listen test inside,Thriller,1986,92,German,PG,1.75
+775,Life west,Thriller,1993,118,Korean,PG,3.87
+776,Include everything,Drama,2006,65,Japanese,NC-17,1.49
+777,Sound choice,Documentary,2009,144,German,NC-17,1.54
+778,But require,Documentary,1980,127,Japanese,G,3.21
+779,Tough institution,Thriller,2017,121,German,PG,3.77
+780,Light we relationship,Comedy,1988,73,French,NC-17,3.42
+781,Energy,Romance,2012,172,French,R,4.92
+782,Energy soon new,Horror,1997,110,Spanish,PG-13,2.81
+783,Good read,Comedy,1988,112,German,NC-17,2.2
+784,Party always rich,Romance,2015,140,Hindi,PG,1.84
+785,Both write,Sci-Fi,2023,104,Japanese,PG,4.93
+786,Good,Comedy,2012,129,Japanese,PG-13,3.84
+787,Suddenly light,Romance,2015,121,German,NC-17,4.77
+788,Enjoy too,Thriller,2023,155,Korean,NC-17,2.14
+789,Player wall ahead,Thriller,1980,126,English,G,2.52
+790,Agent option usually,Action,2022,67,Hindi,PG-13,4.0
+791,Eight,Comedy,1998,147,Spanish,PG,4.36
+792,Seek girl wind,Sci-Fi,1993,156,German,G,2.43
+793,Enter indicate happy,Documentary,1986,138,Korean,NC-17,4.46
+794,Expect arrive tough,Thriller,1995,125,Korean,PG-13,3.77
+795,Sport wall value,Action,2004,109,French,PG-13,4.86
+796,Different music,Action,1980,155,Spanish,PG,3.48
+797,Maybe most effort,Documentary,1994,176,Japanese,PG-13,4.02
+798,Wall ten source than,Horror,1992,97,French,PG,4.93
+799,During director hope,Drama,1991,82,Japanese,NC-17,1.48
+800,Appear nearly education,Action,2007,95,German,PG-13,1.52
+801,Receive since almost,Sci-Fi,1980,102,French,PG,1.16
+802,Among reality box,Romance,2018,66,Korean,NC-17,4.37
+803,Machine yes position boy,Sci-Fi,2011,161,German,NC-17,2.43
+804,Class participant value,Romance,2013,88,Hindi,NC-17,1.27
+805,See each,Comedy,2006,129,German,R,1.37
+806,Test,Horror,1993,144,Spanish,PG-13,2.44
+807,Career on,Horror,2019,127,French,NC-17,4.29
+808,Just,Action,1987,145,Spanish,R,1.96
+809,Law catch,Horror,1982,147,Spanish,R,4.66
+810,Mention,Drama,2004,92,German,PG-13,1.1
+811,Information find,Romance,2012,162,German,R,2.95
+812,Size service,Sci-Fi,2021,84,Spanish,NC-17,1.33
+813,To own,Drama,1990,158,German,NC-17,1.03
+814,How enjoy,Drama,1993,145,Japanese,PG,4.46
+815,Buy wide,Thriller,1986,86,German,R,3.59
+816,Your else,Drama,2023,79,English,R,3.87
+817,Teach town,Action,1985,69,English,PG,4.18
+818,Role major,Drama,2016,165,Hindi,PG-13,2.63
+819,Street loss,Documentary,2020,111,French,PG-13,1.07
+820,Question many,Drama,2014,60,Japanese,NC-17,1.25
+821,More body,Action,2024,168,English,PG-13,4.71
+822,Wrong environment,Drama,1998,160,Japanese,PG-13,3.43
+823,Fund task,Sci-Fi,2008,108,French,G,2.9
+824,Degree half official,Horror,1988,155,French,NC-17,2.18
+825,Follow she,Comedy,1999,146,Korean,PG-13,4.83
+826,Candidate head,Action,2015,171,German,PG,1.49
+827,Fight only him,Action,2016,136,French,NC-17,3.19
+828,Pick tax,Drama,1999,86,Japanese,PG-13,1.85
+829,Future two,Comedy,1990,83,Hindi,NC-17,4.34
+830,Ahead choose,Horror,1987,83,Japanese,NC-17,4.41
+831,Wife action if,Documentary,2021,130,English,PG-13,3.69
+832,Clearly lay here,Sci-Fi,1986,85,Japanese,NC-17,2.95
+833,Consider send hotel,Romance,2002,76,Japanese,PG,1.4
+834,Painting box,Drama,1992,100,French,R,2.31
+835,Such,Sci-Fi,2024,134,Hindi,NC-17,3.27
+836,There sure term happen,Romance,2007,81,English,PG-13,1.98
+837,Lose these,Horror,2021,115,Spanish,PG-13,1.54
+838,State fight,Romance,2010,119,French,PG-13,4.1
+839,Letter computer,Documentary,2015,73,Hindi,NC-17,1.33
+840,Be quite,Sci-Fi,1988,174,German,PG,2.05
+841,Money direction development,Drama,1984,174,English,NC-17,3.53
+842,By much scientist value,Thriller,2017,87,English,NC-17,2.04
+843,Culture thousand visit,Documentary,2021,159,Hindi,PG-13,2.57
+844,Just campaign,Sci-Fi,1988,119,German,NC-17,1.36
+845,Issue within,Romance,2012,61,Japanese,PG,4.39
+846,Our design argue,Comedy,2012,77,French,PG,1.72
+847,Successful base because,Comedy,2010,180,Spanish,G,1.88
+848,Tend where military,Documentary,1994,68,Spanish,PG-13,1.94
+849,Report,Horror,2013,176,Korean,PG-13,2.55
+850,Mother hundred board,Documentary,1982,65,Japanese,PG-13,1.41
+851,Itself second,Sci-Fi,1996,134,German,NC-17,1.7
+852,Factor until if,Thriller,2003,135,Japanese,G,3.07
+853,Career bill likely,Thriller,1994,126,French,PG-13,4.27
+854,Return enjoy,Romance,2011,161,French,NC-17,1.03
+855,Scene strong suffer,Comedy,2008,81,Hindi,G,3.06
+856,Here hundred,Sci-Fi,1993,79,Hindi,PG,2.45
+857,Fast store,Drama,2022,89,French,PG-13,3.88
+858,World where,Documentary,2023,121,French,PG,3.36
+859,Level gun,Thriller,1981,91,English,PG,3.29
+860,Practice east away,Comedy,1988,140,German,G,4.56
+861,New turn during,Comedy,1983,81,Spanish,PG,3.07
+862,So himself little,Thriller,2018,132,Japanese,G,4.51
+863,Guess feel fight,Sci-Fi,1985,87,French,NC-17,4.97
+864,Nor form Mr,Documentary,1990,88,Korean,R,3.4
+865,Education money message,Comedy,2019,144,German,PG-13,1.67
+866,Knowledge truth style,Romance,2009,136,German,G,1.92
+867,Certainly claim,Thriller,1988,73,English,PG,3.09
+868,Between throw,Thriller,1989,137,English,PG,2.9
+869,Live gun,Action,2014,124,Korean,G,1.37
+870,Writer after,Comedy,2018,129,Korean,G,4.59
+871,Yet require clear,Thriller,2013,113,Spanish,G,3.79
+872,Treat cup court,Thriller,1994,180,Korean,R,4.16
+873,Style second,Thriller,2002,135,Korean,NC-17,1.39
+874,Tough,Comedy,1996,121,Korean,PG,4.64
+875,Mean pattern keep,Drama,1998,136,German,R,2.03
+876,Else friend,Action,1980,133,German,G,3.08
+877,Democratic source or house,Thriller,2021,86,Japanese,PG-13,2.64
+878,Necessary down return,Drama,1989,114,Japanese,NC-17,2.01
+879,Nice father news,Thriller,2016,106,German,PG-13,4.97
+880,Become small,Thriller,1993,112,German,NC-17,2.93
+881,Live,Romance,2015,131,French,PG-13,4.95
+882,Listen future usually,Romance,2005,154,Hindi,G,3.99
+883,Onto institution,Documentary,2024,80,English,PG,3.03
+884,However foreign,Romance,2015,138,Japanese,G,1.64
+885,Conference should,Action,1985,165,Hindi,R,4.7
+886,Build serious table,Thriller,1985,68,Spanish,PG,2.48
+887,Maintain town weight,Action,2004,179,French,NC-17,3.62
+888,Member make,Sci-Fi,2018,67,Korean,PG,3.56
+889,Sign really,Documentary,1980,85,Korean,NC-17,2.14
+890,Black,Action,2018,125,German,PG,3.46
+891,Yet audience imagine,Action,2003,90,Japanese,G,4.9
+892,Child practice list,Drama,1997,159,French,PG-13,3.68
+893,Court fire religious,Thriller,2017,85,German,G,3.95
+894,Herself rest,Drama,1985,130,Spanish,NC-17,4.66
+895,Trip itself,Romance,2002,164,Spanish,PG,3.43
+896,Significant discuss,Horror,2009,179,French,NC-17,1.02
+897,Anything prevent,Comedy,2006,124,English,NC-17,1.29
+898,Hear health,Sci-Fi,2001,74,Korean,NC-17,4.83
+899,Part,Sci-Fi,2024,116,French,NC-17,2.93
+900,Book relate,Horror,2001,159,French,R,4.59
+901,Design amount simple,Action,2010,74,Spanish,G,2.53
+902,Director authority town,Horror,2023,149,Hindi,PG-13,2.65
+903,Month agree,Romance,2013,128,English,PG-13,1.99
+904,Beyond light,Drama,2005,146,Japanese,PG-13,1.3
+905,Tend,Comedy,2010,100,Spanish,PG,4.58
+906,Television bring,Sci-Fi,1991,155,Japanese,PG,3.0
+907,Old role,Horror,1995,154,Hindi,PG-13,1.83
+908,Movie raise,Horror,1995,167,German,PG-13,1.62
+909,Official manager police,Drama,1987,177,English,R,3.46
+910,Draw from,Action,2010,107,German,PG-13,2.97
+911,Require order property,Sci-Fi,2011,83,Korean,NC-17,2.12
+912,Rich situation arrive,Horror,2016,76,English,NC-17,4.2
+913,Technology single research,Documentary,2014,64,German,PG-13,2.57
+914,Know safe,Comedy,2009,75,Japanese,NC-17,2.84
+915,President question,Action,1980,146,Hindi,R,3.32
+916,Father specific,Romance,2003,138,Korean,PG-13,1.75
+917,Standard raise,Sci-Fi,1995,94,French,NC-17,2.37
+918,True especially,Comedy,2011,114,Hindi,R,3.8
+919,These large reach,Romance,2003,169,French,PG-13,2.8
+920,Article myself product,Comedy,2016,147,Hindi,G,3.88
+921,Production guy everybody force,Horror,2015,115,Korean,R,1.78
+922,Specific new among,Comedy,2010,163,English,PG,2.69
+923,Try interesting,Comedy,2020,126,German,PG-13,4.14
+924,Explain young,Sci-Fi,1996,131,Korean,NC-17,1.19
+925,Interest care require,Drama,2024,80,English,PG,4.26
+926,Only set,Documentary,2020,72,French,PG-13,2.04
+927,Debate several leg,Romance,2015,131,Korean,PG-13,2.38
+928,Small drop,Thriller,1987,104,Korean,NC-17,1.8
+929,According rate,Comedy,1998,105,Spanish,NC-17,2.95
+930,Store involve,Documentary,1985,108,German,PG-13,2.86
+931,Vote,Comedy,1990,141,Korean,PG-13,2.69
+932,Success give,Thriller,1984,70,Hindi,PG-13,1.91
+933,Idea heavy science,Romance,2021,97,Japanese,PG-13,3.42
+934,Enough cause population,Thriller,1997,173,French,PG-13,3.99
+935,Everybody under read,Documentary,2006,81,Hindi,G,1.5
+936,Class management check,Horror,2022,92,Japanese,G,1.84
+937,Huge not their,Thriller,1986,72,English,R,3.19
+938,Occur live time card,Action,2005,127,Korean,G,1.42
+939,Or citizen interest,Comedy,1985,143,French,PG-13,1.92
+940,Yourself source house,Sci-Fi,2008,140,Hindi,PG,3.11
+941,School after,Comedy,1981,64,Japanese,PG-13,4.44
+942,Guess administration,Romance,2010,119,Korean,NC-17,4.74
+943,Manager spend evening,Documentary,1988,149,German,PG,3.36
+944,Father say six,Documentary,2020,155,Japanese,NC-17,2.74
+945,Moment close his let,Sci-Fi,2002,121,German,PG,4.22
+946,Service arrive many,Documentary,1999,106,French,PG-13,1.62
+947,Source believe,Action,1980,126,Korean,PG,2.38
+948,Sign according,Documentary,2014,61,Japanese,R,4.79
+949,Understand list,Documentary,1999,61,Korean,R,4.19
+950,Seat wide believe,Horror,1980,130,Spanish,PG,2.65
+951,Police billion trouble,Thriller,2005,91,Hindi,R,4.31
+952,Laugh,Horror,1996,70,French,PG,3.07
+953,Government ability,Sci-Fi,1998,143,Japanese,NC-17,4.24
+954,Name lay,Thriller,1992,169,English,PG,1.55
+955,Country analysis,Drama,2020,118,German,R,2.09
+956,Few research,Documentary,1992,101,English,PG,1.2
+957,Record poor bar,Action,1991,73,Spanish,PG-13,1.5
+958,Sing fill a,Documentary,1980,89,English,PG,1.06
+959,Economic cultural,Horror,2001,113,Spanish,R,4.99
+960,Try skin,Documentary,2024,161,English,PG-13,1.32
+961,Write site,Comedy,1983,94,Korean,R,1.29
+962,Machine sing those,Documentary,1991,84,Korean,PG-13,4.27
+963,Computer appear much,Action,1987,158,Japanese,PG,2.54
+964,Wish adult,Documentary,1995,154,English,PG,2.84
+965,Page,Drama,2013,145,Hindi,R,2.56
+966,Decade rich south up,Sci-Fi,2000,80,Japanese,G,3.98
+967,Stop industry ability this,Drama,1996,121,Japanese,PG-13,1.79
+968,Of television probably,Action,2022,87,English,PG,3.53
+969,Television real,Romance,1980,81,Korean,PG-13,3.34
+970,Offer argue peace certainly,Thriller,1995,61,English,NC-17,4.13
+971,Move mother,Documentary,2024,136,Hindi,PG-13,4.08
+972,Maybe child,Horror,1990,123,English,NC-17,2.35
+973,Thus husband,Action,1983,105,Japanese,PG,3.81
+974,Experience particular,Drama,1988,122,Hindi,PG-13,4.93
+975,Reach will win,Romance,2008,153,Hindi,G,3.76
+976,He training him,Romance,1988,92,English,R,3.83
+977,Show network participant,Sci-Fi,2014,149,French,PG,3.27
+978,While son,Romance,2000,153,French,PG-13,4.47
+979,Arrive account home generation,Comedy,1984,127,Hindi,R,2.18
+980,There billion seem,Sci-Fi,2014,106,French,G,4.1
+981,Avoid political form,Thriller,1991,173,English,NC-17,4.43
+982,He car within reality,Horror,2000,152,English,NC-17,4.28
+983,True past,Horror,2013,147,French,NC-17,1.62
+984,Reveal issue,Sci-Fi,2000,112,Japanese,PG-13,1.44
+985,Key season,Drama,1982,166,Hindi,PG,4.49
+986,Paper decide order,Horror,1986,122,Hindi,G,1.13
+987,Line civil,Thriller,2022,122,German,NC-17,3.81
+988,Leg national into,Sci-Fi,1983,106,Hindi,NC-17,3.87
+989,Similar cell throw,Action,1993,143,French,G,2.87
+990,Day environment,Action,2003,131,Japanese,R,4.29
+991,Red dinner,Action,2019,94,German,G,3.94
+992,Maybe among very financial,Sci-Fi,1984,180,Hindi,NC-17,1.39
+993,Structure have news,Horror,2014,109,Hindi,PG,3.1
+994,Wear stay hour technology,Horror,2016,140,Hindi,NC-17,4.0
+995,Drive church,Thriller,1986,158,Japanese,NC-17,2.43
+996,Close significant door single,Documentary,2024,145,French,G,1.67
+997,Find represent teach,Comedy,2015,111,German,PG-13,3.63
+998,Assume knowledge,Documentary,2002,175,Spanish,NC-17,4.97
+999,Some simply,Romance,2003,112,Korean,R,4.3
+1000,Night their oil,Romance,2018,90,German,NC-17,1.86
+1001,Rock choose,Sci-Fi,2003,117,French,R,1.0
+1002,Produce wish,Action,1998,136,English,NC-17,1.54
+1003,Hit ground degree,Sci-Fi,1980,98,Hindi,PG,4.42
+1004,Tell ask,Action,2024,165,Spanish,NC-17,3.05
+1005,Stop leg choice still,Comedy,1986,64,French,PG-13,1.62
+1006,Cover skill,Sci-Fi,2003,173,German,PG,1.93
+1007,Quite power outside,Sci-Fi,1985,133,French,NC-17,4.67
+1008,Family red,Drama,2000,161,French,PG,2.95
+1009,Property we attorney,Drama,2018,142,Spanish,G,3.92
+1010,Animal follow meet,Thriller,1985,159,English,PG-13,2.39
+1011,Tv,Thriller,2006,179,Korean,G,4.48
+1012,Newspaper arm between with,Horror,2021,168,German,G,3.54
+1013,Institution,Thriller,1983,99,German,G,2.28
+1014,Measure fly,Comedy,2000,124,Japanese,PG,1.61
+1015,Single section attorney,Thriller,2008,156,German,NC-17,3.02
+1016,Nice,Horror,2007,97,Korean,R,1.59
+1017,North movement from,Romance,1985,120,German,G,3.19
+1018,Save although economy religious,Sci-Fi,1985,111,German,R,4.1
+1019,State mind image on,Comedy,1988,121,German,PG,2.95
+1020,Tonight range,Horror,2015,138,Japanese,NC-17,1.98
+1021,Religious financial,Drama,1997,159,French,PG-13,3.74
+1022,Size describe,Drama,1987,145,French,R,2.46
+1023,From address,Horror,2000,104,German,G,4.08
+1024,Hope once,Comedy,2002,138,Korean,R,3.49
+1025,Ever billion glass,Documentary,1982,178,Korean,PG,1.8
+1026,Glass new skill,Romance,1989,156,Japanese,G,1.45
+1027,Fact school wife sort,Action,1995,139,Hindi,PG-13,1.05
+1028,Hour old walk,Drama,1999,117,French,G,2.33
+1029,Reality relationship,Horror,1993,129,German,PG-13,3.2
+1030,Pay,Comedy,2024,149,Japanese,G,2.51
+1031,Place or affect including,Action,1996,81,English,PG-13,1.8
+1032,Floor,Sci-Fi,1983,119,Japanese,G,1.27
+1033,Foot site business,Sci-Fi,2022,169,Japanese,PG-13,4.46
+1034,Later picture value,Action,1998,171,Japanese,R,1.92
+1035,Among make,Thriller,2012,150,English,PG-13,2.94
+1036,Month especially,Drama,1991,85,German,R,3.24
+1037,Deep class government,Action,1982,91,German,PG-13,2.33
+1038,Your there,Thriller,1990,62,Spanish,PG-13,2.42
+1039,Structure day class,Sci-Fi,1995,124,Spanish,G,3.5
+1040,Green common outside,Thriller,1981,180,German,PG-13,1.9
+1041,Right security much,Romance,2005,144,Hindi,G,3.92
+1042,Deal cost improve,Horror,2006,90,German,PG,2.71
+1043,Shoulder,Sci-Fi,2018,102,French,NC-17,1.53
+1044,Since garden expect,Comedy,2017,129,Japanese,PG,4.45
+1045,Church best,Sci-Fi,2024,150,German,PG,2.72
+1046,Practice whom whether,Comedy,2021,179,German,PG,2.27
+1047,Provide movement couple develop,Drama,1991,100,Korean,PG,3.91
+1048,Believe game market,Romance,2006,112,Spanish,R,3.98
+1049,Us door,Sci-Fi,1989,159,Hindi,G,1.53
+1050,Summer art myself,Action,2019,138,Spanish,NC-17,3.27
+1051,Learn even unit when,Horror,2018,89,Hindi,G,2.44
+1052,Blood why,Documentary,1988,124,Korean,NC-17,2.88
+1053,Pm himself,Romance,1991,169,French,R,2.9
+1054,Lay break,Comedy,1992,88,English,R,4.06
+1055,Player,Action,1997,112,Hindi,PG,4.03
+1056,Mother water,Drama,1991,178,French,NC-17,2.96
+1057,Bad southern,Romance,2009,173,Hindi,R,2.62
+1058,North,Action,2018,154,Korean,R,3.88
+1059,These individual one,Thriller,2019,180,Japanese,NC-17,3.38
+1060,Government road last,Action,2013,73,French,R,4.31
+1061,Sea gas manage,Action,1995,126,German,R,4.94
+1062,Thank knowledge near,Action,2015,109,German,G,1.76
+1063,Quite especially,Documentary,2005,173,Spanish,PG-13,2.85
+1064,Final compare,Thriller,1998,138,English,NC-17,4.61
+1065,Room travel knowledge,Documentary,2021,117,English,NC-17,1.45
+1066,Another project many,Comedy,2005,112,Spanish,R,1.1
+1067,Special,Documentary,2017,174,Japanese,PG,4.53
+1068,Level character,Drama,1996,101,Japanese,PG,3.87
+1069,State how face,Drama,1985,74,Japanese,R,3.54
+1070,Effect difference its,Drama,2013,150,French,NC-17,3.45
+1071,Herself,Comedy,2004,130,French,G,4.07
+1072,Couple need,Romance,2016,171,Japanese,PG,1.65
+1073,Guy choose,Comedy,1991,158,Japanese,G,2.68
+1074,Cold everybody,Sci-Fi,2008,96,Japanese,PG,1.47
+1075,Condition fire however,Comedy,1992,60,German,PG-13,1.05
+1076,Have shoulder certain man,Documentary,2011,129,Korean,G,3.43
+1077,Social go card,Documentary,1995,87,German,R,2.81
+1078,Century up,Documentary,1985,136,German,G,1.98
+1079,Walk affect think,Sci-Fi,2019,140,German,PG,1.2
+1080,Study,Comedy,1983,143,Spanish,G,1.58
+1081,Congress explain will,Action,2022,133,Korean,NC-17,2.19
+1082,Bring,Drama,1983,73,French,PG,1.65
+1083,One baby feeling toward,Sci-Fi,2019,144,Japanese,NC-17,3.29
+1084,Major between form,Comedy,2009,155,German,PG-13,4.73
+1085,Billion will,Drama,1999,101,Spanish,R,4.28
+1086,High kitchen while,Thriller,2015,68,Spanish,R,1.54
+1087,Crime do watch,Sci-Fi,2001,127,French,NC-17,1.84
+1088,Paper source professional new,Horror,2019,67,English,NC-17,3.92
+1089,Impact avoid,Drama,2010,152,Japanese,NC-17,4.74
+1090,Child reduce,Sci-Fi,2007,137,Korean,PG-13,2.04
+1091,Benefit care,Romance,1988,138,German,R,3.08
+1092,Where young oil fast,Documentary,2011,163,Hindi,NC-17,1.93
+1093,Require across,Sci-Fi,1992,60,English,G,2.86
+1094,Drug court,Drama,1993,162,German,R,2.66
+1095,Night learn involve,Romance,2002,131,Korean,PG,1.05
+1096,Attorney she,Horror,2024,96,Spanish,G,2.23
+1097,Base scientist just million,Romance,1980,74,Japanese,PG-13,2.37
+1098,Best least,Action,1991,84,Spanish,PG-13,4.69
+1099,Help likely make,Documentary,2010,162,English,PG,2.93
+1100,Indicate base career,Documentary,2014,174,Spanish,R,4.14
+1101,Significant federal,Thriller,1983,166,German,PG-13,3.26
+1102,Quality,Romance,2015,128,English,PG,3.31
+1103,Drive certainly matter,Romance,2002,68,Hindi,PG-13,4.36
+1104,Staff interview tree,Romance,2004,140,German,PG,3.28
+1105,Guess forget,Thriller,1991,136,English,PG-13,3.82
+1106,After,Romance,1982,94,French,G,2.99
+1107,Since artist,Horror,2003,117,Korean,PG-13,1.86
+1108,Probably,Sci-Fi,1991,74,Spanish,G,4.11
+1109,Prove,Drama,2008,124,English,R,4.62
+1110,Ok reveal be,Comedy,1992,103,French,NC-17,2.24
+1111,Today good,Romance,1989,158,Korean,G,4.29
+1112,Year amount,Comedy,1993,152,English,R,2.55
+1113,Fly laugh take,Drama,1980,99,English,NC-17,4.49
+1114,Best fish,Romance,2009,173,English,G,3.08
+1115,Available career write,Sci-Fi,1981,133,Korean,PG-13,3.56
+1116,General surface task hotel,Horror,2000,85,Hindi,PG-13,2.11
+1117,Message network,Romance,2008,145,English,PG-13,1.6
+1118,Sound today,Sci-Fi,1987,61,German,NC-17,3.06
+1119,Plant few among step,Horror,2014,104,German,PG-13,2.08
+1120,Pass center,Sci-Fi,2016,91,Hindi,G,2.25
+1121,Place peace red,Romance,2014,116,English,PG,1.12
+1122,Its you employee cultural,Action,1986,109,English,G,2.71
+1123,Third mean floor,Comedy,2018,174,German,R,3.47
+1124,Rest final,Sci-Fi,2001,164,Hindi,NC-17,1.31
+1125,Study wife room,Documentary,2016,76,English,R,1.39
+1126,Institution bank operation,Sci-Fi,2023,142,Japanese,R,2.88
+1127,Game strong hot,Horror,1989,170,German,PG-13,4.65
+1128,Here card fear,Thriller,1991,149,Japanese,PG-13,4.16
+1129,That air,Romance,2009,122,English,G,2.9
+1130,Say miss,Romance,2010,119,Korean,PG,2.13
+1131,Case evening,Romance,2018,133,Hindi,NC-17,1.41
+1132,Authority event,Drama,2000,131,Japanese,G,4.17
+1133,Side,Documentary,2005,135,French,PG,3.48
+1134,The why,Comedy,2010,109,English,PG-13,1.83
+1135,Piece green card,Thriller,2007,132,Korean,PG-13,3.18
+1136,Drug arm ground job,Horror,1991,144,Japanese,G,3.96
+1137,Me page see public,Documentary,1987,135,German,R,2.3
+1138,Say natural watch,Drama,2008,82,Spanish,R,1.28
+1139,Central shoulder,Drama,2023,164,German,R,2.31
+1140,Soldier my tough,Action,1985,87,Korean,PG,4.55
+1141,Author big oil,Action,1989,144,Hindi,R,3.13
+1142,Specific concern,Thriller,2019,133,French,PG,1.82
+1143,Region wrong amount role,Romance,1999,132,Korean,PG-13,4.67
+1144,Another single gun,Thriller,2002,71,German,G,3.45
+1145,Unit board,Thriller,1988,169,Spanish,G,2.48
+1146,Past nice,Action,1980,150,German,PG-13,1.44
+1147,American success difficult,Sci-Fi,1981,90,French,NC-17,2.58
+1148,Management difference crime majority,Romance,2004,111,French,R,3.18
+1149,Behavior mean bag,Comedy,2010,77,Hindi,NC-17,2.54
+1150,Recognize put thought find,Romance,2006,79,Spanish,PG,1.54
+1151,Hope member,Drama,2021,62,Hindi,R,3.63
+1152,Current look so wall,Comedy,1985,77,Japanese,R,4.44
+1153,Process during difference,Thriller,2019,83,French,NC-17,2.7
+1154,Bed discover plant,Documentary,2004,105,Hindi,PG,2.7
+1155,While,Action,2016,123,Korean,PG,3.85
+1156,Three argue street,Sci-Fi,2006,178,German,NC-17,2.47
+1157,Power dinner,Action,2016,121,Japanese,PG-13,1.45
+1158,College authority,Documentary,2024,70,Hindi,NC-17,4.93
+1159,Type,Sci-Fi,2009,126,English,NC-17,4.56
+1160,Election top somebody,Drama,1995,120,Japanese,G,3.74
+1161,Skill every important population,Sci-Fi,2019,66,Spanish,NC-17,4.11
+1162,Address feel,Documentary,2009,125,French,NC-17,3.94
+1163,Step successful amount,Thriller,2002,162,Spanish,PG-13,1.67
+1164,Fire box audience,Sci-Fi,2016,93,English,R,3.31
+1165,Treatment choice above,Action,2022,97,Korean,NC-17,1.11
+1166,Bring more,Documentary,1985,76,German,G,4.41
+1167,With effort,Sci-Fi,1996,76,German,PG-13,2.1
+1168,Model exist,Sci-Fi,1980,154,English,NC-17,1.7
+1169,I specific allow,Comedy,2022,117,Spanish,PG,2.05
+1170,Away,Horror,2011,83,Korean,NC-17,4.45
+1171,Strong week,Romance,1985,78,German,PG,4.35
+1172,Fact arrive,Thriller,2004,90,Japanese,R,3.9
+1173,Professional,Comedy,1993,133,Japanese,PG-13,1.22
+1174,Right never,Sci-Fi,1987,66,Hindi,R,2.59
+1175,Sell yet different,Sci-Fi,2010,155,Korean,NC-17,1.93
+1176,Game front of,Thriller,2010,93,Hindi,NC-17,4.48
+1177,Money beat,Action,1998,178,Korean,R,2.53
+1178,Both money,Romance,2013,147,English,G,4.67
+1179,Among once four,Romance,2007,138,Japanese,PG-13,2.34
+1180,Audience data someone,Sci-Fi,1986,92,Japanese,NC-17,2.56
+1181,Wonder once sing,Horror,2023,135,Korean,PG,3.08
+1182,Box employee heavy,Comedy,2000,130,English,G,4.33
+1183,Standard crime body,Action,2006,72,German,G,3.74
+1184,Size everyone,Romance,1994,152,Spanish,PG-13,1.77
+1185,Mouth fact own sort,Action,2019,71,English,NC-17,3.63
+1186,Easy investment front,Horror,2018,141,English,G,1.35
+1187,Man girl six,Comedy,2004,144,Korean,NC-17,4.21
+1188,Hard type moment already,Comedy,1987,149,Hindi,PG-13,2.18
+1189,Back street,Drama,2020,118,Spanish,R,3.77
+1190,Help,Romance,1996,80,Korean,G,2.11
+1191,Economic with two,Action,2004,109,Spanish,G,2.03
+1192,Capital situation particular,Sci-Fi,1991,116,English,R,4.92
+1193,Remember,Horror,2019,110,Hindi,R,1.43
+1194,Tv half success,Thriller,1993,138,Japanese,G,4.65
+1195,Opportunity foot,Sci-Fi,1986,64,English,G,3.29
+1196,Size no whether,Sci-Fi,2008,62,French,PG,3.61
+1197,Already for,Action,1982,145,French,PG-13,1.61
+1198,Red partner,Romance,2005,133,English,NC-17,3.83
+1199,Woman sometimes,Documentary,2010,115,French,G,3.16
+1200,Civil money fill,Action,2004,148,Korean,R,1.48
+1201,Sport,Romance,2001,147,Spanish,R,1.22
+1202,Night something,Drama,2003,128,Korean,PG-13,1.32
+1203,Response machine activity tend,Documentary,1998,142,Hindi,PG,3.22
+1204,Interest turn,Thriller,2022,84,Spanish,R,4.59
+1205,Move,Romance,2011,70,Japanese,R,3.94
+1206,Structure money,Comedy,1982,84,English,NC-17,1.95
+1207,News baby trip,Thriller,1984,161,German,PG-13,3.0
+1208,Drug explain,Documentary,1981,64,Spanish,G,2.35
+1209,Use reflect specific,Action,2005,75,Hindi,NC-17,2.83
+1210,Student lawyer sense,Comedy,2017,89,English,G,3.94
+1211,Suddenly,Documentary,2021,62,French,NC-17,1.18
+1212,Term specific nothing,Comedy,1980,82,Japanese,G,4.62
+1213,Some,Drama,2009,138,Hindi,NC-17,1.26
+1214,Education force,Drama,1987,123,German,NC-17,1.88
+1215,Movement style,Horror,2007,103,Korean,R,2.3
+1216,Exist food,Comedy,2000,167,Korean,PG,4.06
+1217,To,Comedy,2001,68,English,PG-13,1.56
+1218,Certainly,Thriller,1990,149,Spanish,NC-17,1.66
+1219,Loss fund successful,Horror,2017,65,Hindi,G,4.16
+1220,Point truth real,Thriller,1990,62,French,G,1.03
+1221,Arrive,Comedy,1985,150,Japanese,NC-17,4.55
+1222,Easy information large,Thriller,2024,163,Korean,R,3.77
+1223,Training onto information,Horror,1989,141,Spanish,NC-17,2.8
+1224,Deal administration end,Horror,1991,138,Japanese,G,3.39
+1225,Woman south help,Documentary,2019,71,Japanese,PG-13,2.39
+1226,Policy include,Action,2015,90,Hindi,G,4.95
+1227,Night break,Drama,2019,106,Korean,NC-17,3.03
+1228,Just American down rather,Documentary,2020,144,Hindi,PG-13,1.21
+1229,Republican agency huge,Drama,1989,147,Korean,R,2.99
+1230,Exist the interesting,Comedy,2022,178,English,G,3.58
+1231,Almost,Sci-Fi,1993,115,Spanish,PG-13,3.47
+1232,Behind prepare,Documentary,1982,73,Japanese,G,4.7
+1233,Under process short,Comedy,1990,160,English,R,3.06
+1234,Grow ask,Drama,1995,152,French,NC-17,3.32
+1235,Avoid table,Thriller,1992,155,Japanese,PG-13,1.92
+1236,Any hotel,Drama,2000,89,English,PG,3.95
+1237,Similar very,Horror,2004,174,Hindi,G,2.88
+1238,Old conference,Documentary,1983,173,French,PG,1.86
+1239,Station far billion knowledge,Documentary,1991,109,Spanish,PG,2.83
+1240,Animal thing hear,Horror,2020,105,Spanish,PG,2.34
+1241,Fill service,Action,2024,132,English,PG-13,1.55
+1242,Half it,Documentary,2009,113,Hindi,PG-13,1.88
+1243,Structure,Sci-Fi,2018,80,Korean,NC-17,4.62
+1244,Once particular,Horror,1985,112,Korean,NC-17,2.96
+1245,List water teach,Horror,2017,120,Korean,R,2.12
+1246,Break position sometimes,Thriller,1995,91,Spanish,R,3.32
+1247,Collection attorney,Comedy,2016,174,English,R,4.92
+1248,Race use modern,Action,2010,153,Korean,NC-17,1.13
+1249,Kitchen practice,Thriller,2010,163,Korean,G,2.81
+1250,Write suggest table,Horror,1985,131,Korean,G,3.77
+1251,Stay floor thousand region,Thriller,1993,76,Spanish,PG-13,1.96
+1252,Nice product,Drama,1981,121,Japanese,PG-13,1.65
+1253,Which,Documentary,2016,155,German,G,4.91
+1254,Outside act,Documentary,1988,171,Japanese,R,1.74
+1255,Foot box hospital,Romance,2020,119,Japanese,G,4.44
+1256,Carry crime,Drama,2004,174,Japanese,PG-13,3.12
+1257,Company compare,Sci-Fi,2007,156,Spanish,NC-17,3.17
+1258,Certainly,Horror,2023,70,German,PG-13,3.94
+1259,Hard,Action,2012,176,Japanese,PG-13,4.55
+1260,Democrat candidate military,Drama,2004,106,French,NC-17,1.16
+1261,Teacher because,Romance,1991,142,German,G,3.24
+1262,Section than organization,Horror,1988,102,Hindi,NC-17,1.45
+1263,Boy usually miss other,Documentary,2017,171,Japanese,PG,4.01
+1264,Its push,Horror,2000,105,Spanish,NC-17,3.72
+1265,Even energy,Sci-Fi,1983,68,Spanish,PG-13,2.81
+1266,Education mind plant else,Drama,2010,150,German,NC-17,4.6
+1267,Painting fast available,Documentary,2019,107,Korean,G,1.75
+1268,In improve back,Documentary,1985,70,French,PG,2.15
+1269,Marriage goal wonder,Drama,1986,81,Spanish,G,3.79
+1270,Theory follow marriage,Documentary,1989,171,Hindi,NC-17,4.81
+1271,Do something return,Action,1998,113,Japanese,NC-17,4.73
+1272,Much,Documentary,2002,113,French,G,2.17
+1273,Chance,Drama,1981,171,Korean,PG,4.34
+1274,Everything difficult large,Romance,2006,134,Spanish,PG-13,2.94
+1275,Left color final,Documentary,2009,98,German,PG,4.59
+1276,Area law one war,Sci-Fi,1990,161,Spanish,PG,2.94
+1277,Prepare product manage,Sci-Fi,1983,78,Spanish,PG-13,2.82
+1278,Red toward,Comedy,2019,178,Hindi,NC-17,2.14
+1279,Rule,Comedy,2024,175,Japanese,PG,1.65
+1280,Memory though,Drama,1982,100,German,PG,2.76
+1281,None simply,Romance,1991,86,German,G,3.66
+1282,Professional natural stage,Romance,1989,107,French,NC-17,4.9
+1283,Face language,Sci-Fi,1987,177,English,R,4.72
+1284,Once charge create,Comedy,2009,178,Spanish,PG,1.02
+1285,Bad offer,Romance,2021,150,Spanish,R,4.58
+1286,Establish Congress,Comedy,2016,153,French,PG-13,3.76
+1287,Son tonight,Documentary,1982,77,Japanese,NC-17,1.47
+1288,Exactly,Action,2005,139,Korean,PG,2.78
+1289,Type,Drama,2000,67,German,PG,3.33
+1290,Pretty during,Horror,1997,85,English,G,3.15
+1291,Field assume,Documentary,2023,145,English,NC-17,2.58
+1292,Many daughter,Documentary,2000,137,German,NC-17,4.77
+1293,Able reality eat,Romance,2005,78,Japanese,R,2.48
+1294,Organization fall more,Romance,1980,96,Spanish,PG-13,2.23
+1295,Expect really reason,Documentary,2015,71,Hindi,R,3.97
+1296,These fire because,Thriller,2008,96,Hindi,R,3.91
+1297,Great next,Thriller,1988,166,German,NC-17,1.34
+1298,Firm dream,Horror,1999,120,Korean,NC-17,4.95
+1299,Probably realize,Drama,2017,156,French,G,1.03
+1300,Art quite keep hundred,Sci-Fi,2006,82,German,R,3.84
+1301,Especially produce,Comedy,1992,83,Korean,R,2.16
+1302,Deep maybe,Documentary,1982,165,Korean,PG-13,4.34
+1303,Show,Sci-Fi,2011,131,Japanese,R,1.9
+1304,Town another read,Action,1989,93,Spanish,R,1.5
+1305,Body enough alone,Sci-Fi,2006,82,French,PG,1.11
+1306,Environment able television,Sci-Fi,2011,68,German,PG-13,3.32
+1307,Ability expect,Thriller,1996,140,Japanese,R,4.9
+1308,Exist four reach,Drama,2003,125,Japanese,NC-17,1.07
+1309,Every lawyer game,Sci-Fi,1990,134,English,PG,2.28
+1310,Sister magazine,Comedy,2002,80,English,PG-13,2.44
+1311,Tend price though,Romance,1983,97,Spanish,NC-17,3.56
+1312,Shoulder,Drama,2012,84,Korean,PG,4.06
+1313,Little hand turn,Comedy,2014,101,Korean,PG-13,4.31
+1314,Choose degree,Sci-Fi,1997,147,Japanese,PG-13,1.38
+1315,Firm shoulder,Romance,1989,61,Hindi,NC-17,2.13
+1316,Staff contain,Documentary,2006,103,Hindi,G,1.87
+1317,Floor him,Horror,1992,161,German,NC-17,3.76
+1318,Main ten both,Drama,2006,118,English,G,4.28
+1319,See baby author,Action,2010,104,Spanish,PG-13,1.56
+1320,Size later American,Documentary,2018,126,Korean,PG-13,1.69
+1321,Pretty beat,Sci-Fi,1981,155,Korean,G,1.89
+1322,Role us three,Comedy,2024,89,Spanish,PG,1.84
+1323,Partner cover rate,Drama,2007,148,Korean,G,1.31
+1324,I bit,Documentary,2007,65,Hindi,G,1.13
+1325,Occur force,Action,2010,75,Spanish,G,1.26
+1326,Kind cup,Action,1986,160,English,NC-17,1.82
+1327,Possible,Horror,1991,145,Spanish,G,1.36
+1328,Place week,Sci-Fi,2017,104,Spanish,PG,4.42
+1329,Bag type,Horror,2012,132,English,G,4.28
+1330,Soldier always,Action,2013,87,Japanese,PG,4.86
+1331,Sense her,Comedy,2014,60,Japanese,G,4.7
+1332,Itself call,Documentary,2003,149,German,PG,2.76
+1333,Report lawyer,Drama,1991,166,Spanish,R,2.7
+1334,Tough add,Horror,2006,74,Korean,PG-13,1.49
+1335,Sport run,Drama,2013,77,French,PG-13,3.82
+1336,Under that,Action,1985,101,French,G,2.54
+1337,Indicate various,Documentary,2018,154,Spanish,R,1.9
+1338,Involve deep vote,Thriller,1998,169,French,PG,4.43
+1339,Table so author,Documentary,2023,107,Hindi,G,4.99
+1340,South environmental interesting,Documentary,2023,73,French,R,3.09
+1341,Hospital meeting tough,Drama,1987,78,French,R,3.78
+1342,Point black,Drama,1990,68,Spanish,PG,2.35
+1343,Certain,Thriller,1987,89,Korean,R,3.9
+1344,Read wrong play,Sci-Fi,2017,135,Spanish,R,2.42
+1345,Campaign opportunity score,Thriller,2011,125,Spanish,PG,4.07
+1346,Attack court give,Drama,1987,92,French,R,1.92
+1347,Nearly,Comedy,1981,72,Japanese,G,4.32
+1348,Produce standard,Documentary,2023,63,Hindi,R,3.42
+1349,Area they do,Romance,1989,98,German,NC-17,1.39
+1350,Standard foreign,Drama,2022,156,German,R,4.17
+1351,Mrs laugh charge,Horror,1998,144,French,R,3.02
+1352,Control piece practice,Romance,2014,129,English,G,4.96
+1353,Next second either,Drama,2004,117,Spanish,R,2.77
+1354,Low physical deal size,Action,1982,82,German,PG-13,4.54
+1355,Allow,Comedy,2011,115,Hindi,PG-13,3.86
+1356,Ask chair nearly institution,Documentary,1987,132,Japanese,R,3.64
+1357,Standard management,Documentary,2010,131,Korean,PG,3.03
+1358,His people edge,Thriller,1996,123,German,R,3.47
+1359,Tree because benefit control,Romance,1998,101,English,G,3.36
+1360,Grow,Comedy,2003,104,Korean,NC-17,1.11
+1361,Anything,Romance,2004,72,French,PG-13,4.97
+1362,Field movement,Thriller,2002,67,Japanese,PG,1.99
+1363,Drive health,Sci-Fi,2017,70,Japanese,G,4.48
+1364,Moment wall interesting,Drama,2001,81,English,NC-17,2.3
+1365,Section easy,Documentary,2022,170,French,NC-17,3.06
+1366,To reach,Thriller,1997,62,Japanese,R,3.35
+1367,Officer he other,Romance,2004,133,French,PG-13,3.29
+1368,Increase,Documentary,1986,148,Japanese,PG,2.34
+1369,Threat case first,Romance,1990,138,Spanish,PG-13,4.88
+1370,Any,Horror,2011,141,Korean,G,4.36
+1371,Create attention camera,Horror,1998,93,English,PG-13,4.98
+1372,Open,Thriller,1994,139,Japanese,G,3.87
+1373,Result happy,Drama,2017,103,Spanish,G,3.27
+1374,Send north ask,Documentary,2007,86,Spanish,G,3.61
+1375,Education unit purpose if,Sci-Fi,2012,162,Spanish,R,3.65
+1376,Benefit music,Romance,1992,113,French,PG-13,3.5
+1377,Nature scientist nearly,Documentary,2022,157,German,PG,4.52
+1378,Trip,Comedy,2016,123,Hindi,R,2.07
+1379,Memory partner,Thriller,2016,153,Japanese,G,3.09
+1380,Effect answer best paper,Romance,2009,78,Hindi,PG,3.99
+1381,Whose husband concern,Sci-Fi,2007,112,Spanish,G,3.54
+1382,Young answer hospital,Thriller,1997,165,Spanish,PG,2.03
+1383,Long event,Horror,2005,90,English,PG,1.77
+1384,Although especially,Horror,1999,119,French,NC-17,4.97
+1385,Choice off evening keep,Thriller,2021,175,English,PG,1.64
+1386,Huge especially,Comedy,1981,93,Korean,PG-13,3.63
+1387,Production position radio,Comedy,2021,169,English,R,4.13
+1388,Upon people,Action,1985,100,German,PG-13,4.47
+1389,Less government,Thriller,2003,145,Japanese,G,2.59
+1390,Send small,Comedy,1995,74,German,NC-17,4.73
+1391,Father minute,Sci-Fi,2011,173,English,PG,3.4
+1392,View rise go recently,Romance,2001,166,German,R,4.22
+1393,Figure president fill,Horror,2007,87,Hindi,G,1.7
+1394,Ready,Sci-Fi,2008,112,Spanish,NC-17,1.22
+1395,Not action cultural,Romance,2024,74,Spanish,NC-17,2.7
+1396,Surface style win,Horror,1997,172,Korean,PG,2.45
+1397,Politics box,Romance,1999,62,Japanese,NC-17,1.14
+1398,Site across,Action,2024,177,Korean,PG,2.01
+1399,Or,Thriller,1999,141,Japanese,PG-13,4.61
+1400,Gun end interest,Drama,2014,170,Hindi,R,2.55
+1401,Believe,Thriller,1996,98,English,PG,2.19
+1402,Nice loss,Comedy,2008,140,Spanish,R,4.16
+1403,Late moment,Sci-Fi,1985,165,Korean,R,2.88
+1404,Child,Thriller,2001,151,French,G,4.3
+1405,Vote trip,Sci-Fi,2012,68,Spanish,R,3.41
+1406,Citizen not deal,Romance,2009,148,English,G,3.57
+1407,Finally memory,Comedy,2020,116,Korean,PG,1.01
+1408,Effort above technology,Horror,2020,99,Spanish,NC-17,1.33
+1409,International likely tough,Comedy,1995,126,Japanese,PG,4.39
+1410,Door budget,Thriller,2000,117,French,PG,2.04
+1411,Others one,Romance,1998,85,English,R,2.47
+1412,Happen race nothing,Thriller,2004,180,Korean,NC-17,1.9
+1413,Since when position,Action,2015,142,German,PG,4.63
+1414,Fact service,Documentary,1992,93,Japanese,PG,1.2
+1415,Attack example understand,Thriller,2018,93,Hindi,G,4.83
+1416,Moment,Comedy,2016,75,English,NC-17,2.74
+1417,Beyond,Documentary,2023,123,English,PG,3.85
+1418,Before increase material stay,Horror,1997,96,Japanese,R,2.53
+1419,Relationship Republican,Thriller,1993,136,Hindi,PG-13,3.91
+1420,City behavior if,Horror,2006,83,French,PG,1.12
+1421,Although laugh first,Sci-Fi,1995,139,French,PG,2.48
+1422,Price show station order,Documentary,1985,61,French,PG,4.49
+1423,Majority they factor,Thriller,2023,87,Japanese,R,3.83
+1424,Simply scene,Sci-Fi,1984,72,German,G,1.21
+1425,Fall save,Horror,2010,176,Spanish,NC-17,4.76
+1426,Use traditional own,Action,1980,92,German,NC-17,2.52
+1427,According,Thriller,2022,107,Hindi,NC-17,1.16
+1428,Task wonder,Comedy,1996,81,German,R,4.72
+1429,End above seem,Documentary,1988,71,Spanish,NC-17,2.73
+1430,Wait other,Sci-Fi,1987,100,English,PG,3.0
+1431,Suggest lose start send,Sci-Fi,2003,178,French,PG-13,4.61
+1432,Want own,Sci-Fi,2019,166,Korean,PG-13,3.07
+1433,Us around wide,Thriller,1990,100,Japanese,R,4.05
+1434,Outside short letter,Comedy,2015,169,Japanese,R,1.21
+1435,Value production,Comedy,1983,89,Hindi,G,2.88
+1436,Sometimes mind,Comedy,2009,115,English,R,1.16
+1437,Computer into,Romance,2015,122,French,R,1.45
+1438,Project money,Comedy,1987,104,English,PG,4.47
+1439,Also buy,Comedy,1990,155,German,PG-13,3.25
+1440,On agency policy,Horror,2017,60,German,NC-17,1.72
+1441,Free protect mission,Drama,1995,158,French,G,4.55
+1442,Whatever I conference,Action,1998,147,Japanese,G,2.58
+1443,Cover teach,Drama,2000,79,English,G,2.84
+1444,Offer no,Documentary,2009,140,Spanish,NC-17,3.63
+1445,Dinner view wish thing,Romance,1982,143,German,R,2.3
+1446,Age bar pretty,Comedy,1993,170,English,PG-13,2.29
+1447,Reason,Action,1984,130,German,R,1.37
+1448,Understand toward mention,Sci-Fi,1991,90,Korean,R,1.36
+1449,They trip,Horror,1990,109,Korean,R,2.14
+1450,Claim third difficult,Comedy,1987,98,French,R,3.94
+1451,Town let,Sci-Fi,2023,137,Hindi,PG-13,3.66
+1452,Entire argue,Romance,2012,85,French,R,4.54
+1453,Find many start,Documentary,1997,132,German,R,1.36
+1454,Inside project,Thriller,2003,138,Hindi,R,3.52
+1455,Father message,Drama,1982,125,Spanish,R,3.71
+1456,Write court anyone,Comedy,2011,127,Japanese,NC-17,1.34
+1457,Drug firm hear,Documentary,2007,70,Korean,R,2.2
+1458,Bad TV may,Comedy,2023,175,Spanish,PG,3.09
+1459,Hotel seven,Sci-Fi,2016,66,German,G,4.67
+1460,Less,Drama,2012,114,French,G,2.86
+1461,Enter every forget,Sci-Fi,2002,92,German,G,4.07
+1462,Card authority never,Action,1987,154,Japanese,R,1.72
+1463,Strong several,Comedy,2005,65,English,R,4.51
+1464,National daughter like,Sci-Fi,2000,135,Japanese,R,4.03
+1465,Around many,Documentary,2019,163,Spanish,PG-13,4.87
+1466,With,Comedy,1993,83,English,NC-17,2.04
+1467,Have charge something,Drama,2007,128,English,G,2.58
+1468,Whom civil,Action,1990,143,French,R,3.77
+1469,Central,Documentary,1999,139,Korean,NC-17,2.44
+1470,Seek strong,Thriller,1999,71,Hindi,PG,1.06
+1471,Agency opportunity,Drama,1981,149,Hindi,G,1.84
+1472,Voice sing investment,Comedy,2021,90,French,NC-17,1.76
+1473,Maintain finally,Sci-Fi,2009,78,French,R,1.09
+1474,Sport front art,Comedy,1989,154,Japanese,R,4.86
+1475,Feel course station,Documentary,1981,170,French,NC-17,1.97
+1476,Myself what tree,Sci-Fi,2016,166,Korean,R,1.2
+1477,Democrat sometimes,Action,1986,140,Korean,R,4.92
+1478,Hour control few,Documentary,2017,136,Japanese,NC-17,5.0
+1479,Rule difference man,Action,2011,111,French,NC-17,3.36
+1480,Style than no,Documentary,1994,151,English,NC-17,1.08
+1481,Easy economy,Romance,2015,68,Spanish,R,4.56
+1482,Project mission,Drama,2011,139,Japanese,PG-13,2.79
+1483,Spend five window,Thriller,1981,80,Spanish,PG,2.88
+1484,Focus may several,Documentary,1994,124,Hindi,NC-17,4.64
+1485,Son thought,Romance,2018,169,Korean,R,1.52
+1486,Open threat future,Sci-Fi,2004,113,Korean,PG-13,4.18
+1487,Though gas push,Comedy,2019,86,Spanish,G,3.67
+1488,Control fall course this,Comedy,1991,85,Hindi,NC-17,2.97
+1489,News movement trouble view,Thriller,2011,98,Hindi,PG,3.23
+1490,Would newspaper because on,Action,2002,172,Spanish,PG-13,3.71
+1491,Peace candidate field,Comedy,2012,64,Korean,G,2.35
+1492,Generation game agent,Drama,2019,89,English,NC-17,1.9
+1493,Rich,Sci-Fi,2001,160,Spanish,G,4.08
+1494,If under popular,Sci-Fi,1989,169,Japanese,NC-17,3.42
+1495,Middle tonight sing,Drama,1983,178,French,R,4.85
+1496,Table region again,Drama,1986,160,German,NC-17,4.13
+1497,Technology someone theory,Drama,2015,65,German,G,1.67
+1498,Trouble evidence buy finally,Drama,1993,176,Spanish,PG,3.91
+1499,Indicate try couple,Documentary,2012,123,Japanese,G,1.62
+1500,House direction process,Romance,2001,164,Hindi,G,4.39
+1501,Worker fine,Documentary,2006,158,Korean,G,1.98
+1502,Allow interesting response,Documentary,2001,96,German,PG,1.34
+1503,Under front subject,Romance,2006,106,Japanese,PG,1.61
+1504,Identify race,Thriller,1994,77,Korean,R,2.65
+1505,Woman foot,Thriller,2009,169,German,PG-13,4.77
+1506,Series test reflect,Documentary,1989,158,English,NC-17,4.77
+1507,Campaign sometimes agency,Drama,2001,100,French,PG,2.74
+1508,Heart,Thriller,1982,144,Japanese,PG,4.61
+1509,Agree Democrat,Action,2020,151,Korean,NC-17,4.89
+1510,Outside ahead movie,Thriller,2005,173,Japanese,NC-17,4.49
+1511,Discuss,Romance,2002,61,Korean,PG-13,4.6
+1512,Imagine energy total,Comedy,2024,111,French,PG,4.55
+1513,Impact remember assume,Documentary,2024,104,Korean,R,4.1
+1514,Successful interest,Sci-Fi,1985,64,German,PG-13,2.56
+1515,Themselves one,Comedy,2013,129,Spanish,PG,1.37
+1516,Able official catch,Sci-Fi,2013,103,Korean,PG,1.09
+1517,Officer picture step,Sci-Fi,1995,166,Korean,PG-13,3.91
+1518,Adult child,Drama,1983,167,Spanish,PG-13,3.51
+1519,Again front woman,Romance,1987,66,Korean,G,2.79
+1520,Game especially value,Action,2009,103,Hindi,NC-17,3.26
+1521,Impact between,Horror,2002,98,Spanish,NC-17,3.69
+1522,Prepare training order nearly,Thriller,2013,154,Hindi,G,2.31
+1523,While meeting often theory,Horror,2003,118,English,PG,3.85
+1524,Smile simply describe,Thriller,1985,71,English,R,4.55
+1525,Increase deal,Documentary,1993,117,English,PG-13,3.71
+1526,Future season ok,Thriller,2017,131,German,R,4.49
+1527,Back source,Documentary,2020,114,French,R,3.93
+1528,Lot authority story,Thriller,1990,78,German,PG,2.94
+1529,Always cover,Documentary,1988,150,German,NC-17,1.47
+1530,Culture manager,Horror,2009,120,English,PG,4.78
+1531,State,Romance,1987,137,Korean,R,1.44
+1532,Onto certain,Romance,2016,97,English,NC-17,1.61
+1533,Be face,Romance,1999,107,Spanish,PG-13,2.94
+1534,Though figure,Comedy,1989,160,German,R,1.19
+1535,While nor,Sci-Fi,1998,87,Hindi,R,1.01
+1536,Business cut,Romance,1984,171,English,R,2.92
+1537,Do sport almost manage,Sci-Fi,2016,117,Spanish,R,2.9
+1538,Usually blue,Comedy,1988,124,Japanese,R,4.05
+1539,Question move mission,Documentary,1989,170,Japanese,PG-13,1.36
+1540,Relate pick,Thriller,2004,89,French,PG-13,3.16
+1541,Debate away project our,Documentary,1997,142,English,PG,3.83
+1542,Fight toward,Sci-Fi,2015,142,English,NC-17,1.34
+1543,These police into,Action,2016,126,Hindi,R,3.01
+1544,Represent onto,Action,1987,144,German,PG,4.85
+1545,Identify prepare,Sci-Fi,1993,91,Korean,NC-17,2.78
+1546,Success,Romance,2005,135,English,R,4.45
+1547,Will feel born,Action,2001,115,Hindi,R,1.1
+1548,Teacher art inside,Romance,2004,92,English,G,4.92
+1549,Within assume public,Comedy,1998,78,Hindi,PG-13,4.07
+1550,Population would,Comedy,1999,112,Japanese,PG,1.24
+1551,Piece better,Romance,1991,63,Japanese,G,2.19
+1552,Surface customer,Drama,2000,78,French,PG-13,2.03
+1553,Task security,Drama,1983,85,Hindi,NC-17,3.34
+1554,Quite cell,Documentary,2012,156,German,R,4.8
+1555,Water wife,Sci-Fi,1983,100,French,NC-17,2.63
+1556,Nature area,Documentary,1981,112,Japanese,PG,4.65
+1557,Opportunity official environment,Action,1997,130,German,G,1.99
+1558,Summer moment actually,Comedy,1999,132,French,R,1.34
+1559,High evening,Horror,1989,107,German,PG,4.13
+1560,Coach play firm,Thriller,2015,117,English,G,4.25
+1561,Increase baby,Sci-Fi,2021,81,English,G,4.73
+1562,Voice with often unit,Documentary,1997,136,Spanish,R,5.0
+1563,Role language life,Horror,2017,167,German,PG-13,1.18
+1564,Last less,Drama,1999,71,French,G,4.32
+1565,Act assume,Sci-Fi,2007,86,German,NC-17,4.83
+1566,Article exist particular,Romance,2023,103,Japanese,PG-13,4.92
+1567,Task prepare front,Documentary,1997,91,Japanese,PG-13,2.37
+1568,Democratic parent,Documentary,2018,102,English,PG,3.59
+1569,Hot community floor opportunity,Action,2018,120,English,G,3.69
+1570,Pay quality,Thriller,2015,174,Japanese,R,4.05
+1571,Find between,Drama,2021,143,English,NC-17,1.12
+1572,Value chair need,Documentary,2023,75,Spanish,R,4.31
+1573,Kitchen garden,Romance,2004,82,Korean,G,1.5
+1574,Power current station,Romance,1992,116,English,PG,3.97
+1575,Successful couple may,Sci-Fi,2023,177,Japanese,PG-13,1.77
+1576,Guess what official,Sci-Fi,1994,89,French,PG-13,1.15
+1577,Marriage medical position,Documentary,2018,86,English,PG,4.94
+1578,Consumer get,Thriller,1987,171,Spanish,NC-17,3.0
+1579,Factor training,Comedy,2015,84,Japanese,NC-17,3.69
+1580,Short use,Comedy,1984,135,Hindi,G,1.51
+1581,Production other,Horror,2013,153,Korean,PG-13,1.77
+1582,Majority him drive,Action,2024,146,German,NC-17,2.01
+1583,Congress buy,Documentary,1980,180,French,G,4.42
+1584,Source himself today,Romance,2007,168,French,PG-13,1.49
+1585,Question modern,Documentary,2011,106,German,G,4.54
+1586,Performance for late,Horror,1983,95,French,NC-17,2.8
+1587,Treat test both,Action,2005,84,Spanish,G,4.52
+1588,Foot president north hair,Action,1994,148,French,G,4.67
+1589,Writer bag minute,Horror,1990,102,Spanish,G,3.5
+1590,Religious participant,Drama,1981,121,French,G,3.37
+1591,He even event,Romance,1996,91,English,R,1.95
+1592,Five image represent,Romance,1983,165,Spanish,NC-17,4.18
+1593,Risk see return,Drama,2018,139,French,G,3.5
+1594,Garden fire several,Drama,1985,67,English,R,2.25
+1595,He especially turn,Drama,1988,67,Korean,R,1.22
+1596,Agency prove,Thriller,1984,73,Japanese,G,3.24
+1597,Reduce second,Sci-Fi,2004,111,English,NC-17,4.01
+1598,Wife relate everybody,Horror,2018,160,Japanese,NC-17,1.04
+1599,Recognize full series,Thriller,2009,161,French,NC-17,3.48
+1600,Be four,Romance,2021,180,Japanese,G,2.82
+1601,Reason particular specific,Romance,2017,84,English,G,1.05
+1602,Force letter,Drama,2017,161,Korean,PG,4.62
+1603,Trouble in let,Comedy,2020,125,Spanish,PG-13,2.68
+1604,Reduce key,Documentary,1991,91,Hindi,G,1.24
+1605,Arrive small prepare affect,Sci-Fi,2017,115,German,PG-13,2.24
+1606,What skin drive,Comedy,1989,120,Spanish,NC-17,2.37
+1607,Life,Romance,1980,126,German,PG,1.23
+1608,Director place,Action,2007,104,Hindi,PG,3.56
+1609,Character within,Horror,1984,103,Hindi,R,3.78
+1610,Tough whom,Documentary,2018,148,Spanish,NC-17,3.26
+1611,Nice,Romance,2019,98,French,PG-13,1.65
+1612,Hit situation take,Documentary,1982,123,Hindi,G,3.56
+1613,Road million,Horror,2009,139,Hindi,PG,2.92
+1614,Year difficult nice,Romance,2004,86,French,PG,4.3
+1615,Floor deal knowledge,Action,2003,61,English,PG-13,1.12
+1616,Perform budget away,Drama,1989,97,French,PG,3.53
+1617,West produce part this,Romance,1982,63,Hindi,PG,2.14
+1618,Pm girl course,Horror,1996,152,Hindi,PG-13,4.39
+1619,Green class son,Horror,1991,85,English,PG,4.37
+1620,Everybody into,Drama,1981,166,Japanese,PG,2.52
+1621,Ground produce entire,Drama,2001,179,Hindi,PG-13,2.82
+1622,Action similar,Romance,2003,144,Hindi,NC-17,4.91
+1623,Individual thousand,Thriller,1984,75,Hindi,PG,4.18
+1624,Agreement indeed big,Horror,2014,108,Japanese,PG-13,2.27
+1625,Executive statement agent give,Thriller,2020,91,English,NC-17,3.35
+1626,Anything too well,Sci-Fi,1989,101,Hindi,G,3.52
+1627,Market feeling sort,Sci-Fi,1988,168,German,NC-17,4.54
+1628,House meeting task,Horror,1985,160,French,NC-17,1.26
+1629,Soldier rate,Thriller,2021,156,German,PG-13,2.99
+1630,Focus,Documentary,1991,101,Japanese,PG-13,3.1
+1631,Quite,Documentary,2011,120,Spanish,NC-17,2.6
+1632,Sport,Action,1993,88,Hindi,R,4.45
+1633,National about study,Thriller,1993,99,French,R,3.29
+1634,Agreement car speech around,Romance,1996,130,English,PG,4.01
+1635,National bad make exactly,Sci-Fi,2008,126,Spanish,PG,3.34
+1636,Former live,Documentary,2012,139,Spanish,R,2.8
+1637,Market commercial sign,Thriller,2006,107,Korean,R,2.27
+1638,Drug law,Thriller,1981,82,French,PG,2.06
+1639,Race significant from,Drama,2002,175,English,PG-13,4.37
+1640,Yard,Drama,1997,178,Hindi,G,1.47
+1641,Continue have,Romance,1982,129,Hindi,PG-13,1.79
+1642,Condition issue hit,Romance,1996,98,Japanese,PG-13,1.76
+1643,Accept none risk,Comedy,2014,176,Spanish,G,4.08
+1644,Military than,Sci-Fi,2002,160,French,R,4.29
+1645,Wonder particular,Action,2010,143,German,PG,4.46
+1646,Move brother only,Horror,1994,152,Japanese,PG,2.9
+1647,Phone its,Documentary,2009,103,Korean,G,2.25
+1648,Provide great night,Horror,2007,158,Japanese,R,1.84
+1649,Skill imagine particular thing,Documentary,2015,63,Spanish,PG,3.31
+1650,Simple including wonder,Comedy,1999,180,Japanese,G,3.0
+1651,Cup up air,Romance,2001,88,French,R,3.74
+1652,Go reach,Thriller,2024,128,Spanish,PG-13,3.35
+1653,Receive stock movement,Action,1988,79,Spanish,NC-17,3.52
+1654,Court serve charge,Thriller,2004,86,French,G,3.14
+1655,Course better,Horror,2010,73,Spanish,NC-17,4.85
+1656,Car cost,Sci-Fi,1985,81,English,NC-17,1.71
+1657,Movie finish understand treat,Documentary,1981,83,Hindi,G,4.65
+1658,Successful want,Thriller,1998,86,Hindi,PG-13,3.64
+1659,Institution community,Drama,2009,67,Spanish,NC-17,1.04
+1660,Kid picture out talk,Romance,2006,110,Hindi,G,1.52
+1661,Smile throw,Thriller,2010,155,English,R,4.82
+1662,Daughter statement majority,Horror,1988,171,Hindi,PG-13,2.73
+1663,Speech north,Documentary,1990,137,German,PG-13,3.35
+1664,Clear tell bed,Documentary,1997,85,English,PG,2.78
+1665,After ahead collection just,Thriller,2018,163,Hindi,NC-17,2.32
+1666,Congress us,Documentary,2009,119,German,G,3.95
+1667,Price deep,Sci-Fi,2021,172,French,PG-13,3.8
+1668,Blood half kid word,Sci-Fi,2005,138,Korean,PG,2.66
+1669,Information door,Comedy,2019,153,French,R,2.54
+1670,Fear forget decision,Comedy,2024,132,English,R,3.79
+1671,Offer together reflect south,Action,1995,173,Korean,PG,2.1
+1672,Wait my,Sci-Fi,2022,177,English,PG,4.63
+1673,Whatever reveal too,Thriller,2015,75,Spanish,G,4.02
+1674,Us,Romance,2006,117,Hindi,PG-13,1.83
+1675,Sport camera beautiful,Action,2009,63,English,R,2.52
+1676,Pass PM group of,Thriller,1992,110,English,G,2.0
+1677,Writer,Comedy,2000,145,Japanese,R,2.94
+1678,Join,Drama,1985,130,Japanese,PG,3.85
+1679,Analysis discuss eat,Documentary,1988,120,Korean,PG-13,4.37
+1680,Their series,Comedy,1981,137,English,PG,2.18
+1681,Grow age,Thriller,1990,69,Japanese,G,3.71
+1682,Scene cost dog,Comedy,2008,105,Hindi,PG,3.86
+1683,Firm future live,Horror,2008,149,English,NC-17,3.56
+1684,Important challenge,Drama,2004,148,Spanish,R,1.21
+1685,Open sound police,Action,1983,158,French,PG,4.72
+1686,Many lead save,Romance,1995,85,English,G,2.69
+1687,Front rule,Action,2001,165,Hindi,G,1.88
+1688,Assume just yard,Drama,2022,81,Japanese,PG,1.18
+1689,Study increase not,Drama,2000,101,German,PG,3.5
+1690,Evidence available notice,Thriller,2007,75,Hindi,PG,1.42
+1691,Car politics since sometimes,Romance,1991,61,French,PG-13,1.05
+1692,Goal,Horror,2009,88,English,PG-13,3.6
+1693,Bring international,Romance,1982,68,Hindi,R,2.21
+1694,Mrs happen,Documentary,1986,151,German,NC-17,1.69
+1695,Understand whatever may human,Drama,2018,101,Japanese,R,3.71
+1696,Cup production,Comedy,2001,82,Japanese,PG-13,4.91
+1697,Scientist three these,Documentary,1984,102,English,NC-17,4.65
+1698,Yourself final,Documentary,2004,125,Japanese,PG,3.01
+1699,Important interview head,Action,1994,62,German,G,2.24
+1700,Live region,Thriller,1995,139,English,G,1.55
+1701,May,Documentary,1998,85,Hindi,R,1.82
+1702,Collection option,Action,1995,178,Japanese,NC-17,4.95
+1703,At trip real,Documentary,2001,77,Spanish,PG-13,3.57
+1704,Black including finally,Action,2013,161,French,PG-13,4.0
+1705,Set parent,Horror,2001,103,Hindi,PG,3.16
+1706,Toward sound,Horror,2023,149,Japanese,PG,3.43
+1707,Form and,Thriller,2013,101,Hindi,R,3.52
+1708,Hope crime,Drama,2011,68,Hindi,G,3.54
+1709,Stop song size,Comedy,1993,76,English,PG,3.37
+1710,Indeed serve,Horror,1995,124,English,R,3.9
+1711,Writer statement tell,Sci-Fi,1990,152,Hindi,PG,2.7
+1712,Effort lawyer,Horror,1999,96,German,R,4.87
+1713,Reach health,Horror,1997,170,Korean,R,1.32
+1714,Security research soldier,Romance,2005,108,Hindi,R,2.77
+1715,Fly see,Thriller,1989,164,Korean,R,1.08
+1716,Measure relate,Thriller,2007,169,English,PG-13,3.38
+1717,Continue perhaps,Comedy,2015,153,Hindi,PG-13,2.52
+1718,Senior,Sci-Fi,2009,96,French,NC-17,3.42
+1719,Car agreement door,Drama,2001,77,Japanese,R,1.78
+1720,Once,Horror,1980,61,Korean,NC-17,3.92
+1721,Off order news,Romance,2011,111,French,R,4.88
+1722,These both treat,Romance,2004,122,Spanish,NC-17,1.28
+1723,Either long Mrs,Action,1987,109,German,PG,1.78
+1724,Imagine bar plant,Thriller,1996,158,Korean,PG-13,3.04
+1725,Half over score,Documentary,2020,148,Spanish,G,3.6
+1726,Student hotel degree,Thriller,1995,91,French,G,4.69
+1727,Same charge build,Romance,2020,150,Japanese,G,3.79
+1728,Mention western art,Comedy,1996,137,French,PG,2.02
+1729,Yourself,Comedy,1980,74,Korean,G,3.58
+1730,Adult physical,Thriller,2005,150,German,G,3.07
+1731,Realize myself continue collection,Horror,2007,81,Korean,R,2.01
+1732,Light teacher begin,Sci-Fi,2012,128,Japanese,R,3.34
+1733,Worker beautiful police,Thriller,1985,73,Japanese,NC-17,4.11
+1734,Southern red admit,Romance,1989,94,Japanese,PG,4.72
+1735,Central,Thriller,2024,99,English,PG,4.27
+1736,Debate charge,Action,1986,68,Korean,R,3.1
+1737,Himself north next keep,Sci-Fi,2007,81,Hindi,PG-13,1.75
+1738,Know shake,Comedy,1992,122,Hindi,NC-17,4.79
+1739,Central behind,Documentary,2016,164,Hindi,PG,1.8
+1740,Wait large,Comedy,1992,93,Korean,R,2.76
+1741,Career share,Drama,2020,81,English,PG-13,1.34
+1742,Tough military available,Drama,1997,68,Spanish,G,3.34
+1743,Size act test,Documentary,2011,146,Korean,G,1.04
+1744,Cause issue old letter,Sci-Fi,1980,145,German,G,1.39
+1745,Hope ground dark,Action,2004,137,German,PG-13,4.73
+1746,Approach purpose,Documentary,2001,137,French,PG-13,2.48
+1747,Even foot career,Romance,2000,164,Hindi,PG-13,3.66
+1748,Better these,Thriller,2019,67,Spanish,PG-13,4.23
+1749,Certain discuss,Action,2009,171,Japanese,R,3.9
+1750,Whether recent,Comedy,1981,137,English,NC-17,2.12
+1751,Everybody various theory,Horror,2003,117,German,R,3.06
+1752,Possible language attention expect,Horror,1980,141,Korean,PG-13,1.07
+1753,Watch shoulder including wear,Romance,1982,163,Japanese,PG-13,3.71
+1754,Make game,Horror,2018,122,French,NC-17,4.18
+1755,House deal send,Romance,2007,180,French,G,3.94
+1756,Fish street,Sci-Fi,2018,84,Japanese,PG,4.48
+1757,His seven since,Action,1988,123,Korean,G,2.21
+1758,Front result miss,Documentary,1990,174,French,G,2.93
+1759,About sometimes,Horror,1995,87,Hindi,G,1.42
+1760,Accept play party,Action,1990,178,Spanish,R,4.07
+1761,Focus agent,Horror,1996,145,French,G,3.66
+1762,Once from,Documentary,1985,161,Japanese,PG-13,4.49
+1763,Nothing without,Drama,2021,103,French,R,3.62
+1764,Expect character,Thriller,1994,88,Spanish,G,2.16
+1765,Surface,Drama,1985,103,Japanese,NC-17,4.75
+1766,Her so,Drama,2016,107,Hindi,PG-13,4.82
+1767,Term beyond cost certain,Action,1999,67,German,NC-17,1.76
+1768,Until chance ball,Thriller,2007,100,Korean,PG-13,4.19
+1769,Sure forget,Comedy,2013,144,German,NC-17,1.89
+1770,Station lose,Thriller,1980,128,Korean,R,2.26
+1771,High worker edge,Sci-Fi,1994,123,Japanese,R,1.59
+1772,Natural western popular,Sci-Fi,1989,155,Japanese,G,3.4
+1773,Senior suggest,Sci-Fi,2012,148,English,PG-13,4.99
+1774,Stock great,Documentary,2020,166,Hindi,R,2.17
+1775,Although,Thriller,1983,163,Spanish,PG,4.31
+1776,Buy pick over,Horror,1994,149,Japanese,G,4.69
+1777,Gas direction,Comedy,2011,153,French,PG-13,4.94
+1778,More make,Comedy,1981,130,French,PG-13,2.69
+1779,Her with,Documentary,2002,156,French,R,1.29
+1780,Statement it loss,Sci-Fi,1998,149,Hindi,NC-17,2.58
+1781,Management animal ok,Comedy,2000,156,Korean,NC-17,4.46
+1782,Environmental ground,Action,1999,118,Japanese,PG,3.31
+1783,Attention their whole,Documentary,2024,121,Spanish,PG,1.84
+1784,Tax soldier,Horror,2021,61,Spanish,NC-17,1.41
+1785,Scientist themselves,Comedy,2004,114,Japanese,PG,4.7
+1786,Seem opportunity,Drama,2002,120,Hindi,G,1.47
+1787,Once president,Romance,2017,115,Hindi,R,1.98
+1788,Position,Drama,1995,110,French,PG-13,3.75
+1789,Republican technology,Comedy,2021,155,French,G,4.11
+1790,Artist black,Thriller,1997,140,Japanese,R,2.47
+1791,Star teach,Drama,1987,70,English,R,3.57
+1792,Line meet evidence,Horror,1981,135,German,NC-17,2.92
+1793,Animal maybe natural,Drama,2017,83,French,R,5.0
+1794,Want audience radio,Thriller,1999,133,Hindi,G,2.3
+1795,Hot view agreement health,Comedy,2005,164,Japanese,G,2.58
+1796,Evening attorney,Documentary,1984,126,Korean,NC-17,3.16
+1797,Leader stand no,Drama,1993,144,English,PG,4.45
+1798,By whatever,Comedy,1980,131,French,PG-13,1.49
+1799,Require phone food,Comedy,2016,86,Japanese,PG,1.35
+1800,Cell with relate,Sci-Fi,1982,70,English,NC-17,2.19
+1801,Character adult part,Comedy,2007,180,Japanese,G,1.99
+1802,Game few,Action,2013,175,Korean,PG-13,3.64
+1803,Book billion performance,Documentary,1988,133,French,PG-13,3.09
+1804,Outside strategy,Romance,2018,128,German,PG,3.75
+1805,According cause parent,Action,1995,64,Hindi,PG,2.2
+1806,Heavy commercial cold,Horror,1988,137,German,PG,3.37
+1807,Laugh,Sci-Fi,1988,153,German,R,1.3
+1808,Throughout candidate attack best,Sci-Fi,1996,108,Japanese,PG,2.6
+1809,Standard southern,Drama,1996,146,French,PG,3.14
+1810,Eye ask,Drama,2020,153,Spanish,PG,3.86
+1811,Nature understand center its,Comedy,2006,165,Hindi,PG-13,4.97
+1812,Investment,Thriller,2004,63,German,PG,1.31
+1813,Data themselves five,Drama,2014,74,Japanese,NC-17,2.63
+1814,Someone expect family,Romance,2020,71,Spanish,PG-13,4.11
+1815,Stuff suggest,Comedy,1994,95,English,G,2.51
+1816,By must ahead,Horror,2004,73,Korean,G,1.7
+1817,Former control while,Sci-Fi,2017,165,Korean,R,1.38
+1818,Win answer side,Romance,2024,133,Korean,PG-13,3.21
+1819,Cold store here,Drama,1983,81,Spanish,R,1.72
+1820,Simple leader,Thriller,2010,135,Hindi,PG-13,1.04
+1821,Fight less put,Comedy,2022,76,Hindi,R,3.27
+1822,Fast western,Sci-Fi,1983,177,Japanese,PG-13,3.83
+1823,Three reflect under,Horror,2023,137,French,R,1.73
+1824,Agent look wind,Romance,2009,124,Spanish,PG-13,4.81
+1825,Become training,Horror,1999,141,Korean,G,4.79
+1826,Kitchen chair continue,Thriller,2000,168,English,G,1.31
+1827,Program time organization,Horror,1985,81,German,G,1.34
+1828,Speech usually international,Sci-Fi,2015,178,French,G,4.85
+1829,Cover pick,Thriller,2023,125,Japanese,PG,2.92
+1830,Still compare skill,Drama,2005,61,German,PG,4.64
+1831,Up effect,Action,2007,149,German,PG-13,1.98
+1832,Return on read employee,Action,2018,117,Hindi,NC-17,4.62
+1833,Southern,Comedy,1984,106,Korean,PG,3.05
+1834,Way manage,Action,2007,123,French,PG,2.49
+1835,Land tough hard,Drama,2001,176,Japanese,PG,4.33
+1836,Yourself in with generation,Drama,1998,98,French,PG-13,2.06
+1837,Enjoy friend,Action,2020,132,French,PG,4.69
+1838,Analysis read,Action,2009,174,German,R,1.23
+1839,Per possible discover,Action,2019,118,Spanish,PG-13,2.42
+1840,Never though event,Action,2002,173,Japanese,PG,2.61
+1841,Feeling where,Action,1986,115,French,PG,1.34
+1842,Section process,Comedy,2006,75,French,G,1.62
+1843,Technology former know,Sci-Fi,1994,120,French,PG-13,2.2
+1844,Read know federal,Thriller,1991,128,Korean,PG-13,1.43
+1845,Next old popular,Documentary,2022,167,French,PG,1.56
+1846,Owner exist,Thriller,1980,105,Korean,PG,1.44
+1847,Entire spend various,Sci-Fi,1982,77,French,R,3.98
+1848,Modern compare,Action,1990,145,Hindi,R,4.84
+1849,Answer two indicate,Sci-Fi,1987,113,French,NC-17,2.98
+1850,Anything avoid,Comedy,2000,156,Korean,R,3.01
+1851,Course quality,Thriller,1988,74,English,G,1.5
+1852,Economy,Romance,2012,61,Korean,PG,1.21
+1853,Call detail,Romance,2007,136,Japanese,G,2.74
+1854,Ability still,Sci-Fi,1998,122,English,R,1.99
+1855,Meeting economy sister player,Comedy,2012,83,Hindi,PG-13,4.07
+1856,Day this cut,Sci-Fi,2024,91,Japanese,R,1.79
+1857,Perform whether,Drama,2024,153,German,NC-17,1.72
+1858,Real her,Comedy,1994,75,Hindi,R,1.15
+1859,Ahead young term,Horror,1989,114,English,NC-17,1.8
+1860,Firm run,Action,2004,112,German,PG-13,3.8
+1861,Each nature talk,Horror,1994,103,French,R,1.25
+1862,Rise behavior,Thriller,2021,66,Spanish,G,2.08
+1863,Out,Sci-Fi,2002,151,French,PG,2.28
+1864,Perhaps mission,Action,1991,65,English,G,3.64
+1865,Out after wide,Romance,1993,96,French,PG-13,4.63
+1866,Very ten message,Drama,2007,83,Spanish,R,2.45
+1867,White most call,Sci-Fi,1987,72,Japanese,G,3.73
+1868,West,Comedy,2001,106,Japanese,PG-13,3.97
+1869,All full,Romance,1995,143,Spanish,PG,3.34
+1870,Media wish,Drama,1986,76,Japanese,NC-17,1.48
+1871,Form available system,Horror,1992,150,French,G,1.3
+1872,Thing wife do,Romance,1999,152,French,PG,3.13
+1873,Do size,Comedy,1982,76,Hindi,R,3.2
+1874,Current part,Sci-Fi,2015,104,Spanish,R,3.52
+1875,Party best,Drama,2007,68,French,R,3.1
+1876,Choose day role,Action,1990,136,Spanish,PG,2.16
+1877,Quality some analysis security,Action,2024,84,Japanese,R,2.98
+1878,West another wrong,Drama,1990,116,Korean,NC-17,2.54
+1879,Message young,Thriller,2005,137,Spanish,PG,1.74
+1880,Thing field,Comedy,2016,87,German,G,4.52
+1881,School less husband,Documentary,2012,150,Japanese,NC-17,2.04
+1882,Fire,Horror,1998,150,Spanish,NC-17,1.48
+1883,Task north wall,Horror,1982,128,Hindi,PG-13,1.16
+1884,Each,Comedy,1997,178,Hindi,PG-13,4.49
+1885,Husband gun,Action,2021,91,Korean,PG,3.14
+1886,Worry only certain,Action,2021,104,Japanese,NC-17,4.89
+1887,Career reveal power,Romance,1985,150,German,PG-13,3.89
+1888,Medical pressure,Thriller,2019,97,Spanish,G,3.5
+1889,Within care main,Action,2002,88,Japanese,PG-13,1.71
+1890,Require follow,Action,2014,144,Korean,NC-17,1.43
+1891,Later fine thing,Thriller,2021,92,Korean,NC-17,3.2
+1892,Occur worker specific,Documentary,1994,101,Spanish,PG,3.33
+1893,Everything tonight,Thriller,1989,117,Hindi,R,2.47
+1894,He human,Documentary,1985,123,Hindi,R,1.74
+1895,Cause threat,Comedy,1992,132,French,PG,3.59
+1896,Drive well hospital you,Action,1999,80,Hindi,R,3.75
+1897,Agree black buy,Horror,1984,78,English,R,1.98
+1898,Program to,Thriller,1986,152,German,PG,3.91
+1899,End return reduce,Action,2018,72,French,R,1.08
+1900,Factor prepare,Action,2021,179,English,PG,1.99
+1901,Thus,Drama,1997,78,Japanese,NC-17,1.05
+1902,One sure mission,Action,1986,129,Japanese,PG-13,4.41
+1903,Area nice,Drama,1992,77,French,NC-17,4.57
+1904,Traditional benefit argue,Comedy,1999,102,French,PG,1.98
+1905,Month college,Sci-Fi,2020,129,English,G,4.3
+1906,Really clear,Drama,2014,97,English,NC-17,4.55
+1907,Create word guess,Thriller,1989,60,Hindi,G,1.91
+1908,Consumer as,Thriller,1989,105,Japanese,PG-13,1.9
+1909,Early figure forward,Thriller,2023,173,Japanese,G,2.97
+1910,Simple sure do,Drama,1994,73,Spanish,PG-13,1.31
+1911,Around loss card,Romance,1987,106,English,G,3.42
+1912,Politics,Comedy,2007,127,Spanish,NC-17,1.73
+1913,Someone imagine,Thriller,1989,174,Japanese,PG-13,3.5
+1914,Poor age,Sci-Fi,2002,172,English,PG-13,4.66
+1915,Nothing away,Romance,1996,163,Japanese,G,4.16
+1916,Southern perhaps buy,Comedy,2021,78,Spanish,PG,2.56
+1917,Bank site near,Documentary,1984,74,German,R,4.84
+1918,Old unit,Sci-Fi,1989,71,Spanish,PG,1.73
+1919,Agree both some,Thriller,2002,100,French,R,2.93
+1920,Wait away reason,Thriller,2018,161,Japanese,PG-13,1.55
+1921,Force resource establish common,Horror,2004,113,German,R,3.15
+1922,Within fill day,Documentary,2014,128,Korean,PG,2.54
+1923,Technology environmental,Thriller,2013,133,Korean,PG,3.81
+1924,Today,Horror,2003,60,Hindi,G,2.45
+1925,Special cultural rate,Documentary,1988,177,English,G,4.65
+1926,Style arm customer,Romance,1988,97,French,PG,4.34
+1927,Instead control,Thriller,1995,86,Korean,PG,1.22
+1928,Billion analysis,Comedy,1987,149,Japanese,PG,2.51
+1929,Lawyer region material,Action,2024,114,Spanish,G,3.81
+1930,Shake movement,Drama,2010,167,German,PG,1.12
+1931,Address above,Romance,1989,70,Hindi,G,1.05
+1932,Threat summer notice,Thriller,1989,157,Hindi,R,3.97
+1933,How PM,Sci-Fi,2010,112,Japanese,PG-13,2.78
+1934,Assume discuss create,Action,1998,74,Hindi,G,4.52
+1935,Probably whom,Action,2018,156,Hindi,NC-17,1.64
+1936,Term eat area,Thriller,2007,147,French,NC-17,3.85
+1937,Piece campaign tree term,Sci-Fi,2016,124,Spanish,PG,2.69
+1938,Behavior ten opportunity number,Comedy,1997,71,German,R,4.91
+1939,Time institution yourself,Comedy,1993,111,German,G,1.88
+1940,Enough claim get,Comedy,2015,137,Korean,G,4.27
+1941,Else fear,Documentary,2010,100,Japanese,R,4.31
+1942,Memory because,Comedy,1983,162,Spanish,R,1.78
+1943,Buy and interesting scene,Drama,1986,69,Spanish,NC-17,4.12
+1944,Candidate such prevent,Romance,1981,90,Spanish,PG,3.17
+1945,Think box Mrs,Drama,1993,136,English,PG-13,1.75
+1946,Husband,Horror,2020,178,English,PG,2.08
+1947,Rest its,Action,2016,161,French,G,1.19
+1948,Relationship set,Drama,1999,61,Spanish,PG-13,4.83
+1949,Job story,Horror,2000,156,French,PG-13,4.9
+1950,Know benefit whom campaign,Drama,2001,112,Japanese,NC-17,1.4
+1951,Director,Comedy,1981,135,Korean,R,2.91
+1952,Even nothing,Action,1998,80,Hindi,R,1.32
+1953,Second ago,Drama,1994,173,Hindi,PG,4.08
+1954,Weight sometimes light,Comedy,2012,126,Japanese,NC-17,3.61
+1955,What although,Romance,2008,160,Hindi,PG-13,2.16
+1956,Wear natural,Thriller,1982,174,Japanese,R,1.96
+1957,Trouble coach operation,Drama,1989,132,Japanese,R,1.39
+1958,Night paper wait,Action,1989,158,Korean,PG-13,3.19
+1959,Pressure crime,Drama,2011,72,French,PG-13,1.68
+1960,Statement rate,Sci-Fi,1990,68,Spanish,NC-17,2.45
+1961,Ready large find,Drama,1984,82,Japanese,R,2.03
+1962,Quality head,Documentary,1996,157,French,PG,4.76
+1963,During young,Documentary,1982,106,Korean,PG-13,2.6
+1964,Air power,Comedy,2008,106,German,NC-17,4.81
+1965,Town well,Romance,1985,147,French,NC-17,2.8
+1966,Your rather remember,Action,2019,142,English,PG,3.8
+1967,Specific sense expect,Action,1989,169,English,PG-13,2.5
+1968,Learn stuff,Thriller,1984,88,French,R,3.68
+1969,Large board,Romance,2009,119,Japanese,NC-17,4.6
+1970,Ready star six,Documentary,1986,70,Hindi,G,4.67
+1971,Significant so front,Thriller,2007,85,French,PG-13,1.26
+1972,Hair light,Romance,2018,122,Hindi,R,1.46
+1973,Per cost sign,Documentary,1982,129,Hindi,R,1.58
+1974,Possible control nation,Horror,2000,132,English,NC-17,4.1
+1975,Third begin rest,Action,2003,161,French,R,1.85
+1976,Night always any,Horror,1981,157,Japanese,R,2.08
+1977,Else loss,Comedy,1985,78,English,PG-13,2.62
+1978,Movement present,Sci-Fi,2008,171,French,NC-17,1.86
+1979,They truth base,Sci-Fi,1991,166,English,G,4.58
+1980,Young,Thriller,2001,156,Spanish,PG,1.79
+1981,More against,Thriller,2010,120,German,PG,4.86
+1982,Film serve information,Thriller,2002,176,Japanese,NC-17,2.56
+1983,Much break use adult,Action,2015,160,German,PG,1.31
+1984,Scene fear,Comedy,2000,145,Korean,PG-13,1.06
+1985,Capital mind evening,Documentary,1989,123,Korean,PG-13,1.45
+1986,Choose few,Thriller,1996,126,Japanese,G,4.95
+1987,Result organization task,Comedy,2020,117,Japanese,NC-17,1.39
+1988,News three close finally,Horror,1992,113,Japanese,NC-17,4.1
+1989,Treat,Thriller,1993,104,Hindi,PG,4.89
+1990,Phone room,Action,2003,164,Spanish,G,2.21
+1991,Drive,Sci-Fi,2012,164,Korean,G,3.8
+1992,Behavior art produce,Documentary,2006,112,Spanish,PG-13,4.31
+1993,Whom teach everyone,Thriller,2013,157,Spanish,G,4.71
+1994,Age hit tonight,Documentary,2007,107,Hindi,NC-17,3.38
+1995,Take face,Thriller,2004,96,Korean,R,3.54
+1996,Never attorney size,Drama,1985,163,Korean,G,1.36
+1997,Staff Mrs system,Action,2019,179,French,G,2.99
+1998,Movie yourself,Drama,2020,116,German,NC-17,4.22
+1999,Control quickly,Sci-Fi,2006,87,Hindi,R,3.21
+2000,Day herself,Drama,1992,169,French,G,2.4

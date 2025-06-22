@@ -1,0 +1,3001 @@
+device_id,device_type,os,brand,screen_size_inch,supports_hd
+1,Tablet,macOS,Apple,60.4,True
+2,Mobile,Windows,HP,8.1,True
+3,Tablet,iOS,LG,42.3,True
+4,Smart TV,Android,Apple,61.7,True
+5,Smart TV,Android,Samsung,57.2,False
+6,Tablet,Windows,Dell,64.7,False
+7,Mobile,Windows,LG,26.3,False
+8,Mobile,iOS,HP,19.8,False
+9,Mobile,Android,HP,49.7,False
+10,Tablet,macOS,HP,62.9,True
+11,Laptop,Linux,Samsung,25.4,False
+12,Tablet,iOS,Samsung,37.0,False
+13,Tablet,macOS,Apple,61.8,False
+14,Smart TV,iOS,Dell,53.8,False
+15,Tablet,Linux,Sony,29.9,False
+16,Smart TV,macOS,Sony,34.9,True
+17,Smart TV,Windows,Dell,62.5,False
+18,Tablet,iOS,Sony,41.5,True
+19,Mobile,macOS,Dell,34.4,False
+20,Smart TV,Android,HP,44.8,False
+21,Tablet,macOS,Dell,6.2,False
+22,Smart TV,macOS,Apple,43.1,False
+23,Tablet,Android,HP,38.2,True
+24,Laptop,iOS,Apple,36.9,True
+25,Laptop,iOS,LG,40.9,False
+26,Mobile,Android,Apple,61.6,True
+27,Laptop,Linux,Samsung,50.1,False
+28,Laptop,Windows,Apple,47.4,True
+29,Mobile,iOS,Samsung,31.2,False
+30,Tablet,macOS,Apple,26.4,False
+31,Tablet,iOS,Sony,8.4,True
+32,Tablet,Linux,Sony,54.6,True
+33,Tablet,Linux,LG,13.3,True
+34,Smart TV,Android,Sony,33.8,False
+35,Tablet,iOS,Sony,22.0,False
+36,Laptop,iOS,Apple,37.2,True
+37,Mobile,iOS,Dell,60.9,False
+38,Smart TV,iOS,HP,16.4,True
+39,Tablet,iOS,HP,40.7,True
+40,Laptop,Linux,Dell,57.4,False
+41,Laptop,Android,LG,39.2,False
+42,Laptop,Linux,Samsung,54.5,True
+43,Tablet,iOS,Samsung,21.0,False
+44,Smart TV,Windows,LG,41.0,False
+45,Mobile,Android,HP,62.4,True
+46,Smart TV,Windows,Dell,61.7,True
+47,Smart TV,Android,Dell,40.2,False
+48,Tablet,Windows,LG,63.5,True
+49,Laptop,Android,HP,51.0,True
+50,Smart TV,Android,Apple,13.6,False
+51,Smart TV,Windows,Apple,17.4,True
+52,Tablet,iOS,Samsung,33.4,False
+53,Mobile,Linux,HP,20.0,True
+54,Mobile,iOS,Apple,37.9,False
+55,Mobile,Windows,Samsung,12.6,True
+56,Laptop,Linux,Samsung,25.1,False
+57,Mobile,Android,LG,25.9,True
+58,Laptop,macOS,HP,41.2,True
+59,Laptop,macOS,LG,12.4,True
+60,Tablet,Android,LG,55.6,False
+61,Smart TV,iOS,Samsung,32.8,True
+62,Mobile,macOS,HP,5.7,False
+63,Laptop,Windows,Samsung,14.2,True
+64,Smart TV,Android,Apple,40.7,False
+65,Mobile,macOS,HP,58.3,False
+66,Laptop,Linux,Dell,58.9,False
+67,Smart TV,Android,Samsung,11.0,True
+68,Laptop,iOS,LG,60.5,False
+69,Mobile,macOS,LG,58.9,False
+70,Tablet,Linux,Sony,12.6,False
+71,Smart TV,Linux,Samsung,44.9,False
+72,Laptop,macOS,Dell,29.1,False
+73,Tablet,Windows,Dell,61.4,False
+74,Laptop,Linux,LG,37.7,False
+75,Smart TV,Linux,LG,44.2,False
+76,Laptop,Linux,Sony,25.2,True
+77,Mobile,Linux,Apple,27.6,False
+78,Mobile,iOS,Samsung,28.9,False
+79,Mobile,Windows,Apple,19.9,False
+80,Tablet,Windows,Apple,30.9,False
+81,Laptop,Android,LG,42.7,True
+82,Laptop,Android,Apple,19.6,True
+83,Smart TV,Windows,Apple,34.8,False
+84,Tablet,Android,LG,13.5,False
+85,Tablet,Linux,LG,50.4,True
+86,Smart TV,Windows,Samsung,35.0,True
+87,Tablet,Windows,Dell,22.6,False
+88,Smart TV,Android,Dell,15.3,True
+89,Mobile,Windows,HP,29.3,False
+90,Tablet,Windows,Samsung,11.2,True
+91,Mobile,iOS,Sony,58.6,False
+92,Tablet,iOS,Samsung,63.5,False
+93,Mobile,Android,LG,42.1,False
+94,Laptop,iOS,Dell,27.4,True
+95,Laptop,Android,Dell,37.8,True
+96,Tablet,Android,Apple,26.3,False
+97,Smart TV,macOS,Sony,64.4,False
+98,Mobile,Android,Samsung,10.3,False
+99,Smart TV,Android,HP,52.5,True
+100,Laptop,Android,LG,27.3,False
+101,Mobile,macOS,Samsung,5.5,True
+102,Laptop,iOS,LG,13.0,True
+103,Laptop,Linux,HP,15.7,True
+104,Mobile,macOS,LG,33.1,True
+105,Laptop,macOS,HP,15.9,False
+106,Mobile,macOS,Samsung,44.2,True
+107,Smart TV,Linux,HP,39.9,True
+108,Smart TV,Linux,Dell,20.2,False
+109,Tablet,Linux,Samsung,27.2,False
+110,Tablet,Windows,HP,62.0,True
+111,Smart TV,macOS,Sony,31.0,True
+112,Tablet,macOS,Sony,55.0,True
+113,Smart TV,Linux,Apple,29.4,False
+114,Tablet,iOS,Sony,18.7,True
+115,Tablet,Windows,Sony,38.5,True
+116,Smart TV,iOS,HP,32.7,False
+117,Laptop,Android,Dell,59.9,True
+118,Laptop,Windows,Apple,59.1,True
+119,Smart TV,Android,Samsung,10.5,False
+120,Mobile,Linux,Samsung,29.8,False
+121,Tablet,iOS,Apple,32.5,True
+122,Smart TV,macOS,Dell,24.8,True
+123,Smart TV,Linux,Sony,18.2,True
+124,Laptop,Android,Sony,20.8,True
+125,Laptop,Android,HP,20.9,True
+126,Smart TV,macOS,Sony,11.0,True
+127,Tablet,macOS,HP,15.1,True
+128,Smart TV,Windows,Sony,50.9,False
+129,Mobile,Windows,Sony,19.3,True
+130,Smart TV,Android,Apple,59.6,False
+131,Smart TV,Android,Dell,39.0,False
+132,Laptop,Windows,Apple,40.2,True
+133,Laptop,macOS,Samsung,26.9,False
+134,Mobile,macOS,HP,25.5,False
+135,Tablet,Windows,HP,59.7,False
+136,Laptop,Linux,LG,40.7,False
+137,Smart TV,iOS,Dell,63.6,False
+138,Smart TV,Android,Dell,55.8,True
+139,Tablet,iOS,Sony,12.3,False
+140,Tablet,Android,Sony,9.4,False
+141,Smart TV,iOS,Samsung,38.8,True
+142,Mobile,Linux,Sony,10.6,True
+143,Tablet,Windows,Samsung,61.5,True
+144,Laptop,Android,Sony,63.1,True
+145,Smart TV,Android,HP,58.4,True
+146,Tablet,macOS,LG,49.7,True
+147,Smart TV,macOS,HP,57.7,True
+148,Laptop,Linux,Sony,42.3,False
+149,Mobile,iOS,Samsung,19.0,False
+150,Tablet,macOS,HP,31.5,True
+151,Mobile,Android,HP,25.4,True
+152,Laptop,iOS,Sony,57.8,True
+153,Mobile,macOS,Dell,5.8,False
+154,Smart TV,macOS,Dell,38.6,False
+155,Mobile,Linux,Dell,24.0,False
+156,Mobile,iOS,Samsung,51.2,False
+157,Smart TV,Windows,Sony,7.6,False
+158,Laptop,iOS,Dell,47.7,True
+159,Laptop,macOS,Samsung,7.2,False
+160,Smart TV,Android,Sony,64.9,False
+161,Laptop,Linux,Apple,41.6,False
+162,Smart TV,macOS,LG,58.8,False
+163,Laptop,Windows,HP,24.5,True
+164,Tablet,Windows,LG,32.7,True
+165,Laptop,Linux,Samsung,60.0,True
+166,Mobile,Linux,Sony,41.9,True
+167,Mobile,macOS,Apple,39.5,True
+168,Tablet,Android,Dell,54.0,True
+169,Mobile,iOS,Sony,44.6,True
+170,Mobile,iOS,Dell,43.4,False
+171,Smart TV,macOS,Samsung,40.3,True
+172,Smart TV,iOS,HP,43.0,False
+173,Smart TV,macOS,LG,17.3,False
+174,Laptop,macOS,LG,53.3,False
+175,Tablet,macOS,LG,56.9,False
+176,Smart TV,iOS,Apple,11.2,True
+177,Laptop,Android,Samsung,17.5,False
+178,Smart TV,Linux,LG,20.1,True
+179,Mobile,iOS,HP,19.4,True
+180,Smart TV,Linux,Apple,9.7,False
+181,Tablet,Linux,Sony,36.2,True
+182,Laptop,Linux,HP,8.5,True
+183,Laptop,Windows,Dell,44.3,False
+184,Mobile,iOS,HP,19.8,False
+185,Laptop,macOS,Dell,46.9,False
+186,Laptop,macOS,Sony,12.0,True
+187,Mobile,Windows,Dell,17.9,True
+188,Mobile,Windows,Sony,37.8,True
+189,Mobile,Linux,LG,50.6,True
+190,Mobile,iOS,Sony,29.8,True
+191,Mobile,macOS,Dell,58.4,True
+192,Smart TV,Windows,HP,42.6,False
+193,Smart TV,macOS,Apple,53.2,False
+194,Smart TV,Linux,Dell,8.8,True
+195,Tablet,Android,Samsung,43.5,True
+196,Smart TV,iOS,HP,43.1,False
+197,Smart TV,Windows,Samsung,31.2,True
+198,Tablet,macOS,Samsung,51.7,True
+199,Mobile,Windows,LG,25.6,True
+200,Laptop,Linux,LG,35.4,False
+201,Laptop,Windows,Dell,65.0,False
+202,Smart TV,iOS,Apple,51.1,True
+203,Laptop,macOS,HP,22.1,False
+204,Laptop,Windows,Sony,10.5,False
+205,Smart TV,Linux,HP,28.2,True
+206,Tablet,Windows,Apple,18.0,True
+207,Mobile,Linux,LG,30.6,False
+208,Mobile,Android,Dell,57.0,False
+209,Mobile,iOS,Samsung,63.2,True
+210,Tablet,macOS,Apple,49.1,False
+211,Smart TV,Linux,Sony,47.6,False
+212,Laptop,macOS,Sony,31.6,True
+213,Tablet,macOS,Dell,18.9,True
+214,Smart TV,Android,Samsung,25.4,True
+215,Laptop,Windows,LG,8.2,True
+216,Smart TV,Android,Sony,17.6,True
+217,Mobile,iOS,Dell,39.5,True
+218,Tablet,Android,Dell,28.4,True
+219,Mobile,Android,HP,64.8,False
+220,Mobile,Linux,Dell,32.4,True
+221,Laptop,macOS,Dell,53.7,False
+222,Mobile,Linux,Samsung,5.8,False
+223,Mobile,Windows,HP,20.5,True
+224,Laptop,Android,HP,5.5,False
+225,Mobile,Android,Samsung,61.0,True
+226,Mobile,Windows,Apple,11.1,False
+227,Smart TV,Windows,Samsung,7.4,True
+228,Smart TV,Linux,Apple,41.4,False
+229,Smart TV,Windows,LG,34.1,False
+230,Tablet,macOS,Samsung,48.6,False
+231,Smart TV,Linux,Apple,18.8,True
+232,Smart TV,Windows,LG,44.5,False
+233,Laptop,iOS,Apple,27.7,True
+234,Smart TV,Linux,Apple,11.2,True
+235,Tablet,iOS,Apple,31.8,False
+236,Mobile,Windows,Samsung,63.4,False
+237,Smart TV,Windows,LG,47.9,False
+238,Mobile,Windows,Samsung,39.8,False
+239,Tablet,Android,LG,60.4,True
+240,Smart TV,iOS,Sony,27.0,False
+241,Tablet,iOS,Sony,9.4,True
+242,Smart TV,Windows,Apple,42.2,True
+243,Laptop,Android,LG,53.2,False
+244,Tablet,macOS,LG,62.5,True
+245,Laptop,Linux,Sony,59.9,True
+246,Smart TV,iOS,HP,11.3,False
+247,Tablet,Android,Apple,11.1,False
+248,Laptop,iOS,Sony,28.5,False
+249,Laptop,iOS,Dell,18.8,True
+250,Smart TV,iOS,Sony,52.8,True
+251,Laptop,macOS,LG,52.1,True
+252,Smart TV,iOS,HP,19.9,False
+253,Mobile,macOS,LG,58.8,False
+254,Laptop,Linux,LG,29.0,True
+255,Laptop,Windows,Dell,23.5,False
+256,Laptop,Windows,Dell,56.0,True
+257,Tablet,Windows,Sony,53.2,False
+258,Tablet,Windows,Sony,57.2,True
+259,Mobile,Linux,Samsung,27.3,True
+260,Mobile,Windows,Dell,46.9,False
+261,Mobile,Android,Dell,48.1,False
+262,Smart TV,Windows,HP,18.6,True
+263,Tablet,Windows,HP,62.3,False
+264,Smart TV,Linux,Dell,54.3,True
+265,Laptop,Windows,Dell,49.3,True
+266,Smart TV,Linux,Apple,27.0,True
+267,Laptop,Windows,Apple,33.2,False
+268,Mobile,Android,HP,54.2,True
+269,Mobile,Windows,LG,64.2,False
+270,Laptop,Linux,Apple,18.5,False
+271,Tablet,Windows,HP,44.2,False
+272,Laptop,macOS,Samsung,30.6,False
+273,Smart TV,Linux,Apple,53.2,True
+274,Mobile,Android,Apple,15.5,True
+275,Tablet,iOS,HP,29.9,True
+276,Laptop,Linux,Sony,56.6,True
+277,Tablet,Linux,LG,59.8,False
+278,Mobile,Windows,Samsung,5.8,False
+279,Smart TV,iOS,Samsung,39.1,True
+280,Mobile,Linux,LG,43.8,True
+281,Smart TV,Linux,Samsung,51.7,True
+282,Laptop,Linux,Apple,25.9,True
+283,Smart TV,Android,Dell,6.6,True
+284,Tablet,iOS,Apple,58.3,False
+285,Laptop,Linux,HP,32.8,True
+286,Laptop,Android,LG,9.8,False
+287,Tablet,Windows,HP,20.8,True
+288,Tablet,macOS,Samsung,59.3,False
+289,Laptop,macOS,Apple,54.5,False
+290,Laptop,Linux,Samsung,22.3,False
+291,Tablet,iOS,LG,41.7,False
+292,Smart TV,Windows,Dell,38.1,False
+293,Mobile,iOS,Samsung,53.7,False
+294,Laptop,Windows,Samsung,8.4,False
+295,Mobile,Linux,Dell,22.4,False
+296,Laptop,Android,Apple,16.6,True
+297,Mobile,Linux,Samsung,36.2,False
+298,Tablet,macOS,Samsung,19.7,False
+299,Laptop,Android,Sony,31.6,False
+300,Laptop,macOS,HP,34.4,True
+301,Smart TV,Linux,LG,58.9,False
+302,Smart TV,iOS,Samsung,26.4,True
+303,Laptop,macOS,Samsung,35.5,True
+304,Smart TV,macOS,Samsung,31.1,True
+305,Smart TV,Windows,Dell,56.0,True
+306,Laptop,Windows,LG,16.3,True
+307,Laptop,Linux,Sony,17.4,True
+308,Laptop,iOS,HP,38.1,True
+309,Smart TV,macOS,Sony,60.1,True
+310,Smart TV,Windows,Dell,54.3,True
+311,Smart TV,macOS,Apple,5.2,True
+312,Tablet,Android,Samsung,30.6,True
+313,Mobile,Android,Samsung,54.3,True
+314,Tablet,Windows,Samsung,32.2,True
+315,Laptop,Android,Apple,7.2,False
+316,Laptop,macOS,Dell,45.5,False
+317,Tablet,macOS,LG,41.5,True
+318,Mobile,iOS,Samsung,17.9,True
+319,Smart TV,macOS,Samsung,11.1,True
+320,Laptop,iOS,Samsung,43.4,False
+321,Tablet,iOS,Dell,47.5,False
+322,Smart TV,Android,Apple,24.9,False
+323,Laptop,Windows,Dell,58.6,True
+324,Tablet,Windows,LG,20.6,True
+325,Smart TV,iOS,Sony,56.7,True
+326,Mobile,Android,LG,52.2,False
+327,Smart TV,macOS,HP,20.3,False
+328,Tablet,iOS,Sony,34.1,True
+329,Laptop,Android,Dell,53.3,False
+330,Tablet,Linux,LG,14.6,True
+331,Smart TV,Android,Sony,37.6,True
+332,Laptop,Linux,LG,6.5,False
+333,Smart TV,Windows,Sony,52.1,True
+334,Tablet,macOS,HP,23.9,True
+335,Smart TV,Windows,LG,26.4,False
+336,Laptop,macOS,Dell,40.2,False
+337,Laptop,Android,Dell,57.0,True
+338,Laptop,macOS,Sony,13.4,True
+339,Mobile,iOS,LG,35.3,False
+340,Tablet,Windows,HP,48.5,True
+341,Tablet,Windows,Apple,50.4,True
+342,Laptop,Linux,Samsung,60.4,False
+343,Mobile,Linux,Dell,26.8,False
+344,Smart TV,macOS,Sony,58.5,True
+345,Mobile,Android,LG,47.5,False
+346,Mobile,macOS,Samsung,17.8,False
+347,Smart TV,Android,Dell,32.0,False
+348,Smart TV,iOS,Sony,33.2,False
+349,Tablet,iOS,Apple,58.2,False
+350,Laptop,Linux,Apple,41.3,False
+351,Tablet,Windows,Samsung,63.1,True
+352,Smart TV,iOS,Sony,13.9,False
+353,Smart TV,macOS,Sony,31.2,True
+354,Laptop,iOS,Apple,58.3,True
+355,Laptop,iOS,Dell,36.6,False
+356,Laptop,Windows,LG,50.8,False
+357,Tablet,Windows,LG,36.1,False
+358,Smart TV,Linux,Sony,47.8,True
+359,Mobile,Windows,Dell,23.6,True
+360,Tablet,macOS,HP,59.8,False
+361,Laptop,Linux,Sony,40.2,True
+362,Tablet,Android,Apple,22.2,False
+363,Tablet,iOS,Apple,46.9,True
+364,Tablet,iOS,Dell,42.3,True
+365,Laptop,Windows,LG,9.4,False
+366,Laptop,Android,Sony,59.3,False
+367,Tablet,Android,HP,34.5,False
+368,Mobile,Android,Samsung,13.4,True
+369,Smart TV,iOS,HP,29.5,False
+370,Tablet,Windows,Sony,14.0,False
+371,Laptop,Linux,LG,30.2,False
+372,Tablet,Android,Samsung,9.2,False
+373,Mobile,Windows,Dell,30.2,True
+374,Mobile,macOS,Sony,5.9,False
+375,Tablet,Linux,Dell,31.6,True
+376,Laptop,Android,Apple,18.2,True
+377,Tablet,Linux,Dell,16.8,True
+378,Mobile,Linux,Apple,10.8,True
+379,Tablet,Linux,Sony,63.1,False
+380,Smart TV,macOS,HP,18.0,False
+381,Tablet,iOS,LG,19.4,False
+382,Smart TV,Android,HP,14.4,True
+383,Mobile,Android,Samsung,32.0,True
+384,Mobile,iOS,Sony,10.0,True
+385,Smart TV,Windows,LG,13.6,False
+386,Laptop,macOS,Samsung,16.1,True
+387,Smart TV,Windows,Dell,14.8,True
+388,Smart TV,macOS,Sony,50.8,True
+389,Mobile,Windows,LG,26.3,False
+390,Smart TV,macOS,LG,42.4,False
+391,Tablet,Linux,Sony,18.7,False
+392,Tablet,Linux,Sony,14.2,True
+393,Tablet,Linux,Samsung,53.1,True
+394,Laptop,macOS,LG,24.5,True
+395,Mobile,Android,HP,49.9,False
+396,Smart TV,iOS,Apple,51.7,False
+397,Smart TV,macOS,Apple,31.1,False
+398,Laptop,iOS,LG,51.6,False
+399,Laptop,Android,Apple,51.4,False
+400,Mobile,macOS,HP,37.1,False
+401,Laptop,Windows,HP,19.9,False
+402,Laptop,Windows,Apple,10.6,True
+403,Tablet,macOS,Samsung,60.0,True
+404,Mobile,Linux,LG,20.0,False
+405,Tablet,macOS,HP,43.4,False
+406,Smart TV,Linux,Samsung,51.9,False
+407,Tablet,Android,HP,47.5,True
+408,Mobile,iOS,Apple,7.5,True
+409,Tablet,Windows,LG,16.9,True
+410,Laptop,Linux,Apple,45.9,False
+411,Tablet,macOS,Sony,34.7,True
+412,Smart TV,Linux,HP,34.8,False
+413,Mobile,Linux,Apple,49.0,True
+414,Laptop,Windows,Apple,64.4,False
+415,Tablet,Android,Sony,49.6,True
+416,Mobile,Linux,Apple,41.7,True
+417,Smart TV,Linux,LG,50.7,True
+418,Laptop,Windows,Dell,10.0,False
+419,Smart TV,iOS,Dell,18.5,False
+420,Mobile,Linux,Dell,55.3,False
+421,Laptop,iOS,Dell,52.4,True
+422,Laptop,Linux,HP,58.2,True
+423,Laptop,macOS,Dell,16.9,True
+424,Laptop,Windows,Apple,25.6,True
+425,Tablet,Android,Dell,40.3,True
+426,Mobile,iOS,LG,16.1,False
+427,Laptop,iOS,LG,32.6,True
+428,Tablet,Android,Samsung,39.5,False
+429,Tablet,Linux,Samsung,25.3,False
+430,Mobile,Linux,Dell,45.0,False
+431,Smart TV,macOS,Samsung,22.4,False
+432,Smart TV,Linux,HP,51.1,False
+433,Mobile,Windows,Apple,7.6,False
+434,Laptop,Linux,Apple,35.5,True
+435,Laptop,Linux,HP,30.4,True
+436,Tablet,Android,HP,54.7,False
+437,Tablet,Android,Apple,37.0,False
+438,Tablet,Windows,LG,44.8,True
+439,Smart TV,macOS,HP,53.7,True
+440,Tablet,macOS,Samsung,20.2,False
+441,Smart TV,iOS,Apple,59.0,True
+442,Laptop,iOS,Dell,46.6,True
+443,Laptop,Linux,Apple,46.3,True
+444,Mobile,Windows,Sony,40.6,False
+445,Laptop,Linux,Dell,16.2,True
+446,Laptop,Linux,HP,51.1,False
+447,Laptop,Linux,Dell,59.2,True
+448,Mobile,Windows,Samsung,17.2,True
+449,Mobile,macOS,Samsung,37.9,True
+450,Tablet,macOS,Dell,60.9,False
+451,Mobile,macOS,Dell,46.7,True
+452,Tablet,iOS,Sony,54.7,False
+453,Laptop,macOS,Dell,41.9,True
+454,Laptop,iOS,Apple,25.9,True
+455,Tablet,Android,Apple,16.7,True
+456,Laptop,iOS,Apple,55.6,True
+457,Smart TV,Android,HP,34.0,True
+458,Laptop,Windows,HP,15.5,True
+459,Smart TV,Android,LG,55.6,True
+460,Mobile,macOS,HP,30.8,False
+461,Laptop,macOS,LG,29.5,False
+462,Mobile,Android,LG,57.2,False
+463,Mobile,Android,Dell,27.7,True
+464,Laptop,Windows,LG,44.8,True
+465,Smart TV,iOS,Dell,40.0,False
+466,Laptop,Android,Apple,9.8,False
+467,Laptop,macOS,Apple,13.2,False
+468,Smart TV,Windows,Samsung,45.1,False
+469,Tablet,Android,Apple,9.5,True
+470,Tablet,macOS,HP,53.9,True
+471,Smart TV,Android,LG,21.3,False
+472,Mobile,Linux,Sony,32.3,False
+473,Tablet,Windows,HP,46.1,True
+474,Tablet,Android,Apple,57.6,True
+475,Tablet,Linux,Samsung,37.9,True
+476,Smart TV,macOS,HP,38.9,False
+477,Laptop,macOS,LG,23.4,False
+478,Mobile,iOS,Apple,45.6,False
+479,Laptop,iOS,HP,12.9,True
+480,Mobile,Linux,Dell,24.3,False
+481,Smart TV,Linux,Dell,56.4,False
+482,Smart TV,Linux,Sony,45.9,False
+483,Tablet,macOS,HP,27.8,False
+484,Tablet,Windows,Sony,57.7,False
+485,Laptop,macOS,HP,44.9,False
+486,Laptop,Linux,Samsung,24.7,False
+487,Mobile,iOS,Apple,53.2,True
+488,Laptop,iOS,Dell,62.4,True
+489,Laptop,Windows,Dell,40.7,False
+490,Smart TV,Windows,Samsung,34.3,False
+491,Mobile,Linux,LG,31.3,False
+492,Smart TV,Android,Apple,25.7,True
+493,Laptop,Linux,HP,43.1,True
+494,Laptop,Android,Samsung,45.3,True
+495,Laptop,macOS,Sony,17.9,True
+496,Mobile,Android,LG,64.3,True
+497,Tablet,iOS,Dell,16.9,False
+498,Smart TV,Linux,Apple,51.2,False
+499,Mobile,Windows,Apple,31.4,False
+500,Tablet,Linux,Samsung,36.0,True
+501,Mobile,Android,Samsung,12.1,False
+502,Laptop,Linux,Sony,23.3,False
+503,Tablet,Linux,HP,16.2,False
+504,Mobile,macOS,Sony,57.9,False
+505,Tablet,Android,Sony,45.5,True
+506,Laptop,Windows,HP,18.7,True
+507,Smart TV,iOS,Dell,36.1,False
+508,Tablet,macOS,Samsung,34.3,True
+509,Tablet,Windows,Dell,38.9,False
+510,Tablet,Linux,Apple,19.8,True
+511,Tablet,Linux,LG,14.4,False
+512,Mobile,Android,Samsung,53.4,False
+513,Smart TV,Windows,HP,22.3,False
+514,Mobile,Linux,Sony,9.5,False
+515,Smart TV,iOS,Sony,55.6,True
+516,Tablet,iOS,Samsung,46.1,True
+517,Smart TV,Windows,Sony,31.2,False
+518,Mobile,Windows,Apple,51.9,True
+519,Laptop,Linux,Apple,26.6,True
+520,Mobile,Android,Dell,49.9,False
+521,Laptop,iOS,Apple,6.1,False
+522,Tablet,Android,LG,6.9,True
+523,Mobile,Windows,Apple,44.4,False
+524,Mobile,macOS,HP,36.6,False
+525,Tablet,Windows,Apple,18.6,False
+526,Tablet,macOS,LG,7.0,False
+527,Mobile,Linux,LG,36.5,False
+528,Smart TV,Android,LG,46.1,False
+529,Smart TV,Android,Dell,63.1,False
+530,Laptop,macOS,Dell,27.4,True
+531,Smart TV,iOS,Dell,26.4,False
+532,Smart TV,macOS,Apple,16.1,False
+533,Tablet,Windows,HP,54.4,True
+534,Mobile,Android,Apple,14.6,False
+535,Laptop,macOS,HP,36.8,False
+536,Mobile,Android,Apple,36.8,True
+537,Smart TV,iOS,Dell,24.6,True
+538,Tablet,Windows,Apple,63.0,False
+539,Tablet,macOS,Apple,30.9,True
+540,Smart TV,Windows,Sony,54.6,True
+541,Tablet,iOS,Samsung,29.6,True
+542,Laptop,Android,Dell,8.2,True
+543,Smart TV,Windows,Samsung,19.2,True
+544,Laptop,macOS,LG,41.8,True
+545,Mobile,iOS,HP,5.3,True
+546,Smart TV,macOS,Apple,33.5,True
+547,Mobile,macOS,HP,45.0,False
+548,Smart TV,Linux,LG,14.7,False
+549,Smart TV,Android,Dell,26.6,True
+550,Laptop,Android,Dell,62.3,False
+551,Mobile,Windows,HP,16.3,True
+552,Mobile,macOS,LG,31.2,True
+553,Tablet,Windows,Sony,52.2,True
+554,Mobile,Linux,LG,5.8,True
+555,Laptop,Linux,Samsung,14.2,True
+556,Smart TV,Windows,LG,27.9,True
+557,Laptop,macOS,Sony,61.2,False
+558,Laptop,Linux,Samsung,47.7,False
+559,Smart TV,Linux,Sony,16.0,True
+560,Smart TV,macOS,HP,50.2,True
+561,Tablet,Windows,Apple,45.1,False
+562,Mobile,iOS,HP,12.6,True
+563,Mobile,Android,Apple,42.3,True
+564,Laptop,Linux,HP,22.9,True
+565,Mobile,iOS,LG,42.4,False
+566,Smart TV,Linux,Samsung,62.4,True
+567,Laptop,Linux,Apple,49.7,True
+568,Laptop,Android,LG,31.1,False
+569,Laptop,Windows,Apple,62.0,False
+570,Mobile,Android,Sony,13.6,True
+571,Tablet,iOS,Apple,46.7,True
+572,Mobile,Android,Samsung,63.8,True
+573,Laptop,macOS,LG,35.2,True
+574,Tablet,Windows,Apple,57.9,False
+575,Tablet,iOS,Apple,16.6,True
+576,Tablet,iOS,Dell,40.3,True
+577,Smart TV,iOS,Dell,42.0,True
+578,Tablet,macOS,LG,15.9,False
+579,Tablet,Linux,LG,46.3,False
+580,Tablet,iOS,Dell,15.3,False
+581,Smart TV,macOS,HP,42.4,False
+582,Mobile,Linux,Apple,12.4,True
+583,Smart TV,Android,LG,51.0,False
+584,Tablet,Android,Sony,37.2,True
+585,Mobile,iOS,HP,36.6,True
+586,Mobile,Linux,Samsung,46.4,False
+587,Smart TV,Android,Apple,27.3,True
+588,Smart TV,Linux,Samsung,58.7,False
+589,Tablet,iOS,LG,30.2,True
+590,Mobile,Android,LG,54.8,False
+591,Smart TV,macOS,Apple,22.4,True
+592,Mobile,Android,Samsung,14.7,True
+593,Smart TV,macOS,Samsung,24.9,False
+594,Laptop,iOS,Apple,36.2,True
+595,Mobile,Linux,Sony,6.6,False
+596,Smart TV,macOS,Apple,49.2,False
+597,Smart TV,Linux,Dell,14.6,True
+598,Tablet,macOS,HP,11.1,False
+599,Mobile,macOS,LG,37.5,False
+600,Smart TV,iOS,HP,60.2,True
+601,Mobile,iOS,Dell,16.9,False
+602,Mobile,Linux,Apple,48.6,False
+603,Laptop,Linux,HP,38.3,False
+604,Smart TV,iOS,Sony,58.8,False
+605,Laptop,Android,Dell,32.0,True
+606,Tablet,Linux,Apple,7.5,False
+607,Smart TV,macOS,Apple,39.0,False
+608,Mobile,macOS,LG,43.6,True
+609,Mobile,Linux,Sony,51.7,True
+610,Laptop,Android,Samsung,40.5,True
+611,Tablet,iOS,Dell,48.5,True
+612,Smart TV,Windows,Sony,19.3,True
+613,Laptop,Linux,Samsung,23.1,True
+614,Tablet,Android,Dell,64.6,False
+615,Smart TV,macOS,HP,46.5,True
+616,Laptop,Android,Dell,44.1,True
+617,Smart TV,iOS,Sony,43.9,False
+618,Mobile,Linux,Apple,64.2,False
+619,Smart TV,Android,LG,56.4,False
+620,Tablet,iOS,HP,5.1,False
+621,Laptop,iOS,HP,37.2,False
+622,Mobile,Android,Sony,53.6,False
+623,Tablet,Windows,Apple,55.6,False
+624,Laptop,Linux,Samsung,29.0,True
+625,Laptop,Linux,LG,62.5,True
+626,Laptop,Windows,Samsung,14.5,True
+627,Mobile,Windows,HP,39.0,False
+628,Smart TV,iOS,Apple,31.4,False
+629,Laptop,Windows,Apple,56.3,True
+630,Laptop,iOS,Sony,56.3,False
+631,Smart TV,Android,Sony,37.4,True
+632,Smart TV,Windows,Sony,12.8,False
+633,Smart TV,iOS,HP,50.6,True
+634,Smart TV,macOS,HP,40.1,True
+635,Smart TV,Linux,LG,30.5,True
+636,Laptop,Linux,Dell,21.6,True
+637,Tablet,Windows,Samsung,20.3,True
+638,Mobile,macOS,Sony,7.9,True
+639,Mobile,Linux,Apple,38.0,False
+640,Laptop,macOS,Samsung,52.4,False
+641,Tablet,macOS,Apple,31.8,False
+642,Laptop,iOS,Dell,49.8,True
+643,Laptop,Windows,LG,45.6,True
+644,Mobile,Linux,LG,18.0,False
+645,Laptop,Android,Sony,64.1,False
+646,Mobile,Linux,HP,45.9,False
+647,Mobile,Windows,Sony,9.4,True
+648,Laptop,Linux,Apple,42.9,False
+649,Laptop,macOS,Dell,12.4,False
+650,Mobile,Android,Dell,18.2,False
+651,Laptop,Windows,HP,17.7,True
+652,Smart TV,Android,LG,51.3,True
+653,Smart TV,Windows,Apple,33.0,False
+654,Tablet,Android,HP,27.0,False
+655,Smart TV,iOS,Apple,43.2,False
+656,Tablet,Windows,Apple,6.1,True
+657,Tablet,Android,Samsung,45.3,True
+658,Smart TV,macOS,Apple,62.9,True
+659,Laptop,macOS,Dell,31.4,False
+660,Smart TV,Android,Sony,15.6,False
+661,Laptop,iOS,Sony,49.1,False
+662,Tablet,Android,Sony,52.5,True
+663,Mobile,iOS,Samsung,32.8,False
+664,Smart TV,Android,Samsung,31.2,True
+665,Smart TV,Windows,Samsung,59.8,False
+666,Laptop,Android,Sony,63.7,True
+667,Laptop,Windows,Sony,53.8,False
+668,Mobile,iOS,Sony,50.2,True
+669,Laptop,Linux,LG,50.6,True
+670,Laptop,Linux,Apple,51.1,False
+671,Mobile,iOS,Samsung,27.3,True
+672,Smart TV,Windows,Sony,41.2,False
+673,Mobile,Linux,Dell,8.7,False
+674,Laptop,Linux,Dell,38.6,False
+675,Tablet,Linux,LG,9.9,False
+676,Mobile,macOS,Dell,33.8,False
+677,Laptop,macOS,LG,28.6,False
+678,Smart TV,Android,LG,10.3,False
+679,Smart TV,Linux,LG,14.8,True
+680,Laptop,Windows,Dell,29.1,True
+681,Laptop,Windows,Dell,56.7,True
+682,Mobile,Windows,Apple,45.7,False
+683,Laptop,Linux,Apple,52.6,True
+684,Mobile,Android,Apple,25.0,False
+685,Laptop,Linux,HP,43.7,False
+686,Tablet,Linux,Sony,29.5,False
+687,Laptop,macOS,Apple,6.6,False
+688,Tablet,Android,HP,28.5,True
+689,Laptop,macOS,Sony,12.8,True
+690,Laptop,Windows,LG,27.5,False
+691,Tablet,Android,Apple,56.3,False
+692,Mobile,iOS,Sony,46.8,True
+693,Tablet,Linux,Dell,45.6,True
+694,Mobile,Linux,Dell,16.2,False
+695,Tablet,Linux,Apple,17.8,True
+696,Tablet,iOS,LG,34.5,True
+697,Mobile,Windows,LG,60.5,True
+698,Mobile,Android,LG,34.3,False
+699,Tablet,Linux,Apple,42.8,False
+700,Smart TV,macOS,LG,5.8,True
+701,Tablet,Windows,Dell,30.3,True
+702,Tablet,iOS,HP,30.3,False
+703,Smart TV,Windows,HP,17.4,False
+704,Mobile,macOS,HP,13.3,False
+705,Smart TV,iOS,LG,60.3,False
+706,Mobile,Windows,Samsung,47.1,False
+707,Tablet,Android,Apple,45.2,True
+708,Smart TV,Linux,HP,54.7,False
+709,Laptop,Windows,LG,45.4,True
+710,Tablet,Windows,Samsung,32.0,False
+711,Mobile,macOS,LG,59.5,True
+712,Smart TV,macOS,Dell,34.6,True
+713,Laptop,macOS,Apple,35.8,False
+714,Tablet,iOS,Dell,51.4,True
+715,Smart TV,Android,HP,14.3,False
+716,Tablet,Windows,Apple,42.6,False
+717,Smart TV,iOS,Dell,29.2,True
+718,Smart TV,Linux,Sony,60.2,True
+719,Tablet,macOS,Sony,44.6,False
+720,Mobile,Android,Samsung,13.7,True
+721,Tablet,Android,HP,41.0,False
+722,Smart TV,Android,HP,60.8,False
+723,Tablet,Android,Samsung,12.7,True
+724,Mobile,Android,LG,41.4,False
+725,Mobile,macOS,LG,46.2,False
+726,Smart TV,Linux,Sony,25.0,False
+727,Laptop,iOS,HP,61.2,True
+728,Tablet,macOS,Samsung,61.6,False
+729,Smart TV,macOS,Samsung,49.7,False
+730,Smart TV,Linux,HP,25.3,False
+731,Mobile,iOS,Sony,30.8,True
+732,Smart TV,Linux,Sony,41.4,True
+733,Mobile,macOS,LG,50.0,False
+734,Laptop,Android,Apple,61.0,True
+735,Laptop,Android,Apple,22.5,True
+736,Mobile,macOS,Apple,6.3,False
+737,Mobile,Android,Apple,62.2,False
+738,Tablet,Windows,Sony,30.0,False
+739,Laptop,macOS,Samsung,50.4,False
+740,Smart TV,Linux,LG,24.7,False
+741,Tablet,Linux,Samsung,25.7,False
+742,Laptop,macOS,Samsung,33.3,True
+743,Tablet,Android,Apple,15.3,True
+744,Laptop,Android,Dell,26.5,False
+745,Tablet,Linux,Dell,5.5,True
+746,Tablet,iOS,Apple,40.4,False
+747,Mobile,iOS,HP,47.5,False
+748,Tablet,Windows,Dell,48.2,True
+749,Tablet,Windows,Apple,47.8,True
+750,Tablet,iOS,Samsung,61.5,True
+751,Laptop,Linux,LG,23.9,True
+752,Laptop,macOS,Sony,38.4,True
+753,Mobile,iOS,Apple,11.2,True
+754,Smart TV,Android,Apple,50.6,True
+755,Laptop,macOS,LG,34.4,False
+756,Mobile,Windows,Samsung,40.5,True
+757,Mobile,macOS,Sony,6.2,False
+758,Laptop,Windows,Sony,29.6,True
+759,Smart TV,Windows,Sony,18.9,False
+760,Tablet,Android,Samsung,44.5,True
+761,Laptop,Windows,Samsung,46.8,False
+762,Tablet,Linux,Apple,18.7,False
+763,Mobile,Linux,LG,28.2,False
+764,Laptop,iOS,Dell,62.7,True
+765,Laptop,Android,Apple,56.4,True
+766,Tablet,Linux,Apple,35.4,True
+767,Tablet,Linux,Apple,37.7,False
+768,Laptop,Android,HP,9.8,False
+769,Laptop,macOS,Dell,50.6,False
+770,Smart TV,Linux,Dell,47.3,True
+771,Mobile,macOS,LG,43.6,True
+772,Mobile,Android,Sony,27.6,False
+773,Mobile,Android,HP,25.8,False
+774,Smart TV,macOS,HP,5.8,False
+775,Smart TV,iOS,Apple,7.2,True
+776,Mobile,iOS,LG,19.3,True
+777,Mobile,Android,Samsung,44.4,True
+778,Tablet,iOS,Dell,63.3,False
+779,Mobile,Android,LG,57.8,False
+780,Laptop,Linux,Apple,20.7,True
+781,Mobile,Android,Sony,18.2,True
+782,Tablet,Windows,Apple,28.8,True
+783,Smart TV,Windows,Apple,13.5,True
+784,Mobile,Android,Sony,43.1,False
+785,Laptop,Android,HP,34.2,False
+786,Mobile,iOS,LG,55.1,False
+787,Mobile,Windows,Sony,21.2,False
+788,Laptop,Windows,Samsung,15.7,False
+789,Mobile,macOS,Sony,36.8,True
+790,Mobile,Linux,LG,14.7,False
+791,Smart TV,Android,Samsung,19.6,False
+792,Mobile,Android,LG,62.1,False
+793,Laptop,Windows,LG,29.4,True
+794,Smart TV,iOS,LG,38.1,False
+795,Mobile,Linux,Samsung,11.1,True
+796,Mobile,Android,Sony,57.1,False
+797,Smart TV,Android,Apple,59.1,True
+798,Smart TV,Android,HP,43.5,False
+799,Laptop,iOS,LG,10.3,True
+800,Tablet,Windows,HP,51.7,True
+801,Mobile,Linux,Sony,37.5,True
+802,Tablet,Windows,Apple,33.1,False
+803,Smart TV,Android,LG,21.5,False
+804,Laptop,Linux,HP,27.1,True
+805,Mobile,Linux,Apple,15.9,True
+806,Smart TV,Android,Apple,16.4,False
+807,Mobile,Android,Apple,20.0,False
+808,Laptop,macOS,LG,25.2,False
+809,Mobile,macOS,LG,62.6,True
+810,Tablet,Android,Apple,10.8,False
+811,Tablet,macOS,HP,31.5,False
+812,Smart TV,iOS,Sony,7.1,False
+813,Laptop,Android,Apple,60.0,True
+814,Mobile,macOS,Sony,44.5,False
+815,Smart TV,Android,LG,37.0,True
+816,Laptop,Windows,HP,46.1,False
+817,Laptop,macOS,LG,48.8,False
+818,Tablet,iOS,HP,17.9,False
+819,Smart TV,Android,Apple,17.1,True
+820,Tablet,Android,Sony,32.4,False
+821,Tablet,macOS,LG,15.7,False
+822,Mobile,Windows,Dell,45.1,True
+823,Smart TV,macOS,LG,17.6,False
+824,Laptop,Linux,Dell,30.3,False
+825,Tablet,iOS,Samsung,27.1,True
+826,Laptop,macOS,Apple,17.6,True
+827,Tablet,Android,Dell,43.8,True
+828,Tablet,macOS,HP,60.8,False
+829,Laptop,iOS,LG,10.3,False
+830,Laptop,Linux,Sony,61.2,False
+831,Tablet,Windows,LG,36.3,True
+832,Mobile,iOS,HP,51.5,True
+833,Mobile,iOS,HP,24.8,False
+834,Mobile,Windows,LG,49.9,True
+835,Laptop,macOS,HP,43.8,True
+836,Mobile,Android,Samsung,47.4,True
+837,Mobile,Windows,Dell,46.0,False
+838,Smart TV,Linux,Dell,46.6,False
+839,Smart TV,Linux,HP,11.7,False
+840,Tablet,Linux,Sony,10.2,False
+841,Laptop,iOS,Dell,31.6,False
+842,Smart TV,iOS,Apple,32.8,False
+843,Laptop,Linux,HP,51.7,True
+844,Mobile,iOS,Apple,35.4,True
+845,Laptop,iOS,LG,12.3,True
+846,Smart TV,macOS,Dell,11.3,False
+847,Smart TV,iOS,Apple,5.8,True
+848,Mobile,iOS,Samsung,36.4,True
+849,Tablet,Android,Sony,49.2,False
+850,Smart TV,Windows,LG,42.2,False
+851,Smart TV,Android,Sony,51.1,True
+852,Smart TV,Android,Dell,64.2,False
+853,Mobile,macOS,Apple,13.4,False
+854,Smart TV,Windows,Sony,30.2,True
+855,Tablet,macOS,LG,31.6,True
+856,Smart TV,Linux,Dell,18.8,True
+857,Smart TV,Linux,LG,49.2,True
+858,Tablet,iOS,Dell,48.4,True
+859,Tablet,Windows,Dell,31.9,False
+860,Smart TV,iOS,Dell,7.5,True
+861,Mobile,Linux,Apple,36.2,True
+862,Laptop,Windows,Dell,51.4,True
+863,Laptop,Windows,Sony,6.7,False
+864,Mobile,Linux,HP,57.7,True
+865,Smart TV,Linux,Apple,47.3,False
+866,Smart TV,iOS,LG,5.9,False
+867,Smart TV,macOS,Samsung,46.8,False
+868,Laptop,iOS,Apple,63.2,True
+869,Mobile,macOS,HP,37.0,True
+870,Smart TV,macOS,Dell,11.1,True
+871,Laptop,macOS,LG,19.0,False
+872,Laptop,Linux,HP,18.3,True
+873,Tablet,Android,Apple,35.7,False
+874,Tablet,Android,LG,35.8,False
+875,Smart TV,Android,LG,6.7,True
+876,Tablet,Linux,Apple,38.4,False
+877,Tablet,macOS,LG,41.6,True
+878,Mobile,macOS,LG,54.1,True
+879,Tablet,Windows,Sony,57.5,True
+880,Mobile,Android,Samsung,60.2,True
+881,Tablet,macOS,Apple,52.1,True
+882,Laptop,iOS,Sony,30.1,True
+883,Tablet,Windows,Apple,43.4,True
+884,Tablet,Android,HP,61.2,False
+885,Laptop,macOS,Apple,25.5,True
+886,Smart TV,macOS,Apple,17.5,False
+887,Mobile,Windows,Samsung,5.5,True
+888,Tablet,iOS,Apple,46.0,True
+889,Laptop,Windows,Dell,22.8,False
+890,Tablet,Windows,HP,28.5,False
+891,Laptop,macOS,Samsung,6.7,True
+892,Laptop,iOS,Samsung,26.8,False
+893,Tablet,iOS,Sony,23.0,False
+894,Tablet,macOS,Apple,48.3,False
+895,Smart TV,Linux,Sony,46.8,True
+896,Tablet,Android,Dell,64.0,False
+897,Laptop,Linux,Samsung,8.4,False
+898,Tablet,iOS,Samsung,48.9,False
+899,Mobile,iOS,LG,39.6,False
+900,Smart TV,Windows,Samsung,36.1,True
+901,Laptop,Windows,Apple,34.1,True
+902,Smart TV,Android,Dell,32.7,True
+903,Laptop,Linux,Sony,5.9,False
+904,Smart TV,Linux,Dell,10.2,False
+905,Tablet,Android,HP,58.9,True
+906,Mobile,Linux,Samsung,18.1,True
+907,Mobile,Windows,Dell,17.7,False
+908,Tablet,macOS,LG,15.4,True
+909,Tablet,Linux,Dell,5.8,True
+910,Smart TV,Linux,LG,20.0,True
+911,Smart TV,iOS,Apple,23.2,False
+912,Laptop,iOS,Sony,26.2,True
+913,Smart TV,Linux,LG,62.3,True
+914,Laptop,macOS,Dell,35.1,False
+915,Tablet,iOS,Apple,18.7,False
+916,Laptop,Linux,Dell,36.5,True
+917,Laptop,Android,Sony,52.0,True
+918,Mobile,Linux,Apple,29.5,True
+919,Laptop,macOS,Samsung,61.5,True
+920,Laptop,Windows,Sony,33.4,False
+921,Laptop,Android,Dell,31.3,True
+922,Mobile,Windows,Samsung,35.9,False
+923,Mobile,Linux,LG,48.9,True
+924,Smart TV,Linux,Sony,24.2,True
+925,Laptop,Android,Samsung,20.2,True
+926,Laptop,Linux,HP,60.8,True
+927,Smart TV,Android,Samsung,30.0,False
+928,Mobile,macOS,HP,42.1,False
+929,Tablet,iOS,Samsung,63.1,True
+930,Tablet,iOS,Sony,30.6,False
+931,Mobile,Linux,Dell,34.0,True
+932,Mobile,Linux,Apple,20.7,False
+933,Tablet,macOS,HP,20.9,False
+934,Tablet,Linux,Samsung,57.5,True
+935,Mobile,macOS,Apple,29.9,True
+936,Smart TV,iOS,Dell,20.4,False
+937,Laptop,Android,Apple,27.4,True
+938,Smart TV,Windows,Sony,34.9,False
+939,Smart TV,Android,Sony,49.5,True
+940,Smart TV,macOS,LG,59.6,True
+941,Tablet,Linux,Dell,20.2,True
+942,Laptop,macOS,HP,28.2,True
+943,Mobile,macOS,Sony,14.4,False
+944,Tablet,iOS,LG,32.3,False
+945,Smart TV,macOS,Sony,17.6,False
+946,Mobile,Linux,HP,34.3,False
+947,Smart TV,Linux,HP,31.9,False
+948,Mobile,Windows,HP,30.8,False
+949,Laptop,Android,HP,46.1,False
+950,Mobile,Linux,Apple,44.0,False
+951,Tablet,Android,Samsung,16.6,True
+952,Tablet,iOS,Sony,6.9,True
+953,Tablet,iOS,LG,35.2,False
+954,Tablet,Windows,Samsung,43.1,True
+955,Smart TV,Android,Dell,25.6,True
+956,Smart TV,iOS,Sony,18.1,False
+957,Smart TV,Windows,Apple,24.6,True
+958,Laptop,Android,Apple,18.6,False
+959,Smart TV,Android,HP,28.2,True
+960,Laptop,Android,Samsung,22.2,True
+961,Smart TV,Windows,Samsung,25.7,True
+962,Laptop,macOS,HP,60.4,False
+963,Smart TV,Linux,Sony,35.1,False
+964,Laptop,macOS,Apple,17.7,True
+965,Mobile,iOS,LG,51.9,True
+966,Laptop,Android,LG,19.2,True
+967,Laptop,macOS,HP,49.8,False
+968,Mobile,Android,Sony,6.3,False
+969,Tablet,Android,Samsung,43.9,False
+970,Laptop,Android,LG,40.5,False
+971,Tablet,iOS,Sony,20.6,False
+972,Tablet,iOS,LG,51.8,False
+973,Tablet,iOS,HP,21.8,False
+974,Smart TV,Android,Sony,23.4,False
+975,Laptop,iOS,Samsung,61.4,True
+976,Mobile,Android,Samsung,64.1,True
+977,Mobile,Android,Sony,63.5,False
+978,Smart TV,macOS,Apple,19.3,True
+979,Mobile,Android,Apple,63.0,False
+980,Smart TV,Windows,Samsung,44.8,False
+981,Smart TV,Android,Samsung,24.0,False
+982,Laptop,iOS,HP,15.1,True
+983,Smart TV,iOS,HP,19.7,True
+984,Laptop,Windows,LG,59.1,False
+985,Smart TV,Android,Apple,42.0,False
+986,Laptop,iOS,Sony,29.5,True
+987,Tablet,Android,Apple,23.6,False
+988,Tablet,Android,Sony,16.6,True
+989,Laptop,iOS,Samsung,63.3,True
+990,Mobile,iOS,Apple,60.6,True
+991,Mobile,Windows,Apple,10.3,True
+992,Laptop,Android,Sony,42.3,True
+993,Tablet,iOS,Dell,9.0,False
+994,Mobile,iOS,Apple,7.9,True
+995,Mobile,macOS,Samsung,37.8,True
+996,Tablet,Android,Apple,10.8,True
+997,Laptop,Linux,Dell,8.2,True
+998,Mobile,Linux,Apple,24.8,True
+999,Laptop,Android,LG,63.5,False
+1000,Mobile,Android,Apple,38.7,True
+1001,Tablet,Linux,LG,42.5,False
+1002,Laptop,iOS,HP,57.7,False
+1003,Tablet,Windows,Dell,36.9,False
+1004,Smart TV,Linux,Samsung,61.3,False
+1005,Smart TV,Linux,Dell,38.2,True
+1006,Mobile,Linux,Samsung,64.0,True
+1007,Mobile,Linux,Sony,42.9,False
+1008,Smart TV,iOS,Sony,54.4,True
+1009,Tablet,Linux,Apple,10.6,True
+1010,Smart TV,Linux,Sony,48.8,True
+1011,Laptop,Android,HP,8.8,True
+1012,Tablet,macOS,Apple,40.4,False
+1013,Laptop,Linux,Apple,18.5,True
+1014,Smart TV,iOS,Dell,39.4,True
+1015,Tablet,iOS,Sony,60.1,False
+1016,Smart TV,Linux,Samsung,40.6,True
+1017,Tablet,macOS,HP,26.3,False
+1018,Laptop,macOS,HP,47.0,False
+1019,Tablet,Windows,Apple,25.8,False
+1020,Laptop,macOS,HP,26.7,False
+1021,Mobile,Android,Apple,43.3,False
+1022,Tablet,Linux,Sony,13.5,True
+1023,Tablet,Linux,Samsung,31.5,True
+1024,Mobile,iOS,Samsung,62.8,True
+1025,Smart TV,Android,Dell,37.5,True
+1026,Mobile,iOS,HP,30.3,False
+1027,Mobile,macOS,Sony,46.3,False
+1028,Tablet,macOS,Samsung,35.1,False
+1029,Mobile,iOS,Samsung,48.2,False
+1030,Smart TV,macOS,LG,49.8,False
+1031,Laptop,Linux,HP,36.2,False
+1032,Laptop,macOS,Sony,21.7,True
+1033,Tablet,Android,Sony,49.4,True
+1034,Mobile,iOS,LG,13.8,True
+1035,Laptop,macOS,LG,64.5,True
+1036,Tablet,Android,Dell,64.8,False
+1037,Smart TV,Linux,Samsung,6.9,False
+1038,Tablet,macOS,Sony,24.2,False
+1039,Tablet,macOS,Samsung,62.9,False
+1040,Laptop,macOS,Samsung,25.7,False
+1041,Smart TV,iOS,Dell,40.3,False
+1042,Tablet,Windows,Sony,9.9,False
+1043,Laptop,macOS,Dell,23.8,False
+1044,Smart TV,Linux,Apple,35.3,False
+1045,Laptop,iOS,Samsung,63.1,False
+1046,Mobile,Linux,LG,34.2,False
+1047,Laptop,macOS,Dell,37.1,True
+1048,Smart TV,Windows,Samsung,37.9,True
+1049,Tablet,Windows,HP,33.2,False
+1050,Tablet,iOS,Sony,46.9,False
+1051,Mobile,Android,HP,28.1,False
+1052,Smart TV,iOS,Dell,17.0,True
+1053,Mobile,Linux,LG,27.9,False
+1054,Smart TV,Windows,Sony,35.1,True
+1055,Mobile,Windows,Sony,64.7,True
+1056,Smart TV,Android,Samsung,29.0,False
+1057,Laptop,iOS,HP,50.9,True
+1058,Mobile,macOS,Samsung,43.1,False
+1059,Smart TV,Windows,Samsung,60.7,True
+1060,Mobile,Android,Apple,34.9,True
+1061,Laptop,iOS,Apple,19.2,True
+1062,Laptop,Windows,HP,38.1,False
+1063,Tablet,Windows,LG,38.6,False
+1064,Laptop,Android,Sony,24.5,True
+1065,Laptop,Windows,Sony,62.9,False
+1066,Laptop,iOS,Sony,55.8,False
+1067,Laptop,Windows,HP,47.2,False
+1068,Tablet,macOS,HP,8.1,False
+1069,Tablet,Windows,Samsung,47.8,False
+1070,Tablet,Windows,HP,8.8,False
+1071,Smart TV,Linux,HP,57.8,False
+1072,Laptop,Linux,Dell,39.7,False
+1073,Mobile,macOS,Apple,44.6,False
+1074,Smart TV,Linux,LG,39.2,False
+1075,Laptop,Android,LG,61.8,True
+1076,Laptop,macOS,Sony,34.6,True
+1077,Laptop,Linux,Sony,18.5,False
+1078,Tablet,iOS,Apple,55.6,True
+1079,Smart TV,macOS,HP,20.4,False
+1080,Laptop,Android,Sony,44.7,False
+1081,Mobile,macOS,Apple,44.5,False
+1082,Smart TV,Linux,Samsung,50.4,False
+1083,Smart TV,Linux,Dell,10.7,True
+1084,Tablet,Android,Sony,24.3,True
+1085,Laptop,Android,Sony,64.3,False
+1086,Laptop,Android,Apple,44.3,True
+1087,Laptop,iOS,Dell,18.1,True
+1088,Laptop,Android,Sony,12.7,True
+1089,Tablet,macOS,Sony,49.9,False
+1090,Smart TV,Android,Dell,7.7,True
+1091,Mobile,Android,LG,20.2,False
+1092,Smart TV,iOS,HP,36.6,True
+1093,Laptop,Android,HP,56.2,False
+1094,Smart TV,Android,Samsung,32.5,True
+1095,Tablet,Android,LG,19.8,False
+1096,Tablet,Windows,Apple,7.1,True
+1097,Laptop,macOS,Samsung,34.5,False
+1098,Tablet,Linux,Samsung,12.1,False
+1099,Mobile,iOS,Samsung,64.7,False
+1100,Laptop,iOS,Apple,51.2,True
+1101,Smart TV,macOS,Sony,17.9,False
+1102,Tablet,iOS,HP,37.3,True
+1103,Mobile,Android,LG,60.5,True
+1104,Tablet,iOS,LG,8.3,False
+1105,Smart TV,Linux,Samsung,29.3,True
+1106,Mobile,iOS,HP,26.6,True
+1107,Mobile,Android,Dell,21.7,False
+1108,Smart TV,Windows,Samsung,59.1,False
+1109,Tablet,macOS,Samsung,5.3,True
+1110,Tablet,Android,Apple,42.6,False
+1111,Laptop,Linux,Apple,18.9,True
+1112,Mobile,Linux,Dell,42.9,False
+1113,Smart TV,macOS,HP,48.3,True
+1114,Mobile,macOS,HP,13.3,False
+1115,Mobile,Linux,Apple,28.5,False
+1116,Laptop,Windows,Apple,12.4,False
+1117,Smart TV,Android,Dell,53.4,True
+1118,Laptop,macOS,Apple,22.7,True
+1119,Laptop,Linux,Samsung,11.7,True
+1120,Laptop,Windows,Dell,17.1,True
+1121,Mobile,Linux,HP,59.7,True
+1122,Smart TV,Windows,Apple,34.4,False
+1123,Mobile,Android,HP,33.2,True
+1124,Laptop,Linux,LG,27.8,True
+1125,Smart TV,Linux,Apple,50.6,False
+1126,Laptop,Android,Dell,8.8,False
+1127,Mobile,Android,Samsung,15.5,True
+1128,Tablet,macOS,Dell,34.0,False
+1129,Laptop,Linux,LG,19.5,False
+1130,Laptop,Windows,Dell,30.4,False
+1131,Smart TV,Windows,LG,20.1,True
+1132,Mobile,Linux,Apple,64.7,True
+1133,Tablet,Android,HP,64.8,True
+1134,Laptop,macOS,Samsung,52.2,True
+1135,Smart TV,macOS,Sony,57.9,False
+1136,Smart TV,iOS,Samsung,26.5,False
+1137,Tablet,macOS,Apple,48.5,False
+1138,Laptop,iOS,LG,6.2,False
+1139,Laptop,macOS,Sony,5.1,True
+1140,Mobile,Linux,Apple,9.3,False
+1141,Mobile,Android,LG,14.7,False
+1142,Tablet,macOS,Sony,17.6,False
+1143,Tablet,iOS,Dell,63.6,True
+1144,Tablet,Linux,LG,13.5,False
+1145,Tablet,iOS,Dell,36.0,True
+1146,Mobile,Android,Samsung,27.9,False
+1147,Smart TV,iOS,Samsung,50.0,False
+1148,Smart TV,macOS,Apple,53.4,True
+1149,Smart TV,Linux,Apple,18.1,True
+1150,Mobile,Android,HP,25.5,False
+1151,Smart TV,iOS,LG,18.1,True
+1152,Mobile,macOS,LG,13.3,False
+1153,Tablet,Windows,Dell,35.8,True
+1154,Tablet,Linux,Apple,7.6,False
+1155,Mobile,Windows,LG,59.7,False
+1156,Mobile,Android,Dell,41.9,False
+1157,Laptop,macOS,Sony,9.9,True
+1158,Tablet,Android,Apple,26.1,True
+1159,Mobile,iOS,Samsung,17.6,False
+1160,Mobile,macOS,Dell,39.6,False
+1161,Smart TV,Windows,Samsung,26.6,False
+1162,Laptop,Linux,Dell,55.1,True
+1163,Tablet,macOS,LG,60.6,False
+1164,Mobile,Linux,Samsung,46.5,True
+1165,Mobile,macOS,Dell,56.2,False
+1166,Tablet,Android,Dell,63.6,True
+1167,Smart TV,iOS,LG,59.7,False
+1168,Mobile,iOS,Apple,30.9,False
+1169,Laptop,iOS,Sony,16.4,True
+1170,Smart TV,Linux,Samsung,54.1,False
+1171,Tablet,iOS,Sony,62.4,True
+1172,Laptop,Windows,Samsung,22.5,True
+1173,Tablet,macOS,Dell,12.1,False
+1174,Mobile,Windows,Samsung,51.9,True
+1175,Laptop,macOS,HP,14.9,True
+1176,Smart TV,Android,LG,60.4,False
+1177,Tablet,Android,Apple,35.3,True
+1178,Smart TV,Windows,HP,32.5,True
+1179,Laptop,Android,Sony,31.1,False
+1180,Smart TV,Android,Sony,9.2,True
+1181,Tablet,Linux,HP,8.6,True
+1182,Mobile,Linux,Samsung,51.5,False
+1183,Tablet,macOS,Apple,58.6,True
+1184,Mobile,Android,LG,26.6,False
+1185,Smart TV,Linux,Sony,17.2,True
+1186,Mobile,Linux,Samsung,26.6,True
+1187,Laptop,Android,HP,55.1,True
+1188,Smart TV,iOS,Samsung,7.1,True
+1189,Laptop,macOS,LG,6.4,False
+1190,Laptop,Windows,Sony,55.0,True
+1191,Mobile,Linux,HP,21.1,False
+1192,Mobile,macOS,Apple,64.2,False
+1193,Tablet,iOS,Dell,16.8,True
+1194,Laptop,Windows,Apple,30.4,True
+1195,Laptop,iOS,Samsung,20.0,True
+1196,Mobile,Linux,Sony,44.3,False
+1197,Tablet,Linux,Apple,37.8,True
+1198,Mobile,Linux,Sony,58.8,False
+1199,Smart TV,Android,LG,43.6,False
+1200,Tablet,Android,Apple,12.7,False
+1201,Smart TV,macOS,Dell,39.0,False
+1202,Smart TV,macOS,Dell,23.9,False
+1203,Smart TV,macOS,LG,14.5,True
+1204,Laptop,Linux,Sony,7.6,True
+1205,Smart TV,iOS,Samsung,38.3,True
+1206,Laptop,macOS,LG,27.9,True
+1207,Tablet,Android,LG,46.1,True
+1208,Mobile,macOS,Apple,32.8,False
+1209,Laptop,Linux,Apple,11.6,True
+1210,Mobile,Windows,Samsung,31.9,False
+1211,Smart TV,iOS,LG,61.7,False
+1212,Tablet,macOS,Samsung,64.9,True
+1213,Tablet,macOS,Sony,38.0,True
+1214,Smart TV,Linux,LG,8.4,True
+1215,Mobile,iOS,Samsung,64.2,True
+1216,Mobile,Windows,Dell,14.5,True
+1217,Smart TV,Linux,Sony,64.6,False
+1218,Smart TV,Windows,Samsung,47.0,True
+1219,Tablet,iOS,Dell,10.8,False
+1220,Mobile,Android,HP,56.8,True
+1221,Mobile,Linux,Dell,36.2,True
+1222,Tablet,Android,Apple,15.6,False
+1223,Tablet,Android,Dell,15.4,True
+1224,Laptop,macOS,HP,39.9,True
+1225,Smart TV,iOS,Sony,49.6,True
+1226,Mobile,macOS,Dell,34.3,True
+1227,Smart TV,macOS,Samsung,64.4,True
+1228,Tablet,iOS,LG,14.1,True
+1229,Smart TV,macOS,HP,61.6,False
+1230,Smart TV,Linux,HP,46.3,False
+1231,Mobile,Android,Dell,60.4,True
+1232,Mobile,Linux,LG,12.2,False
+1233,Smart TV,Windows,Apple,19.3,False
+1234,Laptop,Windows,LG,21.8,False
+1235,Smart TV,Linux,Samsung,21.3,True
+1236,Tablet,Android,Apple,62.7,True
+1237,Mobile,iOS,HP,48.8,False
+1238,Smart TV,Linux,Apple,39.4,True
+1239,Smart TV,Linux,Samsung,50.4,True
+1240,Smart TV,Windows,Sony,23.1,False
+1241,Laptop,macOS,Dell,50.0,True
+1242,Tablet,Windows,Sony,45.7,False
+1243,Tablet,Linux,Apple,60.7,True
+1244,Laptop,Android,Samsung,32.9,True
+1245,Smart TV,Linux,Samsung,30.6,False
+1246,Smart TV,Windows,Sony,18.4,False
+1247,Laptop,Linux,HP,38.8,True
+1248,Mobile,iOS,Apple,44.0,False
+1249,Mobile,Windows,HP,53.2,True
+1250,Laptop,Windows,Sony,45.1,False
+1251,Smart TV,Android,Apple,64.5,True
+1252,Tablet,Linux,HP,60.2,False
+1253,Tablet,Android,Dell,23.3,False
+1254,Smart TV,macOS,HP,39.5,True
+1255,Mobile,Android,LG,9.4,False
+1256,Mobile,Linux,Apple,23.9,False
+1257,Laptop,Android,Sony,64.0,False
+1258,Smart TV,iOS,Apple,51.8,False
+1259,Tablet,Windows,HP,15.2,True
+1260,Laptop,macOS,LG,60.4,False
+1261,Mobile,macOS,LG,49.7,False
+1262,Mobile,Linux,Sony,10.0,False
+1263,Mobile,macOS,Sony,38.6,False
+1264,Smart TV,Android,HP,45.7,False
+1265,Mobile,iOS,HP,51.3,True
+1266,Laptop,iOS,LG,58.9,True
+1267,Smart TV,Windows,Apple,48.2,False
+1268,Smart TV,macOS,Apple,18.2,True
+1269,Mobile,iOS,Apple,39.6,False
+1270,Laptop,iOS,Sony,62.4,False
+1271,Mobile,Android,HP,18.0,True
+1272,Laptop,Linux,Dell,52.4,False
+1273,Mobile,Linux,Apple,5.8,True
+1274,Smart TV,macOS,Sony,53.0,False
+1275,Smart TV,iOS,Apple,38.0,True
+1276,Tablet,iOS,Dell,20.8,False
+1277,Mobile,macOS,Apple,15.6,True
+1278,Mobile,Windows,Dell,27.9,True
+1279,Laptop,Windows,HP,33.8,True
+1280,Tablet,Windows,Sony,47.8,False
+1281,Mobile,macOS,Sony,49.3,True
+1282,Mobile,Android,LG,34.6,True
+1283,Tablet,iOS,Apple,57.9,True
+1284,Tablet,Windows,LG,55.6,True
+1285,Mobile,Windows,Sony,12.8,True
+1286,Mobile,Android,Samsung,47.1,False
+1287,Tablet,Windows,LG,18.6,False
+1288,Tablet,Windows,Samsung,25.3,True
+1289,Laptop,Linux,Dell,61.5,False
+1290,Laptop,Windows,HP,5.1,True
+1291,Tablet,Android,HP,13.0,False
+1292,Tablet,Windows,Dell,28.9,False
+1293,Mobile,macOS,Apple,47.4,True
+1294,Mobile,iOS,Apple,7.9,False
+1295,Smart TV,Linux,Apple,33.7,True
+1296,Laptop,Android,HP,55.9,False
+1297,Tablet,Linux,Dell,31.8,True
+1298,Laptop,Windows,Samsung,40.7,True
+1299,Tablet,Windows,HP,59.4,False
+1300,Smart TV,iOS,Samsung,31.6,True
+1301,Tablet,Linux,HP,60.1,True
+1302,Mobile,macOS,LG,54.9,False
+1303,Tablet,Android,Dell,15.2,True
+1304,Smart TV,Android,HP,63.7,False
+1305,Tablet,Linux,Samsung,50.5,False
+1306,Tablet,macOS,Apple,50.0,True
+1307,Tablet,macOS,LG,37.7,True
+1308,Laptop,Linux,HP,63.5,False
+1309,Mobile,macOS,Sony,54.2,False
+1310,Mobile,Linux,HP,26.1,False
+1311,Laptop,iOS,Dell,54.1,True
+1312,Smart TV,Android,Apple,29.4,False
+1313,Smart TV,Linux,Samsung,43.4,False
+1314,Laptop,iOS,Dell,42.1,False
+1315,Mobile,Windows,LG,13.1,False
+1316,Tablet,Android,LG,52.2,True
+1317,Tablet,Linux,Sony,18.4,True
+1318,Laptop,macOS,Dell,8.5,True
+1319,Smart TV,Linux,Sony,9.1,True
+1320,Laptop,Linux,LG,29.1,False
+1321,Tablet,Windows,HP,52.9,False
+1322,Laptop,iOS,Sony,57.8,True
+1323,Mobile,iOS,Apple,56.5,False
+1324,Laptop,Linux,Dell,45.9,False
+1325,Laptop,iOS,LG,55.6,True
+1326,Smart TV,macOS,LG,47.6,True
+1327,Laptop,Android,Dell,39.6,True
+1328,Mobile,macOS,Apple,62.3,True
+1329,Mobile,macOS,HP,9.3,False
+1330,Tablet,iOS,Dell,35.4,True
+1331,Tablet,Linux,Dell,39.1,False
+1332,Smart TV,iOS,LG,52.5,False
+1333,Mobile,Windows,Sony,9.5,False
+1334,Tablet,iOS,HP,10.7,True
+1335,Smart TV,Windows,Sony,16.0,False
+1336,Smart TV,Android,LG,54.4,False
+1337,Smart TV,iOS,LG,46.4,False
+1338,Mobile,Linux,LG,38.2,False
+1339,Mobile,Windows,LG,14.0,False
+1340,Tablet,Windows,LG,33.7,True
+1341,Laptop,Linux,Samsung,43.8,True
+1342,Tablet,Windows,Sony,6.1,True
+1343,Mobile,Android,Apple,36.6,True
+1344,Mobile,macOS,Apple,16.4,True
+1345,Smart TV,Linux,HP,56.9,False
+1346,Mobile,macOS,LG,21.5,False
+1347,Mobile,macOS,Dell,55.0,True
+1348,Smart TV,Windows,HP,25.9,True
+1349,Tablet,iOS,LG,37.5,True
+1350,Mobile,Linux,Samsung,61.5,False
+1351,Laptop,Android,Samsung,54.4,False
+1352,Laptop,iOS,HP,14.2,True
+1353,Laptop,macOS,Dell,10.8,False
+1354,Tablet,Windows,Apple,55.4,False
+1355,Laptop,macOS,Sony,10.0,True
+1356,Laptop,macOS,Dell,43.7,False
+1357,Tablet,macOS,Sony,38.5,False
+1358,Laptop,Windows,LG,55.1,False
+1359,Tablet,Windows,Apple,64.2,False
+1360,Mobile,Android,Sony,34.2,True
+1361,Smart TV,Windows,Sony,64.0,False
+1362,Tablet,Windows,Dell,17.0,False
+1363,Mobile,macOS,Apple,18.6,True
+1364,Smart TV,Windows,Sony,44.5,False
+1365,Laptop,iOS,Dell,15.4,True
+1366,Mobile,Windows,LG,36.9,False
+1367,Laptop,Android,Apple,45.5,True
+1368,Tablet,macOS,LG,64.1,True
+1369,Smart TV,Linux,HP,52.5,False
+1370,Tablet,Windows,Apple,56.8,False
+1371,Smart TV,Android,Dell,43.6,True
+1372,Mobile,Linux,Sony,37.5,True
+1373,Laptop,Windows,Sony,58.2,False
+1374,Tablet,Linux,Samsung,16.1,True
+1375,Mobile,Android,HP,58.4,False
+1376,Smart TV,Linux,LG,24.4,True
+1377,Smart TV,Windows,Sony,31.6,False
+1378,Tablet,Linux,Dell,47.5,False
+1379,Mobile,Android,Dell,39.0,True
+1380,Laptop,Android,Apple,43.8,True
+1381,Mobile,macOS,LG,11.4,True
+1382,Mobile,Android,HP,53.3,True
+1383,Mobile,macOS,Apple,26.5,True
+1384,Smart TV,Android,Sony,31.7,False
+1385,Laptop,Linux,Sony,58.7,False
+1386,Tablet,Windows,LG,24.7,True
+1387,Laptop,Windows,Samsung,7.7,False
+1388,Tablet,macOS,Samsung,30.6,True
+1389,Smart TV,iOS,Sony,12.4,False
+1390,Smart TV,macOS,HP,5.2,False
+1391,Tablet,Windows,HP,34.0,False
+1392,Laptop,Android,LG,34.8,False
+1393,Laptop,Linux,Sony,53.9,True
+1394,Tablet,Android,Sony,34.0,False
+1395,Mobile,Linux,Apple,39.5,True
+1396,Mobile,Windows,Apple,19.4,True
+1397,Smart TV,Android,LG,34.3,True
+1398,Mobile,iOS,Apple,37.4,False
+1399,Smart TV,Linux,Dell,14.0,False
+1400,Smart TV,Linux,Dell,27.6,True
+1401,Tablet,Linux,Sony,28.7,False
+1402,Tablet,Android,Dell,25.4,True
+1403,Smart TV,iOS,LG,23.5,False
+1404,Tablet,Windows,HP,31.4,True
+1405,Laptop,Windows,Samsung,63.9,False
+1406,Mobile,macOS,Samsung,41.2,True
+1407,Smart TV,iOS,HP,57.8,True
+1408,Mobile,Linux,HP,12.4,True
+1409,Mobile,Windows,Dell,36.7,True
+1410,Smart TV,iOS,Sony,54.0,False
+1411,Mobile,Windows,LG,36.0,True
+1412,Tablet,iOS,Apple,45.9,False
+1413,Laptop,iOS,Sony,19.7,True
+1414,Mobile,Android,Apple,20.9,False
+1415,Tablet,Android,Samsung,59.2,False
+1416,Smart TV,Linux,Apple,51.9,False
+1417,Smart TV,Android,HP,49.8,True
+1418,Laptop,iOS,Dell,19.7,True
+1419,Mobile,iOS,Samsung,59.9,False
+1420,Tablet,Android,HP,50.7,False
+1421,Laptop,Android,Sony,8.8,False
+1422,Smart TV,macOS,Dell,56.9,False
+1423,Smart TV,Linux,Samsung,36.8,False
+1424,Mobile,iOS,Apple,22.6,True
+1425,Tablet,Android,HP,47.6,False
+1426,Smart TV,macOS,LG,33.0,True
+1427,Laptop,Android,Apple,26.6,True
+1428,Smart TV,iOS,Dell,62.3,True
+1429,Smart TV,Android,Apple,26.4,True
+1430,Mobile,iOS,HP,22.0,False
+1431,Smart TV,Windows,Samsung,15.2,True
+1432,Mobile,iOS,Sony,22.4,True
+1433,Laptop,Windows,Dell,47.5,False
+1434,Laptop,Windows,HP,14.4,True
+1435,Tablet,macOS,Samsung,15.1,False
+1436,Laptop,macOS,Samsung,54.5,False
+1437,Smart TV,iOS,Dell,19.3,True
+1438,Tablet,Windows,Samsung,54.5,False
+1439,Smart TV,macOS,LG,33.1,True
+1440,Smart TV,Linux,Dell,60.9,False
+1441,Laptop,Linux,LG,40.5,False
+1442,Mobile,macOS,HP,51.1,True
+1443,Laptop,iOS,Samsung,54.1,False
+1444,Smart TV,iOS,Apple,23.3,False
+1445,Tablet,Android,Apple,25.8,False
+1446,Mobile,macOS,LG,43.4,True
+1447,Tablet,iOS,Sony,6.6,True
+1448,Laptop,Android,Sony,44.6,False
+1449,Tablet,iOS,Dell,7.2,False
+1450,Smart TV,Android,LG,40.3,False
+1451,Tablet,Android,HP,54.9,False
+1452,Laptop,Android,Samsung,27.2,True
+1453,Laptop,Windows,Apple,40.4,False
+1454,Laptop,Linux,LG,61.8,False
+1455,Smart TV,Android,Apple,45.2,False
+1456,Tablet,macOS,Sony,45.8,True
+1457,Mobile,iOS,Dell,32.7,False
+1458,Laptop,Windows,HP,55.2,True
+1459,Laptop,Linux,HP,52.0,False
+1460,Mobile,iOS,Samsung,46.1,False
+1461,Mobile,Android,Sony,60.3,True
+1462,Smart TV,Windows,Samsung,23.0,True
+1463,Mobile,iOS,Samsung,25.5,False
+1464,Tablet,macOS,Apple,32.0,False
+1465,Smart TV,Linux,Apple,9.7,True
+1466,Mobile,Android,HP,37.7,False
+1467,Mobile,Linux,Samsung,64.9,True
+1468,Mobile,Windows,HP,38.3,False
+1469,Tablet,iOS,Dell,6.9,True
+1470,Laptop,macOS,LG,34.5,True
+1471,Laptop,iOS,Samsung,44.9,False
+1472,Smart TV,Android,LG,10.6,False
+1473,Tablet,iOS,HP,28.3,False
+1474,Laptop,Android,Sony,30.4,False
+1475,Mobile,Android,Apple,39.9,False
+1476,Mobile,Linux,HP,41.0,True
+1477,Mobile,Windows,LG,55.6,True
+1478,Tablet,Windows,LG,19.8,False
+1479,Laptop,macOS,LG,12.8,False
+1480,Smart TV,iOS,Sony,43.9,True
+1481,Tablet,macOS,Samsung,20.1,False
+1482,Tablet,Windows,HP,35.4,False
+1483,Smart TV,macOS,Apple,56.1,True
+1484,Tablet,iOS,LG,62.7,True
+1485,Tablet,macOS,Apple,12.8,True
+1486,Tablet,macOS,Apple,22.3,True
+1487,Mobile,Windows,LG,13.8,False
+1488,Mobile,Linux,Samsung,12.5,False
+1489,Smart TV,iOS,LG,6.4,False
+1490,Tablet,Linux,Apple,64.6,True
+1491,Laptop,Windows,LG,57.7,False
+1492,Smart TV,Windows,LG,39.0,True
+1493,Tablet,Windows,Samsung,41.4,False
+1494,Tablet,iOS,Sony,45.3,False
+1495,Tablet,iOS,Sony,47.2,False
+1496,Smart TV,Linux,Sony,62.3,True
+1497,Mobile,Linux,HP,54.6,True
+1498,Laptop,iOS,Dell,33.1,True
+1499,Smart TV,iOS,HP,49.4,True
+1500,Laptop,Android,Samsung,7.5,True
+1501,Smart TV,Windows,LG,13.6,True
+1502,Mobile,Windows,Samsung,50.9,False
+1503,Tablet,Linux,HP,44.0,False
+1504,Tablet,Android,Apple,23.9,False
+1505,Smart TV,iOS,Dell,9.7,False
+1506,Mobile,Windows,LG,30.6,False
+1507,Mobile,iOS,LG,43.6,True
+1508,Tablet,macOS,Dell,44.6,True
+1509,Mobile,iOS,Samsung,48.1,True
+1510,Mobile,macOS,Dell,18.3,False
+1511,Smart TV,Windows,Apple,55.9,True
+1512,Mobile,Linux,Dell,28.1,False
+1513,Smart TV,Windows,Apple,39.8,False
+1514,Laptop,macOS,Dell,49.0,True
+1515,Laptop,macOS,HP,17.6,False
+1516,Laptop,Windows,Apple,13.9,False
+1517,Tablet,Linux,Dell,14.6,False
+1518,Smart TV,iOS,Samsung,36.1,False
+1519,Smart TV,Windows,Apple,12.7,True
+1520,Mobile,Linux,Dell,28.0,False
+1521,Mobile,Android,Apple,46.9,True
+1522,Tablet,iOS,Dell,48.8,True
+1523,Tablet,Windows,Apple,61.1,False
+1524,Smart TV,iOS,Apple,57.7,False
+1525,Tablet,Windows,HP,15.0,True
+1526,Laptop,Windows,Sony,34.2,False
+1527,Mobile,macOS,HP,38.7,False
+1528,Smart TV,Windows,Dell,28.6,False
+1529,Tablet,macOS,HP,5.8,False
+1530,Laptop,Android,Sony,15.5,False
+1531,Laptop,iOS,Dell,59.1,True
+1532,Laptop,Android,Samsung,23.7,False
+1533,Smart TV,Windows,HP,28.6,False
+1534,Laptop,Linux,HP,43.5,True
+1535,Laptop,Android,Sony,23.4,False
+1536,Laptop,iOS,Samsung,62.4,True
+1537,Smart TV,macOS,HP,29.8,False
+1538,Laptop,macOS,HP,15.3,False
+1539,Mobile,Windows,Dell,33.1,False
+1540,Mobile,Android,Sony,62.0,False
+1541,Tablet,Linux,Samsung,41.1,True
+1542,Smart TV,macOS,Sony,50.7,False
+1543,Tablet,iOS,HP,42.3,False
+1544,Tablet,Windows,Dell,48.0,False
+1545,Laptop,iOS,Sony,36.9,True
+1546,Laptop,iOS,HP,17.7,True
+1547,Mobile,iOS,Dell,47.2,False
+1548,Tablet,iOS,HP,13.5,True
+1549,Mobile,Android,Samsung,49.5,False
+1550,Mobile,Windows,LG,45.2,False
+1551,Tablet,Windows,Samsung,21.0,False
+1552,Tablet,Linux,Sony,16.9,True
+1553,Tablet,Android,HP,11.2,False
+1554,Mobile,Windows,Samsung,20.3,False
+1555,Mobile,macOS,Samsung,20.1,False
+1556,Laptop,Linux,LG,32.4,False
+1557,Smart TV,macOS,LG,14.8,False
+1558,Smart TV,Windows,LG,32.7,True
+1559,Mobile,macOS,Sony,56.6,True
+1560,Laptop,Windows,Samsung,45.9,True
+1561,Laptop,Linux,Apple,52.8,True
+1562,Tablet,iOS,LG,33.5,False
+1563,Laptop,iOS,Dell,57.6,True
+1564,Smart TV,macOS,Sony,23.4,False
+1565,Tablet,Android,Dell,24.4,True
+1566,Laptop,Linux,Samsung,14.7,True
+1567,Smart TV,iOS,Sony,11.3,False
+1568,Smart TV,Android,Sony,39.5,False
+1569,Tablet,macOS,Apple,34.4,False
+1570,Smart TV,Android,Dell,34.6,True
+1571,Mobile,iOS,Dell,29.9,True
+1572,Mobile,Linux,Apple,49.3,False
+1573,Mobile,Linux,Apple,50.4,True
+1574,Laptop,macOS,Samsung,25.2,True
+1575,Tablet,Android,LG,17.4,True
+1576,Smart TV,iOS,HP,21.9,False
+1577,Tablet,Android,Samsung,52.4,False
+1578,Mobile,iOS,LG,9.9,False
+1579,Tablet,macOS,HP,61.5,True
+1580,Mobile,iOS,Apple,58.9,False
+1581,Laptop,Android,LG,7.6,False
+1582,Smart TV,Windows,Dell,38.3,True
+1583,Smart TV,iOS,HP,6.1,False
+1584,Smart TV,Android,Dell,39.7,True
+1585,Mobile,Windows,LG,12.9,False
+1586,Tablet,macOS,LG,40.7,False
+1587,Mobile,Android,Apple,31.4,False
+1588,Smart TV,Android,LG,40.7,False
+1589,Smart TV,Linux,Dell,23.9,False
+1590,Mobile,iOS,LG,26.9,False
+1591,Tablet,Linux,Apple,22.8,True
+1592,Smart TV,macOS,LG,31.9,False
+1593,Smart TV,macOS,LG,25.0,True
+1594,Smart TV,Android,Samsung,22.0,True
+1595,Mobile,Android,LG,16.8,False
+1596,Mobile,Android,HP,53.5,True
+1597,Laptop,macOS,Samsung,52.8,False
+1598,Mobile,macOS,LG,42.1,True
+1599,Tablet,Linux,Sony,36.0,False
+1600,Tablet,Android,Sony,5.8,False
+1601,Mobile,Android,LG,9.3,False
+1602,Tablet,macOS,HP,28.1,False
+1603,Mobile,macOS,Samsung,22.1,False
+1604,Smart TV,Linux,Samsung,27.7,False
+1605,Smart TV,Linux,Samsung,55.5,False
+1606,Laptop,Android,Samsung,41.6,True
+1607,Tablet,macOS,Apple,61.5,False
+1608,Laptop,iOS,Samsung,55.1,False
+1609,Laptop,Android,Sony,52.6,True
+1610,Mobile,Android,Sony,46.8,False
+1611,Mobile,macOS,Apple,47.2,False
+1612,Smart TV,Linux,Apple,35.7,False
+1613,Smart TV,Linux,Dell,58.4,False
+1614,Mobile,Windows,Sony,39.1,False
+1615,Smart TV,Linux,Dell,5.0,True
+1616,Tablet,Windows,Apple,31.4,False
+1617,Smart TV,macOS,HP,63.6,False
+1618,Laptop,Android,Sony,48.8,True
+1619,Mobile,Windows,Sony,33.9,False
+1620,Smart TV,Android,Dell,23.8,False
+1621,Tablet,macOS,Dell,63.1,False
+1622,Mobile,Android,Apple,63.6,True
+1623,Tablet,iOS,Apple,13.7,False
+1624,Mobile,Linux,LG,55.6,False
+1625,Smart TV,Windows,HP,32.6,False
+1626,Smart TV,macOS,Samsung,31.9,False
+1627,Smart TV,Android,LG,33.1,False
+1628,Mobile,iOS,Sony,44.6,False
+1629,Tablet,iOS,HP,17.2,True
+1630,Tablet,Windows,HP,44.5,False
+1631,Tablet,macOS,HP,62.9,True
+1632,Smart TV,Linux,LG,12.3,False
+1633,Tablet,macOS,Samsung,11.8,True
+1634,Laptop,Linux,Sony,34.6,True
+1635,Laptop,Linux,Apple,57.0,False
+1636,Smart TV,macOS,LG,55.8,True
+1637,Laptop,iOS,Apple,38.6,True
+1638,Smart TV,Android,Samsung,40.5,False
+1639,Tablet,macOS,Dell,34.9,True
+1640,Tablet,iOS,Apple,60.3,True
+1641,Mobile,Android,LG,5.2,False
+1642,Laptop,Android,Samsung,45.8,True
+1643,Laptop,Android,Sony,10.1,False
+1644,Smart TV,Linux,LG,61.4,True
+1645,Tablet,Windows,Samsung,30.4,True
+1646,Smart TV,Linux,Dell,24.7,False
+1647,Mobile,macOS,Samsung,40.4,False
+1648,Mobile,Linux,HP,44.1,False
+1649,Laptop,macOS,Sony,44.1,False
+1650,Tablet,Linux,Apple,56.9,False
+1651,Smart TV,Windows,HP,44.9,True
+1652,Tablet,macOS,Samsung,64.7,False
+1653,Smart TV,Android,Dell,56.8,False
+1654,Laptop,Linux,HP,42.1,True
+1655,Tablet,Windows,Samsung,28.4,True
+1656,Mobile,Android,LG,30.4,False
+1657,Tablet,iOS,Sony,42.7,False
+1658,Laptop,macOS,Sony,14.1,True
+1659,Mobile,Linux,HP,54.5,False
+1660,Mobile,Linux,HP,32.1,True
+1661,Smart TV,Windows,Apple,27.4,True
+1662,Smart TV,macOS,Apple,13.8,False
+1663,Smart TV,iOS,HP,15.2,True
+1664,Tablet,macOS,Sony,13.2,False
+1665,Laptop,iOS,LG,20.1,False
+1666,Smart TV,iOS,Samsung,55.6,False
+1667,Smart TV,iOS,Apple,25.9,True
+1668,Tablet,Windows,LG,64.8,False
+1669,Laptop,iOS,Sony,57.8,True
+1670,Mobile,macOS,HP,23.6,False
+1671,Laptop,Linux,LG,44.1,False
+1672,Laptop,Linux,Sony,62.8,True
+1673,Smart TV,Linux,Apple,50.3,False
+1674,Tablet,Linux,Apple,5.1,False
+1675,Smart TV,iOS,Apple,23.3,True
+1676,Tablet,Android,Sony,22.5,False
+1677,Mobile,macOS,Samsung,49.6,True
+1678,Smart TV,iOS,Dell,63.2,True
+1679,Mobile,macOS,Apple,5.6,False
+1680,Laptop,Android,LG,26.5,True
+1681,Smart TV,Android,Samsung,18.8,True
+1682,Tablet,iOS,Samsung,16.5,True
+1683,Smart TV,macOS,Samsung,56.2,False
+1684,Mobile,macOS,Sony,47.1,True
+1685,Tablet,Windows,Sony,8.1,False
+1686,Smart TV,Linux,Apple,22.0,True
+1687,Laptop,iOS,Apple,35.7,True
+1688,Mobile,Linux,Sony,12.4,False
+1689,Laptop,macOS,Apple,17.6,False
+1690,Smart TV,Windows,HP,6.2,False
+1691,Tablet,Android,Apple,35.9,False
+1692,Smart TV,iOS,LG,52.2,False
+1693,Smart TV,Linux,Sony,55.5,False
+1694,Smart TV,macOS,Dell,30.9,True
+1695,Smart TV,Windows,Apple,64.1,True
+1696,Smart TV,Linux,Samsung,37.1,False
+1697,Laptop,macOS,Samsung,62.5,False
+1698,Smart TV,Android,Samsung,30.8,True
+1699,Laptop,Android,Apple,8.1,True
+1700,Laptop,Linux,Dell,42.0,True
+1701,Tablet,Android,Sony,58.9,False
+1702,Smart TV,Android,Apple,53.1,False
+1703,Tablet,iOS,Dell,43.6,False
+1704,Smart TV,Android,HP,59.7,True
+1705,Mobile,Linux,Samsung,53.9,False
+1706,Laptop,Linux,Sony,13.2,True
+1707,Tablet,Windows,Dell,48.2,False
+1708,Smart TV,Windows,Samsung,29.5,True
+1709,Tablet,macOS,HP,51.2,True
+1710,Laptop,Android,HP,35.6,False
+1711,Smart TV,Windows,LG,20.0,True
+1712,Smart TV,Android,Dell,40.6,True
+1713,Mobile,Windows,Apple,38.6,True
+1714,Smart TV,iOS,Sony,14.0,True
+1715,Tablet,Android,LG,10.7,True
+1716,Smart TV,Windows,Dell,16.9,True
+1717,Laptop,macOS,Sony,38.2,False
+1718,Mobile,Android,Samsung,15.9,False
+1719,Mobile,Android,HP,12.5,True
+1720,Smart TV,iOS,Sony,58.0,True
+1721,Smart TV,iOS,Samsung,32.4,True
+1722,Mobile,iOS,LG,32.0,True
+1723,Tablet,Linux,Dell,56.1,False
+1724,Smart TV,Windows,HP,48.1,False
+1725,Laptop,Linux,Samsung,37.3,True
+1726,Mobile,Linux,Samsung,43.0,False
+1727,Laptop,Linux,HP,24.7,True
+1728,Mobile,Windows,Sony,43.3,True
+1729,Tablet,Android,Apple,34.4,True
+1730,Tablet,macOS,Samsung,53.5,True
+1731,Mobile,Android,HP,36.0,True
+1732,Tablet,Windows,LG,60.3,True
+1733,Laptop,macOS,HP,45.0,True
+1734,Laptop,Windows,Apple,9.8,True
+1735,Tablet,Android,Samsung,45.8,False
+1736,Mobile,Windows,Dell,38.2,False
+1737,Tablet,iOS,LG,41.3,False
+1738,Smart TV,Linux,HP,32.9,False
+1739,Smart TV,Windows,Dell,54.4,True
+1740,Laptop,iOS,Dell,41.8,False
+1741,Laptop,iOS,Samsung,21.1,True
+1742,Mobile,Linux,Samsung,15.8,False
+1743,Smart TV,Windows,HP,14.1,True
+1744,Smart TV,Android,Apple,10.8,True
+1745,Tablet,Windows,Samsung,53.3,True
+1746,Laptop,macOS,Apple,63.6,True
+1747,Tablet,iOS,Sony,62.5,False
+1748,Tablet,Android,Dell,41.9,True
+1749,Laptop,iOS,Dell,36.2,False
+1750,Mobile,Android,Sony,19.7,False
+1751,Mobile,Linux,Sony,22.4,True
+1752,Tablet,Android,Sony,56.3,True
+1753,Smart TV,Linux,Sony,16.0,True
+1754,Mobile,Windows,Sony,34.5,True
+1755,Laptop,Android,Samsung,18.0,True
+1756,Tablet,Windows,HP,26.7,True
+1757,Tablet,Linux,Samsung,21.2,True
+1758,Tablet,Android,LG,27.2,False
+1759,Tablet,Windows,Apple,38.4,True
+1760,Laptop,macOS,Samsung,43.1,False
+1761,Smart TV,Android,Sony,36.1,True
+1762,Mobile,iOS,Sony,53.3,False
+1763,Tablet,Windows,Apple,22.4,True
+1764,Tablet,macOS,Dell,63.7,False
+1765,Tablet,Windows,Apple,46.8,True
+1766,Laptop,Android,Samsung,33.3,False
+1767,Smart TV,Android,Dell,47.8,False
+1768,Tablet,Android,Samsung,52.1,True
+1769,Smart TV,macOS,LG,63.8,False
+1770,Laptop,Linux,HP,17.0,True
+1771,Tablet,Linux,Apple,59.6,True
+1772,Mobile,Linux,LG,6.4,True
+1773,Smart TV,macOS,Apple,8.9,False
+1774,Smart TV,iOS,Sony,6.0,True
+1775,Tablet,iOS,HP,11.5,True
+1776,Mobile,macOS,LG,18.0,True
+1777,Laptop,iOS,LG,42.8,False
+1778,Tablet,macOS,LG,60.7,False
+1779,Smart TV,macOS,Samsung,16.5,True
+1780,Tablet,iOS,Sony,21.3,False
+1781,Smart TV,iOS,Samsung,49.9,True
+1782,Laptop,Android,LG,36.6,True
+1783,Tablet,iOS,Dell,29.2,True
+1784,Mobile,macOS,Apple,39.3,True
+1785,Mobile,Android,HP,19.6,True
+1786,Laptop,Linux,LG,32.1,True
+1787,Tablet,Windows,Sony,62.5,False
+1788,Laptop,Linux,Samsung,10.4,False
+1789,Smart TV,Android,LG,7.3,False
+1790,Mobile,macOS,Dell,43.4,False
+1791,Tablet,Windows,Sony,59.2,False
+1792,Mobile,macOS,Sony,50.8,True
+1793,Laptop,iOS,Sony,63.1,False
+1794,Smart TV,Windows,LG,41.5,True
+1795,Mobile,macOS,HP,56.3,True
+1796,Smart TV,Linux,Sony,24.5,True
+1797,Laptop,Linux,HP,44.7,False
+1798,Laptop,Linux,Sony,64.8,True
+1799,Tablet,Windows,Dell,53.6,False
+1800,Tablet,macOS,Sony,33.7,True
+1801,Laptop,iOS,Samsung,33.8,False
+1802,Smart TV,Linux,Sony,65.0,True
+1803,Tablet,macOS,HP,34.5,True
+1804,Mobile,Android,Dell,55.3,False
+1805,Laptop,macOS,Samsung,51.8,True
+1806,Laptop,Windows,Sony,61.6,True
+1807,Tablet,Linux,Dell,60.8,False
+1808,Laptop,iOS,Sony,7.5,True
+1809,Mobile,Windows,Dell,56.2,True
+1810,Tablet,iOS,Apple,19.0,False
+1811,Tablet,macOS,Sony,6.9,True
+1812,Tablet,iOS,Apple,20.8,False
+1813,Smart TV,Linux,HP,37.5,True
+1814,Mobile,macOS,Samsung,23.3,False
+1815,Laptop,Android,Apple,32.3,True
+1816,Mobile,Windows,Apple,34.7,True
+1817,Laptop,Android,Samsung,6.6,True
+1818,Mobile,Windows,HP,45.7,True
+1819,Laptop,Windows,Sony,54.7,False
+1820,Mobile,macOS,HP,18.4,True
+1821,Mobile,macOS,HP,36.6,True
+1822,Smart TV,iOS,LG,61.1,True
+1823,Mobile,Android,Samsung,62.7,False
+1824,Tablet,macOS,Samsung,37.3,False
+1825,Tablet,Windows,Samsung,32.0,False
+1826,Tablet,Windows,Dell,41.3,False
+1827,Smart TV,Linux,Sony,42.9,False
+1828,Tablet,Linux,Samsung,11.5,False
+1829,Laptop,macOS,Apple,29.5,False
+1830,Mobile,Android,Dell,14.2,True
+1831,Smart TV,Linux,Samsung,45.3,False
+1832,Mobile,macOS,Apple,12.9,True
+1833,Mobile,macOS,Apple,59.1,True
+1834,Tablet,Linux,Dell,36.7,False
+1835,Mobile,Linux,HP,28.8,False
+1836,Tablet,Windows,Sony,27.6,True
+1837,Tablet,Linux,Samsung,23.9,True
+1838,Smart TV,iOS,Sony,28.8,True
+1839,Laptop,Linux,LG,30.3,True
+1840,Tablet,Android,Apple,42.9,False
+1841,Tablet,macOS,LG,20.9,True
+1842,Tablet,Android,Sony,15.8,False
+1843,Smart TV,iOS,Sony,44.8,True
+1844,Laptop,Windows,Dell,37.1,False
+1845,Smart TV,Linux,Sony,6.5,False
+1846,Mobile,Windows,Sony,45.8,True
+1847,Smart TV,macOS,HP,42.9,False
+1848,Mobile,Android,Samsung,13.7,False
+1849,Laptop,Android,LG,6.5,False
+1850,Laptop,iOS,Dell,8.4,True
+1851,Laptop,iOS,Dell,31.2,False
+1852,Laptop,Windows,LG,6.9,True
+1853,Tablet,Linux,HP,53.2,False
+1854,Smart TV,macOS,Apple,34.4,True
+1855,Smart TV,Linux,Apple,57.9,False
+1856,Laptop,iOS,HP,32.0,False
+1857,Tablet,Android,Apple,10.6,False
+1858,Mobile,Android,Sony,20.5,False
+1859,Mobile,macOS,Dell,52.6,False
+1860,Smart TV,macOS,Dell,35.7,True
+1861,Mobile,Android,Apple,15.2,True
+1862,Smart TV,Android,Dell,24.2,False
+1863,Tablet,iOS,Apple,15.4,True
+1864,Mobile,macOS,HP,37.7,False
+1865,Mobile,Windows,HP,61.6,True
+1866,Tablet,Linux,Apple,63.3,False
+1867,Smart TV,iOS,Dell,64.3,False
+1868,Laptop,Android,Samsung,6.8,False
+1869,Tablet,Linux,Sony,51.5,True
+1870,Mobile,Linux,Samsung,51.4,True
+1871,Laptop,macOS,LG,47.0,True
+1872,Mobile,iOS,HP,32.7,False
+1873,Mobile,Android,Apple,25.4,True
+1874,Tablet,iOS,Sony,54.3,True
+1875,Laptop,Windows,Apple,60.5,True
+1876,Tablet,Linux,Sony,55.6,True
+1877,Smart TV,Windows,Samsung,35.2,True
+1878,Mobile,Linux,Samsung,15.6,True
+1879,Laptop,Windows,Dell,29.2,False
+1880,Tablet,macOS,Sony,49.2,True
+1881,Smart TV,Windows,Sony,44.3,False
+1882,Tablet,Windows,Dell,48.5,False
+1883,Laptop,iOS,Dell,39.1,True
+1884,Mobile,macOS,Sony,42.9,True
+1885,Smart TV,Windows,Dell,16.5,True
+1886,Mobile,macOS,Dell,37.5,True
+1887,Smart TV,Linux,Dell,34.3,True
+1888,Tablet,macOS,HP,51.1,False
+1889,Tablet,Linux,HP,49.8,False
+1890,Smart TV,iOS,Samsung,32.8,False
+1891,Smart TV,iOS,LG,39.1,False
+1892,Smart TV,iOS,LG,44.0,False
+1893,Laptop,Android,HP,18.0,True
+1894,Laptop,macOS,HP,40.6,True
+1895,Tablet,Linux,HP,62.6,True
+1896,Smart TV,iOS,LG,23.5,True
+1897,Laptop,Linux,Dell,38.4,True
+1898,Mobile,Linux,HP,23.4,False
+1899,Laptop,Android,HP,5.0,True
+1900,Smart TV,iOS,Apple,49.6,True
+1901,Smart TV,Windows,LG,52.4,True
+1902,Smart TV,Android,Sony,20.5,False
+1903,Smart TV,Windows,Samsung,54.2,False
+1904,Laptop,Linux,Dell,26.8,True
+1905,Mobile,macOS,LG,11.1,True
+1906,Mobile,iOS,Apple,8.5,False
+1907,Tablet,Windows,Dell,32.4,True
+1908,Mobile,macOS,LG,61.7,True
+1909,Mobile,Android,Sony,45.9,False
+1910,Smart TV,macOS,LG,34.9,False
+1911,Smart TV,Android,Samsung,48.1,False
+1912,Mobile,Linux,Samsung,31.1,True
+1913,Smart TV,Windows,Apple,57.5,False
+1914,Laptop,Android,Apple,44.2,True
+1915,Tablet,Linux,Samsung,10.2,True
+1916,Mobile,Linux,Sony,56.0,False
+1917,Smart TV,Linux,HP,65.0,True
+1918,Laptop,iOS,Dell,41.1,True
+1919,Tablet,Linux,Dell,55.3,False
+1920,Mobile,iOS,Dell,24.7,True
+1921,Mobile,iOS,Sony,6.8,True
+1922,Smart TV,macOS,Samsung,27.7,False
+1923,Tablet,Linux,Dell,19.7,True
+1924,Smart TV,Linux,Samsung,39.8,True
+1925,Smart TV,Android,Apple,21.9,False
+1926,Smart TV,Android,Dell,27.0,True
+1927,Laptop,Android,HP,26.1,True
+1928,Mobile,macOS,HP,23.0,True
+1929,Tablet,iOS,Apple,32.1,True
+1930,Smart TV,iOS,HP,42.0,False
+1931,Tablet,iOS,Apple,6.5,False
+1932,Smart TV,Windows,Samsung,56.8,False
+1933,Mobile,Windows,Dell,37.3,True
+1934,Laptop,Windows,Sony,13.3,False
+1935,Tablet,Windows,Samsung,36.7,False
+1936,Mobile,Android,HP,42.0,True
+1937,Tablet,macOS,Samsung,7.8,True
+1938,Smart TV,Windows,Apple,46.2,False
+1939,Smart TV,Windows,Dell,15.1,True
+1940,Laptop,Windows,HP,23.0,True
+1941,Laptop,macOS,Apple,21.0,False
+1942,Tablet,macOS,HP,44.3,False
+1943,Smart TV,macOS,Apple,51.9,True
+1944,Smart TV,macOS,Apple,35.2,False
+1945,Tablet,Linux,Sony,61.6,False
+1946,Tablet,Windows,Samsung,57.2,False
+1947,Tablet,Android,LG,56.9,True
+1948,Tablet,Android,Sony,11.6,True
+1949,Mobile,Windows,Sony,27.3,False
+1950,Smart TV,Android,Apple,9.5,True
+1951,Tablet,iOS,Sony,55.7,False
+1952,Mobile,macOS,Apple,23.7,True
+1953,Smart TV,Linux,HP,8.4,True
+1954,Smart TV,macOS,Sony,14.2,False
+1955,Laptop,Windows,Apple,48.0,False
+1956,Tablet,iOS,HP,29.4,True
+1957,Tablet,iOS,HP,7.1,False
+1958,Tablet,Linux,Sony,18.5,False
+1959,Mobile,Windows,Sony,50.9,True
+1960,Smart TV,Windows,Samsung,21.0,True
+1961,Tablet,Windows,Dell,42.7,True
+1962,Mobile,macOS,Samsung,58.9,True
+1963,Mobile,Linux,Apple,36.4,True
+1964,Smart TV,Android,LG,57.8,True
+1965,Tablet,macOS,HP,21.6,False
+1966,Tablet,Linux,Sony,26.4,False
+1967,Mobile,iOS,LG,26.3,False
+1968,Laptop,Linux,HP,54.9,False
+1969,Laptop,Windows,Samsung,23.2,False
+1970,Mobile,macOS,LG,51.9,True
+1971,Laptop,Android,Samsung,48.0,True
+1972,Mobile,iOS,LG,38.0,False
+1973,Laptop,Linux,Apple,8.6,False
+1974,Mobile,iOS,Dell,60.9,False
+1975,Mobile,Android,LG,45.8,False
+1976,Laptop,iOS,LG,45.2,False
+1977,Smart TV,Windows,LG,33.9,False
+1978,Smart TV,Android,Samsung,61.8,False
+1979,Tablet,iOS,Samsung,52.5,True
+1980,Laptop,Android,HP,50.9,False
+1981,Laptop,Android,Apple,32.2,True
+1982,Laptop,iOS,Sony,57.1,False
+1983,Mobile,Windows,Dell,7.9,False
+1984,Smart TV,Android,Dell,32.4,False
+1985,Tablet,Linux,Apple,40.4,True
+1986,Smart TV,Android,Apple,22.2,True
+1987,Tablet,Linux,Dell,8.3,True
+1988,Laptop,iOS,LG,29.8,True
+1989,Mobile,macOS,HP,34.4,True
+1990,Smart TV,Android,LG,35.5,False
+1991,Laptop,Linux,Sony,46.4,False
+1992,Mobile,macOS,Samsung,29.3,True
+1993,Mobile,iOS,HP,59.4,True
+1994,Laptop,Windows,Sony,12.8,False
+1995,Tablet,iOS,Dell,39.7,True
+1996,Smart TV,Windows,Apple,7.4,False
+1997,Laptop,Linux,HP,48.6,False
+1998,Smart TV,Linux,HP,21.7,False
+1999,Smart TV,Windows,Sony,28.5,False
+2000,Mobile,macOS,Sony,29.8,True
+2001,Smart TV,iOS,LG,33.4,True
+2002,Laptop,iOS,Apple,37.7,False
+2003,Tablet,Windows,Sony,12.1,True
+2004,Smart TV,macOS,Apple,23.5,False
+2005,Mobile,iOS,HP,19.8,True
+2006,Laptop,Android,LG,24.7,True
+2007,Smart TV,Windows,Samsung,64.5,False
+2008,Smart TV,Windows,Sony,63.7,True
+2009,Tablet,Linux,Apple,21.0,True
+2010,Smart TV,macOS,LG,21.9,True
+2011,Mobile,iOS,Apple,36.6,False
+2012,Mobile,iOS,Sony,60.0,False
+2013,Laptop,Linux,Dell,52.8,True
+2014,Tablet,Windows,Dell,56.3,True
+2015,Laptop,macOS,LG,5.8,True
+2016,Laptop,Windows,HP,62.8,False
+2017,Laptop,iOS,HP,10.4,False
+2018,Mobile,Windows,Samsung,19.3,False
+2019,Laptop,Windows,Samsung,11.1,True
+2020,Mobile,macOS,Dell,42.8,True
+2021,Mobile,Android,Samsung,55.6,True
+2022,Mobile,macOS,Samsung,36.1,False
+2023,Tablet,Linux,Dell,52.6,False
+2024,Laptop,Android,Apple,47.4,False
+2025,Mobile,Linux,LG,16.3,True
+2026,Smart TV,macOS,Samsung,35.6,True
+2027,Laptop,Linux,Sony,48.4,True
+2028,Tablet,Windows,Sony,14.8,False
+2029,Smart TV,macOS,Samsung,31.4,True
+2030,Tablet,Linux,LG,12.2,True
+2031,Mobile,Android,Dell,39.7,True
+2032,Tablet,Android,LG,29.5,False
+2033,Mobile,iOS,HP,49.3,False
+2034,Laptop,Android,LG,54.5,True
+2035,Smart TV,macOS,Sony,5.7,True
+2036,Tablet,Windows,Sony,45.2,True
+2037,Laptop,Windows,Sony,56.8,False
+2038,Mobile,Android,Dell,22.5,True
+2039,Laptop,Windows,Sony,31.8,True
+2040,Laptop,Android,HP,38.1,False
+2041,Laptop,Linux,Samsung,27.8,False
+2042,Mobile,macOS,LG,56.0,False
+2043,Mobile,Windows,Dell,48.9,False
+2044,Smart TV,Linux,Sony,29.8,True
+2045,Laptop,iOS,Apple,43.9,False
+2046,Mobile,Android,HP,42.3,True
+2047,Mobile,Linux,Dell,11.8,False
+2048,Smart TV,Linux,Dell,11.5,False
+2049,Mobile,Android,Sony,47.6,False
+2050,Laptop,macOS,Dell,51.6,False
+2051,Smart TV,Linux,Samsung,19.7,False
+2052,Smart TV,iOS,HP,16.2,True
+2053,Smart TV,Linux,LG,18.6,False
+2054,Mobile,Windows,LG,14.3,True
+2055,Smart TV,Linux,LG,58.8,False
+2056,Smart TV,iOS,LG,44.0,True
+2057,Laptop,Windows,HP,63.1,False
+2058,Smart TV,Android,Dell,55.6,True
+2059,Smart TV,iOS,Dell,46.4,False
+2060,Mobile,Linux,Sony,16.2,True
+2061,Smart TV,Windows,LG,41.6,False
+2062,Smart TV,macOS,Samsung,43.7,True
+2063,Mobile,Windows,Apple,9.3,True
+2064,Smart TV,Android,Apple,7.3,False
+2065,Smart TV,Windows,Sony,32.9,True
+2066,Laptop,Windows,LG,25.2,False
+2067,Mobile,macOS,Sony,34.4,False
+2068,Mobile,Android,HP,52.6,False
+2069,Mobile,Windows,Dell,7.5,False
+2070,Smart TV,iOS,LG,59.8,False
+2071,Smart TV,Android,Apple,60.8,True
+2072,Smart TV,Windows,Dell,43.4,True
+2073,Smart TV,Android,Samsung,36.8,True
+2074,Tablet,iOS,Samsung,49.2,True
+2075,Mobile,macOS,Sony,45.1,False
+2076,Mobile,Linux,HP,5.2,False
+2077,Smart TV,iOS,Apple,34.3,True
+2078,Mobile,Windows,HP,55.9,True
+2079,Mobile,iOS,Apple,63.6,False
+2080,Smart TV,iOS,Dell,11.3,True
+2081,Tablet,Windows,HP,46.7,False
+2082,Laptop,iOS,Samsung,32.6,False
+2083,Smart TV,Linux,HP,12.2,False
+2084,Smart TV,Android,HP,42.9,True
+2085,Tablet,Windows,Dell,61.6,False
+2086,Tablet,Android,Dell,29.2,False
+2087,Mobile,macOS,LG,8.0,False
+2088,Smart TV,iOS,Sony,37.3,True
+2089,Tablet,Windows,HP,43.2,True
+2090,Tablet,Linux,Dell,11.3,False
+2091,Mobile,Linux,LG,26.4,False
+2092,Tablet,Android,LG,25.0,False
+2093,Laptop,Android,Samsung,54.0,True
+2094,Mobile,Windows,Dell,32.4,True
+2095,Laptop,Windows,Dell,9.3,True
+2096,Tablet,iOS,Sony,35.7,True
+2097,Smart TV,macOS,HP,12.6,False
+2098,Tablet,macOS,LG,56.7,False
+2099,Tablet,Linux,HP,43.0,False
+2100,Tablet,Windows,Sony,20.6,False
+2101,Mobile,Linux,LG,7.2,True
+2102,Smart TV,iOS,Samsung,48.4,False
+2103,Smart TV,Android,Samsung,21.9,True
+2104,Mobile,iOS,Sony,34.0,False
+2105,Smart TV,macOS,Sony,28.1,False
+2106,Tablet,Windows,HP,5.7,True
+2107,Laptop,iOS,Dell,56.0,True
+2108,Laptop,Windows,Dell,21.8,False
+2109,Mobile,macOS,Apple,50.9,False
+2110,Laptop,macOS,LG,12.4,True
+2111,Mobile,macOS,Dell,41.3,False
+2112,Smart TV,Android,HP,41.9,False
+2113,Smart TV,Windows,Apple,27.7,True
+2114,Tablet,iOS,Dell,8.3,True
+2115,Mobile,iOS,Apple,13.0,True
+2116,Tablet,Windows,Dell,50.9,True
+2117,Laptop,iOS,Sony,46.4,True
+2118,Laptop,macOS,Samsung,11.1,True
+2119,Laptop,Linux,Dell,58.4,True
+2120,Smart TV,Linux,Dell,7.2,True
+2121,Tablet,Linux,LG,35.4,False
+2122,Smart TV,Linux,Samsung,11.2,False
+2123,Mobile,macOS,Sony,29.6,False
+2124,Tablet,iOS,LG,32.7,True
+2125,Laptop,Linux,Apple,14.6,False
+2126,Laptop,macOS,Sony,31.0,True
+2127,Laptop,Windows,Dell,20.2,False
+2128,Laptop,Linux,Dell,22.1,False
+2129,Tablet,Windows,Dell,5.9,False
+2130,Smart TV,macOS,Samsung,23.6,True
+2131,Laptop,Windows,Sony,49.4,True
+2132,Smart TV,Android,Dell,58.4,False
+2133,Mobile,iOS,Samsung,38.7,True
+2134,Smart TV,iOS,Samsung,46.6,False
+2135,Mobile,Android,Dell,60.4,True
+2136,Tablet,Android,Apple,18.4,False
+2137,Tablet,Windows,Sony,55.0,True
+2138,Mobile,Android,LG,6.4,False
+2139,Laptop,Windows,Dell,43.6,False
+2140,Mobile,macOS,Samsung,21.1,False
+2141,Smart TV,macOS,LG,26.9,False
+2142,Mobile,Linux,Samsung,8.0,True
+2143,Smart TV,macOS,Apple,25.7,False
+2144,Mobile,iOS,HP,40.8,False
+2145,Tablet,Android,Apple,47.9,False
+2146,Tablet,Android,Dell,10.5,True
+2147,Smart TV,macOS,HP,43.3,False
+2148,Tablet,iOS,LG,56.6,False
+2149,Smart TV,macOS,Samsung,28.1,True
+2150,Tablet,Linux,HP,15.8,False
+2151,Smart TV,Windows,LG,62.5,True
+2152,Laptop,Android,LG,32.1,False
+2153,Smart TV,macOS,HP,51.5,True
+2154,Mobile,Linux,Dell,56.0,True
+2155,Laptop,macOS,HP,44.8,False
+2156,Tablet,Windows,Sony,5.4,False
+2157,Smart TV,macOS,Sony,37.1,False
+2158,Laptop,Linux,HP,38.8,True
+2159,Smart TV,Linux,Dell,19.7,True
+2160,Tablet,iOS,Samsung,21.5,False
+2161,Tablet,macOS,Samsung,48.6,True
+2162,Tablet,Android,Dell,45.4,True
+2163,Mobile,Windows,Samsung,64.7,True
+2164,Tablet,Linux,Samsung,56.9,False
+2165,Smart TV,Linux,Sony,39.7,False
+2166,Mobile,Android,Samsung,31.6,False
+2167,Smart TV,iOS,Samsung,8.8,True
+2168,Mobile,Linux,Sony,52.8,False
+2169,Laptop,macOS,LG,12.1,False
+2170,Tablet,Android,HP,13.9,True
+2171,Mobile,Linux,HP,48.6,True
+2172,Mobile,Android,Sony,35.1,True
+2173,Tablet,macOS,Sony,22.7,False
+2174,Tablet,iOS,Sony,51.9,False
+2175,Mobile,Android,Samsung,53.6,True
+2176,Smart TV,iOS,Sony,50.3,True
+2177,Mobile,iOS,HP,25.9,True
+2178,Tablet,Android,Apple,11.6,True
+2179,Smart TV,macOS,Apple,38.2,True
+2180,Laptop,Linux,Dell,42.4,False
+2181,Mobile,iOS,Sony,15.4,True
+2182,Smart TV,macOS,Samsung,15.1,False
+2183,Tablet,macOS,Samsung,46.2,True
+2184,Mobile,macOS,HP,41.5,True
+2185,Laptop,Linux,Sony,50.0,True
+2186,Laptop,iOS,Sony,40.4,True
+2187,Laptop,Android,Dell,43.5,True
+2188,Tablet,macOS,Apple,7.5,True
+2189,Laptop,Linux,Apple,34.6,False
+2190,Laptop,Windows,HP,47.4,False
+2191,Smart TV,macOS,Apple,57.6,True
+2192,Mobile,Android,HP,37.9,False
+2193,Tablet,Windows,Dell,42.6,False
+2194,Smart TV,Linux,LG,53.4,False
+2195,Mobile,Android,Dell,14.6,True
+2196,Smart TV,macOS,Apple,22.3,True
+2197,Laptop,iOS,Samsung,21.8,True
+2198,Laptop,iOS,Sony,51.0,False
+2199,Mobile,iOS,Dell,38.3,False
+2200,Smart TV,Windows,LG,20.5,True
+2201,Laptop,iOS,LG,31.8,True
+2202,Smart TV,macOS,Dell,6.0,False
+2203,Smart TV,macOS,Dell,7.6,False
+2204,Smart TV,Android,HP,46.8,True
+2205,Mobile,Linux,Dell,12.0,True
+2206,Mobile,Android,Sony,64.9,False
+2207,Tablet,iOS,Apple,51.9,True
+2208,Mobile,macOS,Dell,51.1,True
+2209,Mobile,Windows,HP,31.1,True
+2210,Mobile,macOS,HP,31.5,False
+2211,Laptop,Windows,Sony,47.3,True
+2212,Smart TV,Linux,Apple,28.4,True
+2213,Tablet,Linux,Sony,19.0,False
+2214,Laptop,Windows,LG,55.4,True
+2215,Tablet,Linux,HP,56.5,False
+2216,Tablet,Windows,Samsung,45.6,True
+2217,Laptop,Android,Sony,24.7,True
+2218,Smart TV,Linux,Sony,5.4,True
+2219,Tablet,Android,LG,47.7,True
+2220,Laptop,iOS,Apple,31.1,False
+2221,Tablet,Windows,LG,45.6,True
+2222,Tablet,Linux,Dell,23.8,False
+2223,Mobile,macOS,Apple,63.8,True
+2224,Laptop,iOS,Apple,12.5,False
+2225,Laptop,iOS,Sony,28.1,False
+2226,Laptop,macOS,Sony,34.2,False
+2227,Mobile,iOS,Dell,48.2,True
+2228,Laptop,Windows,LG,47.6,True
+2229,Smart TV,macOS,HP,57.9,False
+2230,Tablet,iOS,Apple,50.0,False
+2231,Laptop,iOS,LG,5.4,True
+2232,Tablet,Android,Samsung,25.5,True
+2233,Smart TV,iOS,Sony,35.6,True
+2234,Smart TV,Windows,Samsung,9.2,False
+2235,Mobile,iOS,Samsung,45.3,False
+2236,Laptop,macOS,Samsung,16.7,False
+2237,Tablet,macOS,LG,56.2,False
+2238,Mobile,macOS,Dell,7.7,False
+2239,Laptop,Android,Dell,23.6,False
+2240,Tablet,Linux,Dell,55.6,False
+2241,Mobile,Android,Samsung,63.3,True
+2242,Mobile,Android,Apple,16.0,True
+2243,Laptop,Android,Apple,29.9,True
+2244,Mobile,Windows,LG,54.4,False
+2245,Smart TV,macOS,HP,50.5,True
+2246,Mobile,macOS,Apple,21.1,False
+2247,Mobile,Linux,Dell,33.4,True
+2248,Mobile,macOS,Dell,16.3,False
+2249,Mobile,macOS,Sony,30.6,True
+2250,Tablet,macOS,Apple,6.7,True
+2251,Smart TV,iOS,LG,30.2,False
+2252,Smart TV,Windows,Sony,27.3,True
+2253,Smart TV,Linux,Apple,26.9,True
+2254,Tablet,Android,Dell,43.5,True
+2255,Laptop,iOS,Apple,56.9,False
+2256,Laptop,macOS,HP,38.2,False
+2257,Mobile,iOS,Samsung,33.2,False
+2258,Laptop,iOS,Sony,64.8,False
+2259,Smart TV,Android,Sony,42.0,False
+2260,Mobile,Windows,LG,6.4,True
+2261,Laptop,Windows,Samsung,51.8,False
+2262,Laptop,Linux,Samsung,14.8,False
+2263,Laptop,Linux,Dell,16.4,False
+2264,Tablet,Android,HP,35.7,True
+2265,Laptop,Linux,Apple,62.8,False
+2266,Mobile,Linux,HP,47.6,True
+2267,Laptop,Windows,LG,25.7,False
+2268,Smart TV,Windows,Sony,35.9,False
+2269,Laptop,Android,HP,18.7,False
+2270,Laptop,iOS,Dell,42.4,False
+2271,Laptop,Windows,LG,55.5,False
+2272,Tablet,Windows,LG,62.8,True
+2273,Laptop,macOS,HP,38.8,True
+2274,Tablet,Android,HP,18.8,False
+2275,Tablet,macOS,HP,21.6,False
+2276,Smart TV,iOS,Dell,51.2,False
+2277,Smart TV,iOS,Dell,32.5,False
+2278,Laptop,iOS,Sony,47.2,False
+2279,Tablet,Windows,Sony,51.0,True
+2280,Mobile,Linux,Samsung,40.4,True
+2281,Laptop,Android,Apple,24.6,True
+2282,Tablet,Windows,HP,41.4,True
+2283,Mobile,macOS,Samsung,24.5,True
+2284,Laptop,Windows,HP,41.7,True
+2285,Mobile,macOS,Sony,9.5,True
+2286,Smart TV,Windows,Sony,55.0,True
+2287,Mobile,macOS,Samsung,54.2,False
+2288,Tablet,Linux,Apple,9.0,False
+2289,Tablet,macOS,Dell,55.8,True
+2290,Mobile,Linux,Dell,44.3,False
+2291,Tablet,Android,Sony,25.8,True
+2292,Tablet,iOS,HP,23.4,False
+2293,Mobile,macOS,Sony,63.6,False
+2294,Smart TV,Windows,Dell,27.3,False
+2295,Smart TV,macOS,LG,5.8,True
+2296,Tablet,Android,LG,47.2,True
+2297,Tablet,Windows,Dell,16.2,False
+2298,Laptop,iOS,HP,24.2,False
+2299,Mobile,Android,HP,16.4,True
+2300,Laptop,Windows,LG,39.5,True
+2301,Smart TV,Linux,HP,16.5,True
+2302,Tablet,Android,Samsung,9.3,False
+2303,Tablet,Windows,HP,62.9,False
+2304,Mobile,Windows,Samsung,19.7,False
+2305,Mobile,Windows,Apple,10.1,True
+2306,Mobile,Windows,HP,27.7,True
+2307,Tablet,Linux,Dell,6.2,True
+2308,Laptop,iOS,HP,45.0,True
+2309,Smart TV,iOS,Apple,28.9,True
+2310,Tablet,Linux,Sony,35.9,True
+2311,Mobile,macOS,Dell,29.6,True
+2312,Tablet,iOS,Apple,22.4,False
+2313,Mobile,Linux,Dell,19.9,False
+2314,Tablet,macOS,Apple,44.9,True
+2315,Mobile,Linux,Dell,50.6,True
+2316,Tablet,macOS,HP,13.9,False
+2317,Laptop,Windows,Sony,55.4,True
+2318,Smart TV,Windows,Dell,43.4,False
+2319,Smart TV,macOS,Dell,64.0,False
+2320,Smart TV,Windows,Sony,39.3,False
+2321,Smart TV,Linux,HP,48.6,False
+2322,Tablet,iOS,HP,57.8,False
+2323,Laptop,iOS,HP,36.5,False
+2324,Mobile,Android,Sony,58.9,False
+2325,Laptop,Linux,Sony,52.0,True
+2326,Smart TV,iOS,LG,7.1,True
+2327,Tablet,Windows,Sony,28.5,True
+2328,Smart TV,Linux,Sony,31.9,False
+2329,Smart TV,Android,Samsung,16.0,False
+2330,Smart TV,Windows,Apple,26.4,True
+2331,Mobile,Windows,Dell,54.5,True
+2332,Tablet,Linux,LG,44.0,False
+2333,Mobile,Android,Dell,61.8,False
+2334,Laptop,iOS,LG,17.0,False
+2335,Smart TV,Windows,Sony,61.2,True
+2336,Mobile,iOS,Samsung,38.6,True
+2337,Mobile,Android,Apple,5.7,False
+2338,Tablet,Windows,Dell,15.9,False
+2339,Smart TV,Android,LG,28.3,True
+2340,Mobile,Linux,Dell,29.2,False
+2341,Laptop,macOS,Sony,22.2,True
+2342,Tablet,macOS,LG,37.2,False
+2343,Laptop,Android,Sony,58.5,False
+2344,Mobile,iOS,HP,52.1,True
+2345,Mobile,iOS,Sony,11.6,True
+2346,Laptop,Android,LG,39.1,True
+2347,Smart TV,iOS,LG,61.6,True
+2348,Tablet,iOS,LG,48.6,True
+2349,Mobile,macOS,Sony,61.3,False
+2350,Tablet,macOS,Samsung,58.1,False
+2351,Laptop,Windows,Samsung,47.1,False
+2352,Mobile,Linux,LG,25.9,False
+2353,Laptop,iOS,Samsung,7.1,True
+2354,Laptop,macOS,HP,27.7,False
+2355,Tablet,Linux,Apple,51.1,False
+2356,Smart TV,Windows,Dell,47.2,False
+2357,Laptop,Linux,Samsung,21.1,False
+2358,Smart TV,Windows,LG,11.2,False
+2359,Tablet,Windows,Dell,39.8,True
+2360,Tablet,Windows,Samsung,20.2,False
+2361,Smart TV,Android,LG,36.1,True
+2362,Tablet,Linux,Samsung,15.7,False
+2363,Tablet,Android,Dell,14.4,True
+2364,Tablet,macOS,Sony,37.1,False
+2365,Smart TV,iOS,Sony,47.3,True
+2366,Tablet,Android,Samsung,57.5,False
+2367,Mobile,macOS,Apple,41.7,False
+2368,Laptop,Windows,Dell,56.8,True
+2369,Tablet,Windows,Apple,42.5,False
+2370,Mobile,Linux,Sony,44.8,True
+2371,Smart TV,iOS,Dell,31.6,False
+2372,Mobile,Linux,LG,7.6,True
+2373,Mobile,macOS,Sony,36.5,True
+2374,Smart TV,Linux,LG,5.5,False
+2375,Mobile,Windows,LG,32.2,True
+2376,Tablet,macOS,Samsung,37.2,False
+2377,Smart TV,iOS,HP,19.5,True
+2378,Smart TV,Windows,LG,31.3,False
+2379,Mobile,Linux,Sony,61.4,False
+2380,Mobile,Android,LG,22.0,False
+2381,Laptop,Linux,LG,30.2,True
+2382,Laptop,Android,LG,22.0,False
+2383,Tablet,Windows,HP,49.2,False
+2384,Smart TV,iOS,Apple,47.6,True
+2385,Tablet,Linux,LG,9.9,True
+2386,Laptop,iOS,LG,18.6,False
+2387,Smart TV,macOS,Sony,37.5,False
+2388,Mobile,Linux,Dell,37.0,False
+2389,Laptop,macOS,Samsung,7.2,True
+2390,Laptop,Windows,LG,40.2,True
+2391,Tablet,iOS,Dell,20.8,False
+2392,Tablet,Linux,Sony,37.9,True
+2393,Smart TV,macOS,LG,46.3,False
+2394,Tablet,iOS,Dell,22.1,False
+2395,Mobile,iOS,Dell,15.6,False
+2396,Smart TV,Linux,Dell,9.7,True
+2397,Smart TV,iOS,Apple,36.2,False
+2398,Laptop,iOS,Dell,40.1,False
+2399,Tablet,Android,Sony,44.3,False
+2400,Tablet,iOS,HP,60.2,True
+2401,Mobile,iOS,Dell,60.5,False
+2402,Mobile,iOS,Dell,20.6,True
+2403,Mobile,macOS,Samsung,52.8,False
+2404,Smart TV,iOS,Sony,39.6,True
+2405,Laptop,Linux,HP,18.8,False
+2406,Smart TV,Windows,Sony,26.1,True
+2407,Tablet,iOS,HP,36.8,False
+2408,Laptop,iOS,Samsung,31.2,True
+2409,Laptop,Windows,LG,35.8,True
+2410,Smart TV,macOS,Samsung,14.4,True
+2411,Smart TV,iOS,HP,58.0,True
+2412,Mobile,Linux,HP,30.3,True
+2413,Mobile,iOS,Sony,32.3,True
+2414,Laptop,Linux,Sony,50.6,False
+2415,Tablet,macOS,LG,7.2,True
+2416,Laptop,iOS,Samsung,34.2,False
+2417,Smart TV,Linux,Sony,48.9,True
+2418,Laptop,macOS,Sony,18.0,True
+2419,Smart TV,macOS,Apple,61.8,True
+2420,Mobile,iOS,Sony,34.4,False
+2421,Laptop,Android,Dell,33.1,False
+2422,Laptop,macOS,Samsung,16.3,False
+2423,Tablet,Windows,Apple,17.1,False
+2424,Tablet,Windows,LG,42.3,True
+2425,Mobile,macOS,Apple,22.9,True
+2426,Laptop,macOS,LG,15.6,False
+2427,Smart TV,Windows,LG,50.5,True
+2428,Laptop,Android,HP,29.6,False
+2429,Mobile,Windows,Sony,41.2,False
+2430,Laptop,Linux,Samsung,14.9,True
+2431,Mobile,macOS,LG,9.7,False
+2432,Smart TV,macOS,Samsung,54.3,True
+2433,Tablet,Windows,Apple,12.6,True
+2434,Mobile,macOS,Apple,63.4,False
+2435,Mobile,iOS,HP,51.4,False
+2436,Laptop,Linux,Samsung,21.0,False
+2437,Tablet,Android,LG,22.2,False
+2438,Smart TV,Windows,Apple,53.0,False
+2439,Laptop,Android,Apple,6.3,True
+2440,Tablet,iOS,Sony,49.3,True
+2441,Laptop,Android,Samsung,13.0,False
+2442,Smart TV,Android,Apple,17.8,True
+2443,Tablet,Windows,LG,24.0,False
+2444,Mobile,Windows,HP,41.9,False
+2445,Laptop,Linux,Samsung,31.8,False
+2446,Mobile,Android,HP,32.2,False
+2447,Tablet,Windows,Samsung,42.7,False
+2448,Tablet,Windows,Samsung,22.9,False
+2449,Laptop,Android,Dell,33.6,True
+2450,Tablet,macOS,Apple,40.3,True
+2451,Laptop,macOS,Dell,39.7,False
+2452,Tablet,Windows,HP,60.5,False
+2453,Tablet,macOS,Sony,43.3,True
+2454,Tablet,Android,Dell,36.5,True
+2455,Laptop,Android,Sony,38.7,False
+2456,Mobile,Android,Samsung,51.4,True
+2457,Tablet,Android,Apple,11.7,False
+2458,Mobile,Linux,HP,51.4,False
+2459,Mobile,Windows,Samsung,10.6,False
+2460,Smart TV,Linux,Sony,45.4,False
+2461,Smart TV,Linux,Samsung,54.1,False
+2462,Mobile,Linux,LG,5.8,True
+2463,Smart TV,Android,Dell,60.0,True
+2464,Mobile,Linux,Dell,46.3,False
+2465,Mobile,iOS,LG,29.7,False
+2466,Laptop,Linux,Apple,16.1,True
+2467,Smart TV,Android,Samsung,7.3,False
+2468,Tablet,macOS,Dell,35.0,False
+2469,Smart TV,Android,Apple,53.6,True
+2470,Tablet,Android,Apple,44.6,True
+2471,Tablet,iOS,Sony,31.6,True
+2472,Tablet,iOS,Apple,17.8,False
+2473,Mobile,Linux,Apple,24.6,False
+2474,Smart TV,Windows,HP,16.6,True
+2475,Mobile,iOS,Samsung,61.5,True
+2476,Smart TV,macOS,Apple,64.9,False
+2477,Laptop,macOS,HP,15.0,False
+2478,Mobile,Linux,Sony,5.4,True
+2479,Mobile,macOS,Samsung,58.8,True
+2480,Smart TV,iOS,LG,32.4,False
+2481,Mobile,Android,Samsung,53.5,True
+2482,Laptop,Android,HP,39.9,True
+2483,Smart TV,macOS,Sony,45.8,True
+2484,Smart TV,Android,Samsung,23.2,True
+2485,Mobile,Windows,LG,14.0,True
+2486,Mobile,iOS,LG,54.7,False
+2487,Laptop,Windows,Apple,32.1,True
+2488,Smart TV,macOS,Apple,26.6,False
+2489,Tablet,Android,Dell,36.2,True
+2490,Tablet,macOS,Samsung,19.0,False
+2491,Tablet,iOS,LG,60.6,False
+2492,Tablet,iOS,LG,43.3,False
+2493,Smart TV,Windows,Dell,46.6,True
+2494,Smart TV,Windows,Apple,26.2,False
+2495,Mobile,Windows,HP,61.8,False
+2496,Laptop,iOS,HP,52.5,True
+2497,Tablet,Linux,HP,13.9,True
+2498,Laptop,Windows,LG,21.9,True
+2499,Smart TV,Linux,Apple,24.8,True
+2500,Mobile,Linux,LG,52.1,False
+2501,Smart TV,Windows,Sony,44.5,True
+2502,Smart TV,Windows,LG,49.6,False
+2503,Laptop,Android,HP,52.8,False
+2504,Mobile,Android,Sony,52.5,True
+2505,Smart TV,Android,Samsung,11.6,True
+2506,Laptop,Windows,Sony,51.9,True
+2507,Tablet,iOS,HP,16.9,True
+2508,Laptop,Android,Samsung,17.2,False
+2509,Smart TV,Windows,Dell,64.0,False
+2510,Mobile,Windows,Samsung,20.2,False
+2511,Laptop,iOS,HP,16.4,False
+2512,Tablet,Android,Sony,48.4,False
+2513,Smart TV,macOS,LG,31.4,False
+2514,Laptop,Android,Dell,40.8,True
+2515,Smart TV,iOS,Samsung,43.6,False
+2516,Laptop,iOS,LG,51.1,False
+2517,Smart TV,Android,LG,42.9,True
+2518,Mobile,Linux,Sony,53.8,False
+2519,Laptop,Windows,LG,41.5,False
+2520,Mobile,Android,Samsung,20.9,True
+2521,Mobile,Linux,Sony,20.1,False
+2522,Tablet,Linux,Sony,52.5,True
+2523,Mobile,macOS,LG,51.4,True
+2524,Mobile,iOS,LG,17.9,True
+2525,Laptop,Android,Apple,62.7,False
+2526,Mobile,Android,LG,43.4,True
+2527,Smart TV,Android,Sony,43.9,True
+2528,Laptop,Windows,Apple,10.8,True
+2529,Mobile,iOS,Apple,31.8,True
+2530,Smart TV,macOS,Sony,41.1,False
+2531,Laptop,Linux,Dell,29.4,True
+2532,Laptop,Android,Sony,44.8,True
+2533,Laptop,Android,LG,16.3,True
+2534,Mobile,Android,LG,5.8,False
+2535,Smart TV,Windows,Apple,32.6,False
+2536,Laptop,macOS,Dell,49.8,False
+2537,Mobile,Windows,HP,9.5,True
+2538,Laptop,Android,Sony,6.0,True
+2539,Smart TV,Windows,Apple,19.6,False
+2540,Mobile,iOS,LG,55.5,True
+2541,Smart TV,macOS,HP,47.3,True
+2542,Laptop,Windows,Dell,12.0,False
+2543,Smart TV,macOS,LG,62.9,False
+2544,Smart TV,macOS,Dell,8.3,False
+2545,Laptop,iOS,Dell,32.3,False
+2546,Smart TV,macOS,Apple,20.2,False
+2547,Laptop,Linux,Samsung,44.9,True
+2548,Laptop,Windows,HP,26.0,False
+2549,Laptop,Android,Samsung,37.6,True
+2550,Laptop,macOS,Apple,38.7,False
+2551,Mobile,Linux,Sony,21.3,True
+2552,Laptop,Linux,Dell,10.1,False
+2553,Mobile,Linux,Sony,9.0,False
+2554,Laptop,Windows,Dell,55.1,True
+2555,Smart TV,iOS,Sony,27.5,False
+2556,Smart TV,Android,Samsung,42.5,True
+2557,Laptop,Android,Apple,13.4,False
+2558,Laptop,iOS,LG,23.8,True
+2559,Mobile,iOS,Samsung,58.4,False
+2560,Mobile,Linux,LG,52.3,False
+2561,Laptop,Linux,Dell,48.2,False
+2562,Laptop,Windows,Dell,10.2,True
+2563,Smart TV,Linux,Samsung,54.2,False
+2564,Smart TV,macOS,Samsung,14.9,False
+2565,Smart TV,macOS,Sony,20.3,False
+2566,Laptop,macOS,HP,28.0,False
+2567,Tablet,iOS,Apple,13.9,False
+2568,Laptop,macOS,Sony,35.4,False
+2569,Tablet,Linux,HP,52.7,True
+2570,Mobile,Linux,Apple,8.5,True
+2571,Smart TV,Android,HP,60.7,True
+2572,Laptop,iOS,HP,12.5,True
+2573,Smart TV,Windows,LG,24.8,False
+2574,Laptop,macOS,Samsung,24.7,True
+2575,Laptop,Windows,Apple,61.2,False
+2576,Laptop,Windows,Apple,42.1,False
+2577,Laptop,iOS,LG,34.5,True
+2578,Laptop,Windows,HP,61.0,True
+2579,Smart TV,macOS,Apple,44.6,True
+2580,Mobile,Android,Apple,18.7,True
+2581,Tablet,Windows,LG,60.5,True
+2582,Mobile,Android,Sony,7.0,True
+2583,Laptop,iOS,Dell,52.2,False
+2584,Laptop,iOS,LG,12.9,False
+2585,Mobile,Android,Sony,25.9,True
+2586,Smart TV,iOS,Apple,19.6,True
+2587,Mobile,macOS,LG,39.5,False
+2588,Laptop,iOS,LG,10.7,True
+2589,Laptop,Linux,HP,52.6,False
+2590,Tablet,Linux,Samsung,16.4,False
+2591,Mobile,Android,Apple,14.3,True
+2592,Tablet,iOS,Apple,58.4,False
+2593,Tablet,macOS,Apple,37.3,False
+2594,Tablet,macOS,LG,12.9,True
+2595,Tablet,Linux,HP,13.5,False
+2596,Mobile,Linux,Apple,15.9,False
+2597,Mobile,Android,Samsung,17.6,True
+2598,Tablet,Linux,LG,23.8,False
+2599,Smart TV,Linux,LG,49.3,True
+2600,Smart TV,iOS,HP,41.2,True
+2601,Tablet,Linux,Sony,27.4,True
+2602,Tablet,iOS,Dell,27.3,False
+2603,Smart TV,Linux,Sony,26.6,True
+2604,Mobile,Android,Samsung,38.1,True
+2605,Mobile,macOS,HP,36.2,False
+2606,Laptop,Android,Samsung,27.3,False
+2607,Laptop,Android,LG,29.1,True
+2608,Mobile,Android,Sony,18.1,False
+2609,Laptop,iOS,HP,38.1,True
+2610,Mobile,Windows,Sony,6.0,False
+2611,Laptop,Windows,Dell,52.0,True
+2612,Mobile,iOS,Sony,19.7,True
+2613,Laptop,Android,HP,30.2,True
+2614,Tablet,Linux,Apple,5.1,False
+2615,Laptop,Linux,Sony,6.6,True
+2616,Tablet,Windows,Dell,23.8,True
+2617,Smart TV,iOS,HP,44.7,False
+2618,Smart TV,Windows,HP,38.1,False
+2619,Tablet,macOS,HP,5.7,False
+2620,Smart TV,Android,Sony,41.9,False
+2621,Laptop,Windows,Dell,34.0,False
+2622,Laptop,iOS,Samsung,16.5,True
+2623,Smart TV,Android,Sony,16.9,True
+2624,Tablet,Windows,Apple,58.9,True
+2625,Tablet,Android,LG,22.4,True
+2626,Mobile,Linux,LG,18.1,True
+2627,Tablet,Windows,Sony,63.6,True
+2628,Smart TV,Windows,Samsung,28.7,True
+2629,Tablet,Android,LG,15.6,True
+2630,Mobile,Windows,Samsung,40.0,True
+2631,Mobile,Linux,Sony,29.3,False
+2632,Smart TV,iOS,Apple,55.9,False
+2633,Mobile,macOS,Samsung,49.8,True
+2634,Mobile,macOS,LG,37.4,True
+2635,Smart TV,iOS,LG,19.3,True
+2636,Smart TV,macOS,Dell,32.6,False
+2637,Tablet,Linux,LG,42.9,False
+2638,Tablet,iOS,Sony,48.2,True
+2639,Smart TV,macOS,Dell,58.5,False
+2640,Tablet,macOS,HP,35.0,False
+2641,Smart TV,Linux,Sony,7.8,False
+2642,Smart TV,Linux,Apple,8.6,True
+2643,Tablet,Windows,LG,39.3,False
+2644,Tablet,Android,Sony,25.8,False
+2645,Mobile,macOS,HP,8.3,True
+2646,Mobile,Linux,Apple,6.2,True
+2647,Mobile,Android,HP,37.2,False
+2648,Mobile,macOS,Sony,28.7,True
+2649,Tablet,Windows,HP,53.6,True
+2650,Smart TV,Android,Apple,33.6,False
+2651,Smart TV,Linux,Samsung,63.7,True
+2652,Tablet,Windows,Samsung,18.7,True
+2653,Mobile,Android,Samsung,51.8,True
+2654,Smart TV,iOS,Sony,7.6,True
+2655,Smart TV,iOS,Dell,7.7,True
+2656,Tablet,macOS,Apple,24.0,False
+2657,Laptop,Linux,Sony,59.4,False
+2658,Mobile,iOS,HP,56.2,True
+2659,Mobile,iOS,HP,7.5,True
+2660,Laptop,iOS,LG,63.7,True
+2661,Smart TV,Linux,Apple,29.6,False
+2662,Laptop,Windows,Sony,18.2,False
+2663,Laptop,Android,HP,31.7,True
+2664,Smart TV,Windows,Apple,7.2,True
+2665,Mobile,Android,LG,18.0,True
+2666,Laptop,macOS,Samsung,23.7,False
+2667,Smart TV,macOS,Sony,59.4,True
+2668,Smart TV,Linux,Dell,16.4,False
+2669,Mobile,Windows,Samsung,56.7,True
+2670,Mobile,iOS,HP,44.5,False
+2671,Tablet,Linux,LG,37.8,False
+2672,Tablet,Linux,HP,52.1,True
+2673,Laptop,macOS,Dell,64.4,True
+2674,Mobile,Windows,Dell,13.4,False
+2675,Mobile,Linux,Apple,59.3,True
+2676,Tablet,Android,Samsung,58.7,False
+2677,Tablet,iOS,Apple,46.0,True
+2678,Mobile,Windows,LG,6.6,True
+2679,Laptop,Android,Sony,35.5,False
+2680,Laptop,Windows,LG,55.9,True
+2681,Mobile,iOS,LG,45.1,True
+2682,Mobile,Linux,Sony,33.5,True
+2683,Laptop,iOS,HP,55.3,True
+2684,Tablet,iOS,LG,45.6,True
+2685,Laptop,Linux,Apple,48.7,True
+2686,Mobile,Linux,Sony,29.0,True
+2687,Mobile,Linux,Samsung,48.2,True
+2688,Mobile,Linux,LG,23.4,False
+2689,Laptop,Linux,Dell,23.6,True
+2690,Smart TV,macOS,LG,9.5,False
+2691,Mobile,Linux,LG,55.1,True
+2692,Laptop,macOS,Samsung,52.7,False
+2693,Mobile,Linux,Apple,17.5,True
+2694,Laptop,Windows,LG,18.6,False
+2695,Tablet,iOS,HP,18.2,True
+2696,Tablet,iOS,Apple,31.3,False
+2697,Laptop,Linux,HP,10.1,False
+2698,Laptop,macOS,LG,14.5,False
+2699,Tablet,iOS,HP,14.2,False
+2700,Smart TV,Android,Dell,35.5,False
+2701,Laptop,Windows,LG,50.6,False
+2702,Mobile,macOS,LG,47.7,False
+2703,Mobile,Windows,Samsung,25.7,True
+2704,Tablet,Android,Samsung,6.0,True
+2705,Laptop,Android,HP,29.1,False
+2706,Laptop,Windows,Dell,59.3,True
+2707,Laptop,Android,Sony,40.8,False
+2708,Laptop,Linux,Samsung,19.8,False
+2709,Laptop,Windows,LG,13.1,True
+2710,Mobile,iOS,Sony,5.6,True
+2711,Smart TV,macOS,LG,63.2,True
+2712,Tablet,Android,LG,59.1,False
+2713,Laptop,Android,HP,30.3,False
+2714,Mobile,Linux,Sony,12.2,True
+2715,Tablet,Linux,Apple,17.9,False
+2716,Tablet,iOS,Samsung,20.7,True
+2717,Tablet,Windows,Apple,10.7,False
+2718,Laptop,Linux,Samsung,27.0,True
+2719,Smart TV,iOS,Apple,42.4,True
+2720,Laptop,iOS,Apple,25.8,False
+2721,Smart TV,Linux,Sony,24.2,True
+2722,Laptop,Windows,Apple,39.7,True
+2723,Smart TV,macOS,Samsung,21.2,True
+2724,Smart TV,macOS,Apple,43.7,True
+2725,Mobile,Linux,LG,5.4,True
+2726,Tablet,Android,LG,60.9,False
+2727,Mobile,Windows,Samsung,11.0,True
+2728,Laptop,Android,Dell,45.7,True
+2729,Smart TV,Android,Samsung,55.0,True
+2730,Smart TV,Android,HP,28.2,False
+2731,Mobile,macOS,Samsung,6.7,True
+2732,Tablet,Linux,LG,25.3,True
+2733,Mobile,macOS,Sony,27.1,True
+2734,Smart TV,Linux,HP,56.2,True
+2735,Mobile,iOS,Dell,25.3,False
+2736,Mobile,Linux,LG,60.8,True
+2737,Mobile,iOS,Apple,50.5,True
+2738,Mobile,macOS,Sony,36.9,False
+2739,Laptop,Android,Sony,16.0,False
+2740,Smart TV,Windows,LG,19.5,False
+2741,Tablet,iOS,Samsung,21.0,False
+2742,Laptop,Linux,Dell,50.5,True
+2743,Laptop,macOS,Dell,59.7,False
+2744,Laptop,Android,Sony,63.4,True
+2745,Mobile,iOS,Dell,63.4,False
+2746,Tablet,Android,LG,9.5,False
+2747,Tablet,Windows,Samsung,60.0,True
+2748,Mobile,Linux,LG,30.4,True
+2749,Smart TV,iOS,HP,61.0,False
+2750,Laptop,macOS,Apple,15.0,False
+2751,Tablet,Windows,Dell,33.9,False
+2752,Tablet,macOS,Apple,59.3,True
+2753,Mobile,iOS,Sony,62.5,True
+2754,Laptop,Android,LG,56.5,False
+2755,Mobile,iOS,LG,14.2,False
+2756,Smart TV,Windows,Sony,39.8,True
+2757,Smart TV,Android,Dell,7.8,True
+2758,Tablet,macOS,LG,29.0,True
+2759,Tablet,Windows,HP,19.7,True
+2760,Tablet,Linux,LG,61.8,False
+2761,Smart TV,Android,Dell,64.2,False
+2762,Mobile,Windows,Dell,20.3,True
+2763,Tablet,Windows,LG,41.7,True
+2764,Smart TV,macOS,Apple,5.6,False
+2765,Smart TV,Linux,HP,56.5,True
+2766,Smart TV,Linux,Sony,7.6,True
+2767,Smart TV,Windows,LG,57.0,True
+2768,Laptop,Linux,HP,51.3,True
+2769,Laptop,Android,Samsung,51.7,False
+2770,Smart TV,Linux,Sony,58.9,False
+2771,Smart TV,iOS,Sony,29.7,False
+2772,Laptop,Windows,Sony,12.8,True
+2773,Smart TV,iOS,HP,17.4,False
+2774,Laptop,Windows,Samsung,55.3,True
+2775,Smart TV,Windows,Dell,9.1,False
+2776,Laptop,Android,LG,60.7,False
+2777,Tablet,iOS,LG,32.6,False
+2778,Smart TV,macOS,LG,51.0,False
+2779,Mobile,Windows,LG,7.1,True
+2780,Smart TV,iOS,Dell,13.9,False
+2781,Laptop,macOS,Sony,10.9,True
+2782,Mobile,iOS,Samsung,27.3,True
+2783,Laptop,macOS,Dell,47.6,True
+2784,Tablet,Linux,Dell,34.6,False
+2785,Laptop,Windows,Apple,48.1,True
+2786,Tablet,Linux,LG,58.9,True
+2787,Mobile,iOS,LG,54.5,True
+2788,Mobile,Windows,HP,49.9,True
+2789,Mobile,iOS,LG,49.8,True
+2790,Mobile,Windows,HP,5.6,True
+2791,Tablet,Windows,LG,10.1,True
+2792,Laptop,Windows,Dell,63.7,False
+2793,Laptop,Linux,HP,60.9,True
+2794,Laptop,Windows,Apple,45.2,False
+2795,Mobile,iOS,Apple,41.2,True
+2796,Tablet,iOS,Apple,25.0,False
+2797,Mobile,Windows,Apple,10.1,True
+2798,Mobile,iOS,LG,29.6,False
+2799,Mobile,Windows,HP,48.5,False
+2800,Mobile,iOS,LG,35.8,True
+2801,Laptop,Windows,Sony,29.9,True
+2802,Tablet,Linux,HP,55.8,True
+2803,Laptop,iOS,HP,43.4,False
+2804,Tablet,macOS,LG,17.0,False
+2805,Laptop,Windows,LG,30.6,False
+2806,Laptop,Android,LG,56.3,False
+2807,Mobile,Android,HP,49.9,True
+2808,Smart TV,Android,Sony,55.0,False
+2809,Mobile,iOS,HP,5.2,False
+2810,Smart TV,Windows,Sony,24.0,False
+2811,Mobile,iOS,LG,21.4,False
+2812,Smart TV,Windows,LG,48.4,True
+2813,Tablet,Android,Sony,27.9,True
+2814,Tablet,iOS,LG,41.3,True
+2815,Laptop,Linux,Samsung,27.9,False
+2816,Mobile,macOS,Sony,62.0,False
+2817,Laptop,macOS,Apple,32.5,False
+2818,Smart TV,Android,HP,42.7,False
+2819,Smart TV,macOS,HP,55.5,False
+2820,Smart TV,Windows,Dell,19.0,False
+2821,Mobile,iOS,Apple,60.5,False
+2822,Laptop,iOS,HP,38.7,False
+2823,Tablet,iOS,HP,42.6,True
+2824,Tablet,Linux,Dell,40.1,False
+2825,Mobile,Windows,Sony,27.3,True
+2826,Smart TV,macOS,LG,21.0,True
+2827,Mobile,Linux,LG,26.1,False
+2828,Mobile,Android,Apple,12.5,False
+2829,Mobile,Android,LG,36.6,True
+2830,Smart TV,macOS,Apple,22.1,True
+2831,Smart TV,iOS,Apple,46.8,False
+2832,Smart TV,Linux,Sony,43.8,False
+2833,Tablet,Windows,Sony,11.0,True
+2834,Smart TV,Windows,Apple,29.7,False
+2835,Mobile,Linux,Dell,40.8,True
+2836,Laptop,Linux,Dell,35.3,True
+2837,Tablet,Android,LG,63.8,True
+2838,Laptop,iOS,Dell,30.1,False
+2839,Laptop,Linux,Samsung,34.6,False
+2840,Laptop,Android,Sony,14.1,False
+2841,Smart TV,iOS,Samsung,7.2,True
+2842,Tablet,iOS,Sony,46.7,False
+2843,Laptop,macOS,Dell,12.8,False
+2844,Tablet,Linux,LG,26.1,True
+2845,Laptop,Android,Samsung,6.6,False
+2846,Laptop,macOS,Apple,9.8,True
+2847,Laptop,iOS,HP,34.6,False
+2848,Mobile,Linux,Dell,53.0,False
+2849,Smart TV,Linux,Dell,62.6,True
+2850,Laptop,iOS,Samsung,41.6,True
+2851,Laptop,iOS,LG,58.9,False
+2852,Mobile,Android,Dell,63.2,True
+2853,Laptop,Linux,Dell,45.5,False
+2854,Smart TV,iOS,Dell,9.2,False
+2855,Mobile,iOS,Sony,30.7,False
+2856,Smart TV,macOS,Dell,53.4,False
+2857,Tablet,macOS,HP,26.0,True
+2858,Laptop,macOS,LG,7.3,False
+2859,Smart TV,Linux,HP,32.9,True
+2860,Mobile,Windows,Samsung,31.0,False
+2861,Tablet,iOS,LG,32.1,False
+2862,Mobile,macOS,Apple,9.4,False
+2863,Mobile,iOS,Samsung,26.9,True
+2864,Mobile,Windows,Apple,31.9,True
+2865,Laptop,Linux,Apple,61.9,False
+2866,Smart TV,Windows,Dell,47.1,False
+2867,Tablet,Windows,Dell,8.7,True
+2868,Laptop,Linux,Dell,63.6,False
+2869,Mobile,macOS,Apple,16.3,True
+2870,Laptop,macOS,Sony,57.5,True
+2871,Tablet,macOS,LG,30.9,True
+2872,Smart TV,macOS,LG,8.0,False
+2873,Smart TV,Windows,Samsung,9.2,False
+2874,Mobile,iOS,Sony,14.9,True
+2875,Smart TV,Android,Sony,51.6,False
+2876,Mobile,Windows,HP,63.7,False
+2877,Smart TV,Windows,HP,41.5,False
+2878,Tablet,Linux,LG,27.2,False
+2879,Mobile,Windows,Samsung,25.3,True
+2880,Smart TV,Linux,Apple,14.6,False
+2881,Laptop,iOS,HP,60.9,False
+2882,Tablet,Windows,Dell,43.9,False
+2883,Smart TV,Windows,LG,9.4,False
+2884,Laptop,iOS,Apple,57.3,True
+2885,Smart TV,Android,Apple,37.2,True
+2886,Mobile,Linux,Dell,19.3,True
+2887,Laptop,macOS,LG,59.2,True
+2888,Tablet,macOS,HP,15.2,True
+2889,Tablet,Linux,HP,22.2,False
+2890,Tablet,iOS,Dell,64.0,False
+2891,Smart TV,iOS,Samsung,10.6,False
+2892,Laptop,macOS,Dell,10.3,False
+2893,Tablet,iOS,Dell,38.3,True
+2894,Mobile,Android,HP,6.9,False
+2895,Smart TV,iOS,LG,22.2,True
+2896,Smart TV,macOS,Samsung,54.3,True
+2897,Laptop,Windows,LG,56.7,True
+2898,Tablet,macOS,LG,55.0,False
+2899,Smart TV,Windows,Apple,37.4,True
+2900,Tablet,iOS,Samsung,6.9,False
+2901,Tablet,Windows,Apple,59.3,True
+2902,Tablet,Android,Dell,16.5,False
+2903,Laptop,Android,HP,52.4,True
+2904,Smart TV,Linux,Dell,59.3,True
+2905,Tablet,iOS,Dell,45.6,False
+2906,Laptop,macOS,HP,58.7,False
+2907,Tablet,macOS,Dell,24.4,False
+2908,Mobile,iOS,Samsung,53.0,True
+2909,Laptop,macOS,Samsung,22.9,False
+2910,Laptop,Windows,HP,62.3,False
+2911,Smart TV,iOS,HP,50.7,False
+2912,Mobile,Android,Apple,54.3,False
+2913,Tablet,macOS,Apple,30.1,True
+2914,Tablet,iOS,Sony,55.2,True
+2915,Laptop,Windows,LG,46.5,False
+2916,Laptop,Windows,LG,29.3,True
+2917,Smart TV,Android,Dell,23.5,True
+2918,Laptop,iOS,Apple,8.5,True
+2919,Tablet,Linux,Apple,15.8,True
+2920,Mobile,iOS,Dell,61.1,True
+2921,Smart TV,Android,Dell,62.0,False
+2922,Mobile,Android,Samsung,36.4,False
+2923,Laptop,Linux,HP,30.1,False
+2924,Mobile,Android,Dell,34.3,True
+2925,Laptop,iOS,LG,54.1,True
+2926,Mobile,iOS,Dell,11.8,True
+2927,Laptop,Android,LG,24.2,True
+2928,Smart TV,Linux,Samsung,62.5,True
+2929,Smart TV,macOS,LG,37.9,False
+2930,Mobile,iOS,Samsung,37.5,True
+2931,Laptop,macOS,LG,63.0,True
+2932,Mobile,macOS,LG,48.4,False
+2933,Smart TV,macOS,Samsung,52.1,True
+2934,Laptop,Android,HP,43.6,False
+2935,Tablet,Linux,Sony,35.8,False
+2936,Mobile,Linux,Apple,50.5,False
+2937,Tablet,Android,Dell,14.8,False
+2938,Laptop,macOS,LG,8.3,False
+2939,Laptop,macOS,HP,56.6,False
+2940,Tablet,Windows,LG,54.9,False
+2941,Laptop,Android,HP,9.9,False
+2942,Smart TV,Android,LG,64.4,True
+2943,Tablet,iOS,Samsung,12.3,False
+2944,Tablet,Linux,LG,5.1,True
+2945,Mobile,macOS,Samsung,16.1,True
+2946,Laptop,Android,Dell,7.1,False
+2947,Laptop,Linux,LG,41.9,False
+2948,Laptop,Windows,Sony,50.0,True
+2949,Tablet,macOS,Samsung,23.1,True
+2950,Laptop,iOS,Samsung,47.7,True
+2951,Mobile,iOS,Sony,7.2,True
+2952,Smart TV,Linux,Dell,58.7,True
+2953,Mobile,macOS,LG,28.4,True
+2954,Mobile,Linux,Sony,14.0,True
+2955,Laptop,macOS,Samsung,51.6,True
+2956,Laptop,Linux,Samsung,47.0,False
+2957,Mobile,Linux,Dell,22.7,False
+2958,Mobile,iOS,Sony,40.6,False
+2959,Smart TV,macOS,Sony,13.1,False
+2960,Tablet,Windows,Sony,62.4,True
+2961,Tablet,Linux,Samsung,11.9,True
+2962,Smart TV,Android,Sony,24.1,True
+2963,Smart TV,Windows,LG,56.6,True
+2964,Laptop,Windows,Apple,36.6,False
+2965,Smart TV,Windows,Sony,13.9,False
+2966,Laptop,Android,Sony,27.7,True
+2967,Mobile,iOS,Samsung,6.0,True
+2968,Laptop,iOS,HP,60.7,False
+2969,Smart TV,Windows,Samsung,15.3,True
+2970,Laptop,macOS,Sony,33.7,False
+2971,Tablet,Windows,Samsung,48.4,True
+2972,Laptop,Android,Sony,35.8,False
+2973,Tablet,Windows,HP,31.2,True
+2974,Mobile,Linux,Sony,60.8,False
+2975,Tablet,Windows,HP,30.7,True
+2976,Mobile,Linux,HP,53.1,True
+2977,Smart TV,Android,Sony,27.8,False
+2978,Mobile,macOS,LG,63.8,False
+2979,Smart TV,Linux,HP,28.7,True
+2980,Mobile,Linux,Apple,27.4,True
+2981,Mobile,macOS,Dell,25.8,True
+2982,Mobile,iOS,LG,60.2,False
+2983,Laptop,Android,LG,60.2,False
+2984,Tablet,macOS,Apple,56.1,True
+2985,Mobile,iOS,Sony,37.7,True
+2986,Laptop,Linux,Sony,54.4,True
+2987,Mobile,Linux,LG,63.4,False
+2988,Laptop,Windows,HP,44.9,True
+2989,Smart TV,Android,Apple,61.9,True
+2990,Laptop,Windows,Sony,37.7,False
+2991,Laptop,iOS,Apple,40.1,True
+2992,Smart TV,iOS,Samsung,33.0,True
+2993,Smart TV,Android,HP,33.6,True
+2994,Mobile,iOS,Apple,45.3,False
+2995,Mobile,Windows,HP,17.6,False
+2996,Smart TV,Linux,Apple,60.5,True
+2997,Laptop,iOS,Apple,60.7,False
+2998,Tablet,Android,Sony,29.1,True
+2999,Smart TV,Linux,Dell,45.4,False
+3000,Tablet,iOS,Sony,47.5,False
