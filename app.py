@@ -4,50 +4,50 @@ import numpy as np
 import pickle
 from datetime import date
 
-# ---------- Load CatBoost Model ----------
+# Load the trained CatBoost model
 with open("catboost_model.pkl", "rb") as file:
     model = pickle.load(file)
 
-# ---------- Page Configuration ----------
+# Streamlit page config
 st.set_page_config(page_title="🎬 Movie Like Predictor", layout="centered")
 
-# ---------- Custom CSS ----------
+# CSS for background and style
 st.markdown(
-    f"""
+    """
     <style>
-    .stApp {{
-        background-image: url("https://images.unsplash.com/photo-1598899134739-6e7e94b9f2a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80");
+    .stApp {
+        background-image: url("https://images.unsplash.com/photo-1566429580693-195fc7383476?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80");
         background-size: cover;
         background-position: center;
+        background-repeat: no-repeat;
         background-attachment: fixed;
-        color: white;
-    }}
-    .main-container {{
-        background-color: rgba(0, 0, 0, 0.7);
+    }
+    .block-container {
+        background-color: rgba(0, 0, 0, 0.65);
         padding: 2rem;
         border-radius: 15px;
-    }}
-    .logo {{
+        margin-top: 20px;
+        color: white;
+    }
+    .logo {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 120px;
-    }}
-    h1 {{
-        text-align: center;
+        width: 100px;
+    }
+    h1, label, .stTextInput, .stSelectbox, .stSlider {
         color: white;
-        font-size: 36px;
-    }}
+    }
     </style>
     """,
     unsafe_allow_html=True
 )
 
-# ---------- Logo & Title ----------
+# Logo and title
 st.markdown('<img src="https://cdn-icons-png.flaticon.com/512/744/744922.png" class="logo">', unsafe_allow_html=True)
-st.markdown("<h1>🎬 Movie Like Prediction System</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🎬 Movie Like Predictor</h1>", unsafe_allow_html=True)
 
-# ---------- Label Encoders Used in Training ----------
+# Label mappings (used during training)
 label_maps = {
     'watch_time_slot': {'Morning': 0, 'Afternoon': 1, 'Evening': 2, 'Night': 3},
     'gender': {'Male': 0, 'Female': 1},
@@ -61,15 +61,18 @@ label_maps = {
     'supports_hd': {'No': 0, 'Yes': 1}
 }
 
-# ---------- Form Input ----------
-with st.form("input_form"):
-    st.markdown('<div class="main-container">', unsafe_allow_html=True)
+# Form input block
+with st.container():
+    st.markdown('<div class="block-container">', unsafe_allow_html=True)
 
     watch_date = st.date_input("Watch Date").toordinal()
     watch_duration = st.slider("Watch Duration (mins)", 10, 300, 90)
     watch_time_slot = st.selectbox("Watch Time Slot", list(label_maps['watch_time_slot'].keys()))
     rating_given = st.slider("User Rating", 0.0, 5.0, 3.5, step=0.1)
-    completed = st.selectbox("Completed Watching?", [0, 1])
+
+    completed_option = st.selectbox("Completed Watching?", ["No", "Yes"])
+    completed = 1 if completed_option == "Yes" else 0
+
     age = st.slider("Viewer Age", 10, 100, 30)
     gender = st.selectbox("Gender", list(label_maps['gender'].keys()))
     membership_type = st.selectbox("Membership Type", list(label_maps['membership_type'].keys()))
@@ -85,10 +88,11 @@ with st.form("input_form"):
     screen_size_inch = st.slider("Screen Size (inch)", 4.0, 80.0, 15.6)
     supports_hd = st.selectbox("Supports HD?", list(label_maps['supports_hd'].keys()))
 
-    submit = st.form_submit_button("Predict")
-    st.markdown('</div>', unsafe_allow_html=True)
+    submit = st.button("Predict 🎯")
 
-# ---------- Prediction ----------
+    st.markdown("</div>", unsafe_allow_html=True)
+
+# Prediction logic
 if submit:
     input_data = pd.DataFrame([[
         watch_date,
